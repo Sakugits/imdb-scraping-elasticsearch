@@ -20,6 +20,9 @@ def getGenders(movipage, genders):
 
 def getScore(moviepage):
     score.append(moviepage.find('span', attrs={'class': 'sc-7ab21ed2-1 jGRxWM'}).text)
+
+def getYear(moviepage):
+    year.append(moviepage.find('a', attrs={'class': 'ipc-link ipc-link--baseAlt ipc-link--inherit-color sc-8c396aa2-1 WIUyh'}).text)
     
 
 def getWriters(moviepage, writers):
@@ -32,9 +35,27 @@ def getWriters(moviepage, writers):
     for writer in writers_list:
         writers.append(writer.a.text)
 
+def getSummaries(moviepage, storyline):
+    r = requests.get('http://www.imdb.com/title/tt2077826/plotsummary')
+    r.status_code
+    r.headers['Content-Type']
+    imdbplot = BeautifulSoup(r.text, 'html.parser')
+    content_ul = imdbplot.find('ul', attrs={'id' : 'plot-summaries-content'})
+    list_summaries = content_ul.find_all('li')
+    for summary in list_summaries:
+        summaries.append(summary.p.text)
+
+def getSynopsis(moviepage, synopsis):
+    r = requests.get('http://www.imdb.com/title/tt2077826/plotsummary')
+    r.status_code
+    r.headers['Content-Type']
+    imdbplot = BeautifulSoup(r.text, 'html.parser')
+    synopsis.append(imdbplot.find('ul', attrs={'id' : 'plot-synopsis-content'}).li.text)
 
 
-r = requests.get('https://www.imdb.com/title/tt3703750/')
+
+
+r = requests.get('http://www.imdb.com/title/tt2077826/')
 
 r.status_code
 r.headers['Content-Type']
@@ -44,17 +65,14 @@ writers = []
 genders = []
 title = []
 score = []
-storyline = []
+summaries = []
+synopsis = []
+year = []
 
 getTitle(imdb)
-gender = imdb.find_all('storyline-genres')
-poster = imdb.find('div', class_='ipc-media ipc-media--poster-27x40 ipc-image-media-ratio--poster-27x40 ipc-media--baseAlt ipc-media--poster-l ipc-poster__poster-image ipc-media__img').img
-aux_guion = imdb.find('div', class_='sc-fa02f843-0 fjLeDR')
-guion = aux_guion.select('a', class_='ipc-metadata-list-item__list-content-item')
-content_div_sto = imdb.select('section', attrs={'data-testid' :'Storyline'})
-trythis = imdb.findAll("div", class_="sc-132205f7-0 bJEfgD")
-print(trythis)
-print(content_div_sto)
+getYear(imdb)
+getSynopsis('https://www.imdb.com/title/tt3703750/', synopsis)
+getSummaries('https://www.imdb.com/title/tt3703750/', summaries)
 getWriters(imdb, writers)
 getScore(imdb)
 getGenders(imdb, genders)
@@ -63,9 +81,15 @@ getDirectors(imdb, directors)
 
 
 
+
+
+print(year)
 #Titulo
+print (summaries)
+print (len(summaries))
+print(synopsis)
+print (len(synopsis))
 print(title)
-print(storyline)
 print(writers)
 print(score)
 print(genders)
