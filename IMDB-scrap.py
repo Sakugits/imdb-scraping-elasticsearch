@@ -1,6 +1,8 @@
 import requests
 from bs4 import BeautifulSoup
 from html.parser import HTMLParser
+import numpy as np
+import pandas as pd
 
 #Function to get all the directors
 def getDirectors(moviepage, directors):
@@ -35,8 +37,8 @@ def getWriters(moviepage, writers):
     for writer in writers_list:
         writers.append(writer.a.text)
 
-def getSummaries(moviepage, storyline):
-    r = requests.get('http://www.imdb.com/title/tt2077826/plotsummary')
+def getSummaries(moviepage_link, storyline):
+    r = requests.get(moviepage_link + '/plotsummary')
     r.status_code
     r.headers['Content-Type']
     imdbplot = BeautifulSoup(r.text, 'html.parser')
@@ -45,8 +47,8 @@ def getSummaries(moviepage, storyline):
     for summary in list_summaries:
         summaries.append(summary.p.text)
 
-def getSynopsis(moviepage, synopsis):
-    r = requests.get('http://www.imdb.com/title/tt2077826/plotsummary')
+def getSynopsis(moviepage_link, synopsis):
+    r = requests.get(moviepage_link + '/plotsummary')
     r.status_code
     r.headers['Content-Type']
     imdbplot = BeautifulSoup(r.text, 'html.parser')
@@ -54,44 +56,61 @@ def getSynopsis(moviepage, synopsis):
 
 
 
-
-r = requests.get('http://www.imdb.com/title/tt2077826/')
-
-r.status_code
-r.headers['Content-Type']
-imdb = BeautifulSoup(r.text, 'html.parser')
-directors = []
-writers = []
-genders = []
-title = []
-score = []
-summaries = []
-synopsis = []
-year = []
-
-getTitle(imdb)
-getYear(imdb)
-getSynopsis('https://www.imdb.com/title/tt3703750/', synopsis)
-getSummaries('https://www.imdb.com/title/tt3703750/', summaries)
-getWriters(imdb, writers)
-getScore(imdb)
-getGenders(imdb, genders)
-getDirectors(imdb, directors)
+def getMovieLinksFromExcel(path):
+    movie_links = pd.read_excel(path, usecols="B").to_numpy()
+    return movie_links
 
 
 
+movie_links = getMovieLinksFromExcel("MovieGenreIGC_v3.xlsx")
+
+for row in range (movie_links.shape[0] - 39930 ):
+    r = requests.get(movie_links[row][0])
+
+    r.status_code
+    r.headers['Content-Type']
+    imdb = BeautifulSoup(r.text, 'html.parser')
+    print(imdb)
+    directors = []
+    writers = []
+    genders = []
+    title = []
+    score = []
+    summaries = []
+    synopsis = []
+    year = []
+
+    getTitle(imdb)
+    getYear(imdb)
+    getSynopsis(movie_links[row][0], synopsis)
+    getSummaries(movie_links[row][0], summaries)
+    getWriters(imdb, writers)
+    getScore(imdb)
+    getGenders(imdb, genders)
+    getDirectors(imdb, directors)
+
+
+    movie = {'Title' : title, 'Year' :  year, 'Genders' : genders, 'Score' : score, 'Directors' : directors, 'Writers' : writers, 'Synopsis' : synopsis, 'Summaries' : summaries}
+    print (movie)
 
 
 
-print(year)
+
+
+
+
+
+
+#print(year)
+#print((movie_links[1][0]))
 #Titulo
-print (summaries)
-print (len(summaries))
-print(synopsis)
-print (len(synopsis))
-print(title)
-print(writers)
-print(score)
-print(genders)
-print(directors)
+#print (summaries)
+#print (len(summaries))
+#print(synopsis)
+#print (len(synopsis))
+#print(title)
+#print(writers)
+#print(score)
+#print(genders)
+#print(directors)
 
