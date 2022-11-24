@@ -3,6 +3,8 @@ from bs4 import BeautifulSoup
 from html.parser import HTMLParser
 import numpy as np
 import pandas as pd
+import time
+import json
 
 #Function to get all the directors
 def getDirectors(moviepage, directors):
@@ -12,7 +14,7 @@ def getDirectors(moviepage, directors):
         directors.append(director.a.text)
 
 def getTitle(moviepage):
-    title.append(moviepage.select_one('h1').text)
+    return moviepage.select_one('h1').text
 
 def getGenders(movipage, genders):
     gender_data = movipage.find('div', attrs={'data-testid' : 'genres'})
@@ -21,10 +23,10 @@ def getGenders(movipage, genders):
         genders.append(gender.text)
 
 def getScore(moviepage):
-    score.append(moviepage.find('span', attrs={'class': 'sc-7ab21ed2-1 jGRxWM'}).text)
+    return float(moviepage.find('span', attrs={'class': 'sc-7ab21ed2-1 jGRxWM'}).text)
 
 def getYear(moviepage):
-    year.append(moviepage.find('a', attrs={'class': 'ipc-link ipc-link--baseAlt ipc-link--inherit-color sc-8c396aa2-1 WIUyh'}).text)
+    return int(moviepage.find('a', attrs={'class': 'ipc-link ipc-link--baseAlt ipc-link--inherit-color sc-8c396aa2-1 WIUyh'}).text)
     
 
 def getWriters(moviepage, writers):
@@ -37,23 +39,24 @@ def getWriters(moviepage, writers):
     for writer in writers_list:
         writers.append(writer.a.text)
 
-def getSummaries(moviepage_link, storyline):
+def getSummariesAndSynopsis(moviepage_link, synopsis, summaries):
     r = requests.get(moviepage_link + '/plotsummary')
     r.status_code
     r.headers['Content-Type']
     imdbplot = BeautifulSoup(r.text, 'html.parser')
+    synopsis.append(imdbplot.find('ul', attrs={'id' : 'plot-synopsis-content'}).li.text)
     content_ul = imdbplot.find('ul', attrs={'id' : 'plot-summaries-content'})
     list_summaries = content_ul.find_all('li')
     for summary in list_summaries:
         summaries.append(summary.p.text)
-
+"""
 def getSynopsis(moviepage_link, synopsis):
     r = requests.get(moviepage_link + '/plotsummary')
     r.status_code
     r.headers['Content-Type']
     imdbplot = BeautifulSoup(r.text, 'html.parser')
     synopsis.append(imdbplot.find('ul', attrs={'id' : 'plot-synopsis-content'}).li.text)
-
+"""
 
 
 def getMovieLinksFromExcel(path):
@@ -64,34 +67,82 @@ def getMovieLinksFromExcel(path):
 
 movie_links = getMovieLinksFromExcel("MovieGenreIGC_v3.xlsx")
 
-for row in range (movie_links.shape[0] - 39930 ):
-    r = requests.get(movie_links[row][0])
-
+movies = []
+row = 0
+while (row <= 10000): #Esto seria para un el total de peliculas: 39967
+    headers = {'Accept-Language': 'en-US,en;q=0.5', 'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36'}
+    r = requests.get(movie_links[row][0], headers=headers) #Esta linea es a la que me refiero, le ejecucion de esta linea demora 1.5 segundos (lo he medido)
     r.status_code
     r.headers['Content-Type']
     imdb = BeautifulSoup(r.text, 'html.parser')
-    print(imdb)
     directors = []
     writers = []
     genders = []
-    title = []
-    score = []
     summaries = []
     synopsis = []
-    year = []
 
-    getTitle(imdb)
-    getYear(imdb)
-    getSynopsis(movie_links[row][0], synopsis)
-    getSummaries(movie_links[row][0], summaries)
-    getWriters(imdb, writers)
-    getScore(imdb)
-    getGenders(imdb, genders)
-    getDirectors(imdb, directors)
+    start_time = time.time()
+    try:
+        title = getTitle(imdb)
+    except:
+        title = None
+    try:
+        score = getScore(imdb)
+    except:
+        score = None
+    try:
+        year = getYear(imdb)
+    except:
+        year = None
+    try:
+        getGenders(imdb, genders)
+    except:
+        genders = []
+
+    try:
+        getDirectors(imdb, directors)
+    except:
+        directors = []
+
+    getSummariesAndSynopsis(movie_links[row][0], synopsis, summaries)
+    
+    try:
+        getWriters(imdb, writers)
+    except:
+        writers = []
+
+    #print(title)
+    #print(year)
+    #print (summaries)
+    #print (len(summaries))
+    #print(synopsis)
+    #print (len(synopsis))
+    #print(title)
+    #print(writers)
+    #print(score)
+    #print(genders)
+    #print(directors)
 
 
-    movie = {'Title' : title, 'Year' :  year, 'Genders' : genders, 'Score' : score, 'Directors' : directors, 'Writers' : writers, 'Synopsis' : synopsis, 'Summaries' : summaries}
-    print (movie)
+    movie = {
+        'title' : title,
+        'year' :  year,
+        'genders' : genders, 
+        'score' : score, 
+        'directors' : directors, 
+        'writers' : writers, 
+        'synopsis' : synopsis, 
+        'summaries' : summaries
+    }
+    print (title)
+    movies.append(movie)
+    row += 3
+
+j = json.dumps(movies, indent=4)
+with open('movies.json', 'w') as f:
+    f.write(j)
+    f.close
+
 
 
 
