@@ -44,11 +44,14 @@ def getSummariesAndSynopsis(moviepage_link, synopsis, summaries):
     r.status_code
     r.headers['Content-Type']
     imdbplot = BeautifulSoup(r.text, 'html.parser')
-    synopsis.append(imdbplot.find('ul', attrs={'id' : 'plot-synopsis-content'}).li.text)
     content_ul = imdbplot.find('ul', attrs={'id' : 'plot-summaries-content'})
     list_summaries = content_ul.find_all('li')
     for summary in list_summaries:
         summaries.append(summary.p.text)
+    if(imdbplot.find('ul', attrs={'id' : 'plot-synopsis-content'}).li.text == '\nIt looks like we don\'t have a Synopsis for this title yet. Be the first to contribute! Just click the "Edit page" button at the bottom of the page or learn more in the Synopsis submission guide.\n'):
+           return
+    else:
+        synopsis.append(imdbplot.find('ul', attrs={'id' : 'plot-synopsis-content'}).li.text)
 """
 def getSynopsis(moviepage_link, synopsis):
     r = requests.get(moviepage_link + '/plotsummary')
@@ -63,18 +66,26 @@ def getMovieLinksFromExcel(path):
     movie_links = pd.read_excel(path, usecols="B").to_numpy()
     return movie_links
 
-
-
 movie_links = getMovieLinksFromExcel("MovieGenreIGC_v3.xlsx")
 
 movies = []
 row = 0
-while (row <= 10000): #Esto seria para un el total de peliculas: 39967
-    headers = {'Accept-Language': 'en-US,en;q=0.5', 'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36'}
-    r = requests.get(movie_links[row][0], headers=headers) #Esta linea es a la que me refiero, le ejecucion de esta linea demora 1.5 segundos (lo he medido)
-    r.status_code
-    r.headers['Content-Type']
-    imdb = BeautifulSoup(r.text, 'html.parser')
+
+while (row <= 39000): #Esto seria para un el total de peliculas: 39967
+    if (row < 27519):
+        headers = {'Accept-Language': 'en-US,en;q=0.5', 'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36'}
+        r = requests.get(movie_links[row][0], headers=headers) #Esta linea es a la que me refiero, le ejecucion de esta linea demora 1.5 segundos (lo he medido)
+        r.status_code
+        r.headers['Content-Type']
+        imdb = BeautifulSoup(r.text, 'html.parser')
+    else:
+        link = movie_links[row][0]
+        idx = link.index('0')
+        link = link[:idx] + link[idx+1:]
+        r = requests.get(link, headers=headers)
+        r.headers['Content-Type']
+        imdb = BeautifulSoup(r.text, 'html.parser')
+
     directors = []
     writers = []
     genders = []
@@ -134,7 +145,7 @@ while (row <= 10000): #Esto seria para un el total de peliculas: 39967
         'synopsis' : synopsis, 
         'summaries' : summaries
     }
-    print (title)
+    print (movie)
     movies.append(movie)
     row += 3
 
