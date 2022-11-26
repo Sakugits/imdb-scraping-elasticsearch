@@ -72,20 +72,22 @@ movies = []
 row = 0
 
 while (row <= 39000): #Esto seria para un el total de peliculas: 39967
-    if (row < 27519):
-        headers = {'Accept-Language': 'en-US,en;q=0.5', 'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36'}
-        r = requests.get(movie_links[row][0], headers=headers) #Esta linea es a la que me refiero, le ejecucion de esta linea demora 1.5 segundos (lo he medido)
-        r.status_code
-        r.headers['Content-Type']
-        imdb = BeautifulSoup(r.text, 'html.parser')
-    else:
-        link = movie_links[row][0]
-        idx = link.index('0')
-        link = link[:idx] + link[idx+1:]
-        r = requests.get(link, headers=headers)
-        r.headers['Content-Type']
-        imdb = BeautifulSoup(r.text, 'html.parser')
-
+    try:
+        if (row < 27519):
+            headers = {'Accept-Language': 'en-US,en;q=0.5', 'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36'}
+            r = requests.get(movie_links[row][0], headers=headers) #Esta linea es a la que me refiero, le ejecucion de esta linea demora 1.5 segundos (lo he medido)
+            r.status_code
+            r.headers['Content-Type']
+            imdb = BeautifulSoup(r.text, 'html.parser')
+        else:
+            link = movie_links[row][0]
+            idx = link.index('0')
+            link = link[:idx] + link[idx+1:]
+            r = requests.get(link, headers=headers)
+            r.headers['Content-Type']
+            imdb = BeautifulSoup(r.text, 'html.parser')
+    except:
+        continue
     directors = []
     writers = []
     genders = []
@@ -145,7 +147,7 @@ while (row <= 39000): #Esto seria para un el total de peliculas: 39967
         'synopsis' : synopsis, 
         'summaries' : summaries
     }
-    print (movie)
+    print (title)
     movies.append(movie)
     row += 3
 
