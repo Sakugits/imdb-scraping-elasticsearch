@@ -40,7 +40,8 @@ def getWriters(moviepage, writers):
         writers.append(writer.a.text)
 
 def getSummariesAndSynopsis(moviepage_link, synopsis, summaries):
-    r = requests.get(moviepage_link + '/plotsummary')
+    headers = {'Accept-Language': 'en-US,en;q=0.5', 'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36'}
+    r = requests.get(moviepage_link + '/plotsummary', headers=headers)
     r.status_code
     r.headers['Content-Type']
     imdbplot = BeautifulSoup(r.text, 'html.parser')
