@@ -5,7 +5,7 @@ synopsis:World War II AND year:>=1980
 {
 	"query": {
 		"query_string": {
-			"query": "synopsis:World War II AND year:>=1980"
+			"query": "\"World War II\" \"WW II\" \"WWII\" AND year:>=1980"
 		}
 	},
 	"size": 50,
