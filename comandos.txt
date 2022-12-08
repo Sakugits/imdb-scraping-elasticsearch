@@ -1,3 +1,3 @@
 jq -c -r ".[]" movies_input_jq.json | while read line; do echo '{"index":{}}'; echo $line; done > bulk.json
-curl -XPOST localhost:9200/movies/docs/_bulk -H "Content-Type: application/x-ndjson" --data-binary @bulk_elastic.json >> elastic_log.txt
+curl -XPOST localhost:9200/movies/docs/_bulk -H "Content-Type: application/x-ndjson" --data-binary @new_bulk.json >> elastic_log.txt
 

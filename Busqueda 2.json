@@ -1,0 +1,275 @@
+{
+"took": 6,
+"timed_out": false,
+"_shards": {
+"total": 2,
+"successful": 2,
+"skipped": 0,
+"failed": 0
+},
+"hits": {
+"total": {
+"value": 3095,
+"relation": "eq"
+},
+"max_score": null,
+"hits": [ ]
+},
+"aggregations": {
+"directors_duplicate": {
+"doc_count_error_upper_bound": 4,
+"sum_other_doc_count": 3057,
+"buckets": [
+{
+"key": "Sammo Kam-Bo Hung",
+"doc_count": 18
+}
+,
+{
+"key": "Ishirô Honda",
+"doc_count": 14
+}
+,
+{
+"key": "Hark Tsui",
+"doc_count": 13
+}
+,
+{
+"key": "Albert Pyun",
+"doc_count": 12
+}
+,
+{
+"key": "Chia-Liang Liu",
+"doc_count": 11
+}
+,
+{
+"key": "Kunihiko Yuyama",
+"doc_count": 11
+}
+,
+{
+"key": "Mark Atkins",
+"doc_count": 11
+}
+,
+{
+"key": "Walter Hill",
+"doc_count": 11
+}
+,
+{
+"key": "Corey Yuen",
+"doc_count": 10
+}
+,
+{
+"key": "John Woo",
+"doc_count": 10
+}
+,
+{
+"key": "Roland Emmerich",
+"doc_count": 10
+}
+,
+{
+"key": "Siu-Tung Ching",
+"doc_count": 10
+}
+,
+{
+"key": "Takashi Miike",
+"doc_count": 10
+}
+,
+{
+"key": "Umberto Lenzi",
+"doc_count": 10
+}
+,
+{
+"key": "Clint Eastwood",
+"doc_count": 9
+}
+,
+{
+"key": "Johnnie To",
+"doc_count": 9
+}
+,
+{
+"key": "Kenji Misumi",
+"doc_count": 9
+}
+,
+{
+"key": "Paul Ziller",
+"doc_count": 9
+}
+,
+{
+"key": "Tom Clegg",
+"doc_count": 9
+}
+,
+{
+"key": "Enzo G. Castellari",
+"doc_count": 8
+}
+,
+{
+"key": "Jackie Chan",
+"doc_count": 8
+}
+,
+{
+"key": "John Guillermin",
+"doc_count": 8
+}
+,
+{
+"key": "Kinji Fukasaku",
+"doc_count": 8
+}
+,
+{
+"key": "Lauren Montgomery",
+"doc_count": 8
+}
+,
+{
+"key": "Ram Gopal Varma",
+"doc_count": 8
+}
+,
+{
+"key": "Sergio Corbucci",
+"doc_count": 8
+}
+,
+{
+"key": "Wei Lo",
+"doc_count": 8
+}
+,
+{
+"key": "Gérard Pirès",
+"doc_count": 7
+}
+,
+{
+"key": "J. Lee Thompson",
+"doc_count": 7
+}
+,
+{
+"key": "Lloyd Bacon",
+"doc_count": 7
+}
+,
+{
+"key": "Aaron Norris",
+"doc_count": 6
+}
+,
+{
+"key": "Anders Nilsson",
+"doc_count": 6
+}
+,
+{
+"key": "Ashutosh Gowariker",
+"doc_count": 6
+}
+,
+{
+"key": "Bruno Corbucci",
+"doc_count": 6
+}
+,
+{
+"key": "David Dhawan",
+"doc_count": 6
+}
+,
+{
+"key": "Deran Sarafian",
+"doc_count": 6
+}
+,
+{
+"key": "Gordon Douglas",
+"doc_count": 6
+}
+,
+{
+"key": "Guddu Dhanoa",
+"doc_count": 6
+}
+,
+{
+"key": "Isaac Florentine",
+"doc_count": 6
+}
+,
+{
+"key": "Jim Wynorski",
+"doc_count": 6
+}
+,
+{
+"key": "Jimmy Wang Yu",
+"doc_count": 6
+}
+,
+{
+"key": "John Badham",
+"doc_count": 6
+}
+,
+{
+"key": "John Dahl",
+"doc_count": 6
+}
+,
+{
+"key": "Jun Fukuda",
+"doc_count": 6
+}
+,
+{
+"key": "Kar-Wai Wong",
+"doc_count": 6
+}
+,
+{
+"key": "Roger Donaldson",
+"doc_count": 6
+}
+,
+{
+"key": "Russell Mulcahy",
+"doc_count": 6
+}
+,
+{
+"key": "Seijun Suzuki",
+"doc_count": 6
+}
+,
+{
+"key": "Sergiu Nicolaescu",
+"doc_count": 6
+}
+,
+{
+"key": "Sheldon Lettich",
+"doc_count": 6
+}
+]
+}
+}
+}

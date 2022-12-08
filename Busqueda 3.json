@@ -1,0 +1,1861 @@
+{
+"took": 70,
+"timed_out": false,
+"_shards": {
+"total": 2,
+"successful": 2,
+"skipped": 0,
+"failed": 0
+},
+"hits": {
+"total": {
+"value": 553,
+"relation": "eq"
+},
+"max_score": 20.565653,
+"hits": [
+{
+"_index": "movies",
+"_type": "docs",
+"_id": "_SJW84QB_Hoamgc57I0U",
+"_score": 20.565653,
+"_source": {
+"title": "8: The Mormon Proposition",
+"year": 2010,
+"genders": [
+"Documentary"
+],
+"score": 7.1,
+"directors": [
+"Reed Cowan"
+,
+"Steven Greenstreet"
+],
+"writers": [
+"Reed Cowan"
+],
+"synopsis": [
+"As California's anti-gay marriage proposition 8 languished in the polls, Mormon Prophet Thomas S. Monson issued a call from Salt Lake City to millions of Mormons all over the world. His was an order to action containing the secret code language of the highly secret Mormon temple ceremony. The action alert commanded Mormons in and out of California to do all things necessary to insure the passage of California's Proposition 8. Within days, hundreds of thousands of Mormons all over the United States funneled thirty million Mormon dollars in to California coffers to purchase the passage of California's anti-gay marriage Proposition 8.Before the Mormons and their participation in the passage of Proposition 8, evangelicals were flopping in the fight. After Mormons got involved, the fight flourished.During the fight, the Mormon Church media-engine, including mega-million dollar public relations and political consulting firm support, barraged Californians with a suffocating number of misleading television and radio ads and door-to-door campaigns manned by the Mormon NATIONAL ORGANIZATION FOR MARRIAGE.When Prop. 8 passed in California by a slim margin, Mormons were quick to take credit for the success. But when backlash from LGBT citizens targeted Mormon temples throughout the United States, the Mormon Church was the first to complain that they were the ones being persecuted.In the wake of it all, documentary producer Reed Cowan was collecting secret recordings, secret documents and never before seen footage exposing Mormon efforts to quash ANY rights for LGBT citizens anywhere in the world. 'As a former Mormon missionary, I am appalled in knowing that a church which itself worships the practice of alternative marriage (polygamy), would become so vehemently involved in the marriage debate,' says Director Reed Cowan.8: The Mormon Proposition follows the story of many LGBT citizens seeking marriage equality. One of the couples Cowan follows is Tyler Barrick and Spencer Jones. Barrick is the direct descendant of Mormon founder and Prophet, Joseph Smith's right hand man Fredrick G. Williams.The Barrick-Jones family history tells tales of Mormon ancestors chased from state to state because of their own practice of alternative marriage (polygamy). Now, decades later, the Barrick-Jones family is experiencing cultural and governmental discrimination of the same kind that haunted their ancestors. Only now, they're at war with their own religion of Mormonism and the people their religion seduced in to voting against their union.'When 8 passed, I called my mother crying--why did the Mormons do this to us? Why would our own people do this to us? They have turned their backs on us, ' says Barrick-Jones.8: The Mormon Proposition exposes decade's-long campaigns against LGBT rights, not only working behind the scenes to unseat political leaders who advocate for marriage equality, but also abuse against their own people through electric shock therapy and frontal lobotomies for BYU men arrested by Mormon security police. For the first time in history, the film goes on record about alleged prurient meetings between Mormon Prophet Spencer W. Kimball with a secret group of gay BYU students who called themselves 'Spencer's boys.' The film chronicles the hundreds of gay-Mormon suicides, including the story of Mormon Stuart Matis, who shot himself on the steps of a California Mormon Church during another of the church's work against marriage equality during the days of California's Knight Initiative.Long before its official completion, 8: The Mormon Proposition has already received considerable international press coverage. During the filming of 8, Reed Cowan interviewed Mormon Bishop and Senator D. Chris Buttars, who compared gay people to radical Muslims and said 'gays represent the greatest threat to America going down today.'Buttars characterization of gays engaged in so-called pig sex, brought on an HRC action alert, a scolding from GLAAD, and the eventual ouster of Utah Senator Buttars from his position as chair of Utah's Senate Judiciary Committee.In the days during the media backlash following Buttars interview with Cowan for 8, major media outlets and programs like FORBES, WASHINGTON POST and THE RACHEL MADDOW SHOW picked up on the story with considerable coverage that resulted in thirty thousand e mails to the Utah Senate President and the crashing of the Utah Senate computer server for three days.8: The Mormon Proposition also reveals the truth about Utah's gay homeless youth and the fact that the lions-share of hundreds of homeless teens on the streets in Utah, are LGBT youth who have been kicked out after coming out to their families.Finally, in the telling of the Mormon Church's risk of losing their tax-free status, 8: THE MORMON PROPOSITION is a call to action not only to LGBT citizens, but all citizens everywhere to not only stand up for human rights, but also to pay attention to where the money and the information is coming from whenever a ballot measure picks up uncommon speed, money and heat.In the words of Reed Cowan, '8: The Mormon Proposition puts on record one of the greatest election shams in the history of the United States. If the Mormon church gets a pass on this one, we're in grave danger as a society of letting other groups purchase votes and we're putting power behind their so-called 'secret combinations' to do it again. This can never happen again. Never.'"
+],
+"summaries": [
+"A scorching indictment of the Mormon Church's historic involvement in the promotion & passage of California's Proposition 8 and the Mormon religion's secretive, decades-long campaign against LGBT human rights."
+,
+"In 2009, thousands of LGBT citizens are denied almost 200 civil rights their straight, married counterparts enjoy through civil marriage. Some states have signaled progress. But amid the progress, The Mormon Church, with its front-group THE NATIONAL ORGANIZATION FOR MARRIAGE, has been coordinating, financing and leading the effort to stop the advancement of marriage equality for more than three decades. As an organization worth hundreds of billions of dollars, the Mormon Church has been able to wage this war in secret. Not until the California Fair Political Practices Commission launched an investigation into the Mormon's involvement in Proposition 8, did the secrets of the Mormon effort become a matter of record. Through never-before seen documents, recordings & insider-interviews, 8: THE MORMON PROPOSITION, exposes the efforts of the Mormon Church and its members to halt nearly every piece of LGBT legislation on the desks of lawmakers from Hawaii to New York. 8: THE MORMON PROPOSITION makes these efforts a matter of record and challenges viewers to demand more of government officials in requiring religions more transparency in their efforts to influence public policy. Emmy-award winning journalist and documentary filmmaker Reed Cowan is a former Mormon who served a two-year mission door-to-door for the Mormon Church. His access to high-level Mormons & Mormon communications on the matter, coupled with his OUT status as a gay man and father of two adopted sons has provided a compelling and at times shocking look at the Mormon way of doing business against LGBT people."
+]
+}
+}
+,
+{
+"_index": "movies",
+"_type": "docs",
+"_id": "w0xi84QBEuMZ1zZ3rGlo",
+"_score": 20.565653,
+"_source": {
+"title": "8: The Mormon Proposition",
+"year": 2010,
+"genders": [
+"Documentary"
+],
+"score": 7.1,
+"directors": [
+"Reed Cowan"
+,
+"Steven Greenstreet"
+],
+"writers": [
+"Reed Cowan"
+],
+"synopsis": [
+"As California's anti-gay marriage proposition 8 languished in the polls, Mormon Prophet Thomas S. Monson issued a call from Salt Lake City to millions of Mormons all over the world. His was an order to action containing the secret code language of the highly secret Mormon temple ceremony. The action alert commanded Mormons in and out of California to do all things necessary to insure the passage of California's Proposition 8. Within days, hundreds of thousands of Mormons all over the United States funneled thirty million Mormon dollars in to California coffers to purchase the passage of California's anti-gay marriage Proposition 8.Before the Mormons and their participation in the passage of Proposition 8, evangelicals were flopping in the fight. After Mormons got involved, the fight flourished.During the fight, the Mormon Church media-engine, including mega-million dollar public relations and political consulting firm support, barraged Californians with a suffocating number of misleading television and radio ads and door-to-door campaigns manned by the Mormon NATIONAL ORGANIZATION FOR MARRIAGE.When Prop. 8 passed in California by a slim margin, Mormons were quick to take credit for the success. But when backlash from LGBT citizens targeted Mormon temples throughout the United States, the Mormon Church was the first to complain that they were the ones being persecuted.In the wake of it all, documentary producer Reed Cowan was collecting secret recordings, secret documents and never before seen footage exposing Mormon efforts to quash ANY rights for LGBT citizens anywhere in the world. 'As a former Mormon missionary, I am appalled in knowing that a church which itself worships the practice of alternative marriage (polygamy), would become so vehemently involved in the marriage debate,' says Director Reed Cowan.8: The Mormon Proposition follows the story of many LGBT citizens seeking marriage equality. One of the couples Cowan follows is Tyler Barrick and Spencer Jones. Barrick is the direct descendant of Mormon founder and Prophet, Joseph Smith's right hand man Fredrick G. Williams.The Barrick-Jones family history tells tales of Mormon ancestors chased from state to state because of their own practice of alternative marriage (polygamy). Now, decades later, the Barrick-Jones family is experiencing cultural and governmental discrimination of the same kind that haunted their ancestors. Only now, they're at war with their own religion of Mormonism and the people their religion seduced in to voting against their union.'When 8 passed, I called my mother crying--why did the Mormons do this to us? Why would our own people do this to us? They have turned their backs on us, ' says Barrick-Jones.8: The Mormon Proposition exposes decade's-long campaigns against LGBT rights, not only working behind the scenes to unseat political leaders who advocate for marriage equality, but also abuse against their own people through electric shock therapy and frontal lobotomies for BYU men arrested by Mormon security police. For the first time in history, the film goes on record about alleged prurient meetings between Mormon Prophet Spencer W. Kimball with a secret group of gay BYU students who called themselves 'Spencer's boys.' The film chronicles the hundreds of gay-Mormon suicides, including the story of Mormon Stuart Matis, who shot himself on the steps of a California Mormon Church during another of the church's work against marriage equality during the days of California's Knight Initiative.Long before its official completion, 8: The Mormon Proposition has already received considerable international press coverage. During the filming of 8, Reed Cowan interviewed Mormon Bishop and Senator D. Chris Buttars, who compared gay people to radical Muslims and said 'gays represent the greatest threat to America going down today.'Buttars characterization of gays engaged in so-called pig sex, brought on an HRC action alert, a scolding from GLAAD, and the eventual ouster of Utah Senator Buttars from his position as chair of Utah's Senate Judiciary Committee.In the days during the media backlash following Buttars interview with Cowan for 8, major media outlets and programs like FORBES, WASHINGTON POST and THE RACHEL MADDOW SHOW picked up on the story with considerable coverage that resulted in thirty thousand e mails to the Utah Senate President and the crashing of the Utah Senate computer server for three days.8: The Mormon Proposition also reveals the truth about Utah's gay homeless youth and the fact that the lions-share of hundreds of homeless teens on the streets in Utah, are LGBT youth who have been kicked out after coming out to their families.Finally, in the telling of the Mormon Church's risk of losing their tax-free status, 8: THE MORMON PROPOSITION is a call to action not only to LGBT citizens, but all citizens everywhere to not only stand up for human rights, but also to pay attention to where the money and the information is coming from whenever a ballot measure picks up uncommon speed, money and heat.In the words of Reed Cowan, '8: The Mormon Proposition puts on record one of the greatest election shams in the history of the United States. If the Mormon church gets a pass on this one, we're in grave danger as a society of letting other groups purchase votes and we're putting power behind their so-called 'secret combinations' to do it again. This can never happen again. Never.'"
+],
+"summaries": [
+"A scorching indictment of the Mormon Church's historic involvement in the promotion & passage of California's Proposition 8 and the Mormon religion's secretive, decades-long campaign against LGBT human rights."
+,
+"In 2009, thousands of LGBT citizens are denied almost 200 civil rights their straight, married counterparts enjoy through civil marriage. Some states have signaled progress. But amid the progress, The Mormon Church, with its front-group THE NATIONAL ORGANIZATION FOR MARRIAGE, has been coordinating, financing and leading the effort to stop the advancement of marriage equality for more than three decades. As an organization worth hundreds of billions of dollars, the Mormon Church has been able to wage this war in secret. Not until the California Fair Political Practices Commission launched an investigation into the Mormon's involvement in Proposition 8, did the secrets of the Mormon effort become a matter of record. Through never-before seen documents, recordings & insider-interviews, 8: THE MORMON PROPOSITION, exposes the efforts of the Mormon Church and its members to halt nearly every piece of LGBT legislation on the desks of lawmakers from Hawaii to New York. 8: THE MORMON PROPOSITION makes these efforts a matter of record and challenges viewers to demand more of government officials in requiring religions more transparency in their efforts to influence public policy. Emmy-award winning journalist and documentary filmmaker Reed Cowan is a former Mormon who served a two-year mission door-to-door for the Mormon Church. His access to high-level Mormons & Mormon communications on the matter, coupled with his OUT status as a gay man and father of two adopted sons has provided a compelling and at times shocking look at the Mormon way of doing business against LGBT people."
+]
+}
+}
+,
+{
+"_index": "movies",
+"_type": "docs",
+"_id": "hkxi84QBEuMZ1zZ3rFZi",
+"_score": 15.628837,
+"_source": {
+"title": "East Palace, West Palace",
+"year": 1996,
+"genders": [
+"Drama"
+],
+"score": 6.3,
+"directors": [
+"Yuan Zhang"
+],
+"writers": [
+"Xiaobo Wang"
+,
+"Yuan Zhang"
+],
+"synopsis": [ ],
+"summaries": [
+"Before the 1990s P.R.China criminalized the LGBT population. Without family law and marriage law for the LGBT couples, many had to secretly encounter for sexual activities with the risk of police arrests."
+,
+"In China, homosexuality isn't illegal, but homosexuals are routinely persecuted by police and arrested for "hooliganism". The film focuses on a young gay writer A-Lan who, being attracted to a young policeman, manages to have himself interrogated for a whole night. His life-story which he tells during the interrogation reflects the general repression of the Chinese society. The policeman's attitude shifts from the initial revulsion to fascination and, finally, to attraction."
+,
+"In Beijing, gays have hidden sexual encounters in a park during the night and are severely repressed by the police. The writer A Lan is arrested by the policeman Xiao Shi and along the whole night, he is interrogated, disclosing his hard life-story since he was a child and his crush on Xiao Shi."
+]
+}
+}
+,
+{
+"_index": "movies",
+"_type": "docs",
+"_id": "CCJW84QB_Hoamgc57IkS",
+"_score": 15.525809,
+"_source": {
+"title": "Love My Life",
+"year": 2006,
+"genders": [
+"Drama"
+],
+"score": 6,
+"directors": [
+"Kôji Kawano"
+],
+"writers": [
+"Hiroko Kanasugi"
+,
+"Ebine Yamaji"
+],
+"synopsis": [ ],
+"summaries": [
+"Ichiko and Eri are two beautiful Japanese Uni students who are in a lesbian relationship. Ichiko comes out to her father who tells her he is also gay and her mother was a lesbian. Her best friend is gay too, though he has a female who is after him. Their liaison is very intense, but Eri suggests a temporary separation so she can concentrate on her law studies. The break from their affair is difficult for Ichiko to deal with. But Eri soon sorts out her priorities."
+]
+}
+}
+,
+{
+"_index": "movies",
+"_type": "docs",
+"_id": "zkxi84QBEuMZ1zZ3rGRm",
+"_score": 15.525809,
+"_source": {
+"title": "Love My Life",
+"year": 2006,
+"genders": [
+"Drama"
+],
+"score": 6,
+"directors": [
+"Kôji Kawano"
+],
+"writers": [
+"Hiroko Kanasugi"
+,
+"Ebine Yamaji"
+],
+"synopsis": [ ],
+"summaries": [
+"Ichiko and Eri are two beautiful Japanese Uni students who are in a lesbian relationship. Ichiko comes out to her father who tells her he is also gay and her mother was a lesbian. Her best friend is gay too, though he has a female who is after him. Their liaison is very intense, but Eri suggests a temporary separation so she can concentrate on her law studies. The break from their affair is difficult for Ichiko to deal with. But Eri soon sorts out her priorities."
+]
+}
+}
+,
+{
+"_index": "movies",
+"_type": "docs",
+"_id": "XCJW84QB_Hoamgc57JAW",
+"_score": 15.431315,
+"_source": {
+"title": "Wish Me Away",
+"year": 2011,
+"genders": [
+"Documentary"
+,
+"Biography"
+,
+"Music"
+],
+"score": 7.5,
+"directors": [
+"Bobbie Birleffi"
+,
+"Beverly Kopf"
+],
+"writers": [
+"Chely Wright"
+,
+"Jennifer Archer"
+,
+"Howard Bragman"
+],
+"synopsis": [ ],
+"summaries": [
+"After a lifetime of hiding, Chely Wright becomes the first commercial country music singer to come out as gay, shattering cultural stereotypes within Nashville, her conservative heartland family and, most importantly, within herself. With unprecedented access over a two-year period, including her private video diaries, the film layers Chely's rise to fame while hiding in the late 90's with the execution of her coming out plan, culminating in the exciting moment when she steps into the media glare to reveal she is gay. The film shows both the devastation of internalized homophobia and the transformational power of living an authentic life. The film also documents the conflicting responses from Nashville, the heartland and the LGBT community as Chely Wright prepares for an unknown future."
+]
+}
+}
+,
+{
+"_index": "movies",
+"_type": "docs",
+"_id": "Ikxi84QBEuMZ1zZ3rGxp",
+"_score": 15.431315,
+"_source": {
+"title": "Wish Me Away",
+"year": 2011,
+"genders": [
+"Documentary"
+,
+"Biography"
+,
+"Music"
+],
+"score": 7.5,
+"directors": [
+"Bobbie Birleffi"
+,
+"Beverly Kopf"
+],
+"writers": [
+"Chely Wright"
+,
+"Jennifer Archer"
+,
+"Howard Bragman"
+],
+"synopsis": [ ],
+"summaries": [
+"After a lifetime of hiding, Chely Wright becomes the first commercial country music singer to come out as gay, shattering cultural stereotypes within Nashville, her conservative heartland family and, most importantly, within herself. With unprecedented access over a two-year period, including her private video diaries, the film layers Chely's rise to fame while hiding in the late 90's with the execution of her coming out plan, culminating in the exciting moment when she steps into the media glare to reveal she is gay. The film shows both the devastation of internalized homophobia and the transformational power of living an authentic life. The film also documents the conflicting responses from Nashville, the heartland and the LGBT community as Chely Wright prepares for an unknown future."
+]
+}
+}
+,
+{
+"_index": "movies",
+"_type": "docs",
+"_id": "diJW84QB_Hoamgc57JYZ",
+"_score": 14.924388,
+"_source": {
+"title": "Pride",
+"year": 2014,
+"genders": [
+"Biography"
+,
+"Comedy"
+,
+"Drama"
+],
+"score": 7.8,
+"directors": [
+"Matthew Warchus"
+],
+"writers": [
+"Stephen Beresford"
+],
+"synopsis": [
+"Its the summer of 1984 Margaret Thatcher is in power and the National Union of Mineworkers (NUM) is on strike. At the Gay Pride March in London, a group of gay and lesbian activists decides to raise money to support the families of the striking miners. But there is a problem. The Union seems embarrassed to receive their support.But the activists are not deterred. They decide to ignore the Union and go direct to the miners. They identify a mining village in deepest Wales and set off in a mini bus to make their donation in person. And so begins the extraordinary story of two seemingly alien communities who form a surprising and ultimately triumphant partnership."
+],
+"summaries": [
+"U.K. gay activists work to help miners during their lengthy strike of the National Union of Mineworkers in the summer of 1984."
+,
+"In 1984 20 year old closet gay Joe hesitantly arrives in London from Bromley for his first Gay Pride march and is taken under the collective wing of a group of gay men and Lesbian Steph, who meet at flamboyant Jonathan and his Welsh partner Gethin's Soho bookshop. Not only are gays being threatened by Thatcher but the miners are on strike in response to her pit closures and Northern Irish activist Mark Ashton believes gays and miners should show solidarity. Almost by accident a mini-bus full of gays find themselves in the Welsh village of Onllwyn in the Dulais valley and through their sincere fund raising and Jonathan's nifty disco moves persuade most of the community that they are on the same side. When a bigot tries to sabotage the partnership with a tabloid smear Mark turns it back on her with a hugely successful benefit concert to which most of the villagers, now thoroughly in tune with their gay friends, turn up. The miners are defeated and return to work but at the Pride march the following year a vast contingent of miners show up to repay their comrades with their show of support."
+,
+"It's the summer of 1984. Margaret Thatcher is in power and the National Union of Mineworkers (NUM) is on strike. At the Gay Pride March in London, a group of gay and lesbian activists decides to raise money to support the families of the striking miners."
+,
+"Set in the summer of 1984 Margaret Thatcher is in power and the National Union of Mineworkers (NUM) is on strike. At the Gay Pride March in London, a group of gay and lesbian activists decides to raise money to support the families of the striking miners. But there is a problem. The Union seems embarrassed to receive their support."
+]
+}
+}
+,
+{
+"_index": "movies",
+"_type": "docs",
+"_id": "PExi84QBEuMZ1zZ3rHJr",
+"_score": 14.924388,
+"_source": {
+"title": "Pride",
+"year": 2014,
+"genders": [
+"Biography"
+,
+"Comedy"
+,
+"Drama"
+],
+"score": 7.8,
+"directors": [
+"Matthew Warchus"
+],
+"writers": [
+"Stephen Beresford"
+],
+"synopsis": [
+"Its the summer of 1984 Margaret Thatcher is in power and the National Union of Mineworkers (NUM) is on strike. At the Gay Pride March in London, a group of gay and lesbian activists decides to raise money to support the families of the striking miners. But there is a problem. The Union seems embarrassed to receive their support.But the activists are not deterred. They decide to ignore the Union and go direct to the miners. They identify a mining village in deepest Wales and set off in a mini bus to make their donation in person. And so begins the extraordinary story of two seemingly alien communities who form a surprising and ultimately triumphant partnership."
+],
+"summaries": [
+"U.K. gay activists work to help miners during their lengthy strike of the National Union of Mineworkers in the summer of 1984."
+,
+"In 1984 20 year old closet gay Joe hesitantly arrives in London from Bromley for his first Gay Pride march and is taken under the collective wing of a group of gay men and Lesbian Steph, who meet at flamboyant Jonathan and his Welsh partner Gethin's Soho bookshop. Not only are gays being threatened by Thatcher but the miners are on strike in response to her pit closures and Northern Irish activist Mark Ashton believes gays and miners should show solidarity. Almost by accident a mini-bus full of gays find themselves in the Welsh village of Onllwyn in the Dulais valley and through their sincere fund raising and Jonathan's nifty disco moves persuade most of the community that they are on the same side. When a bigot tries to sabotage the partnership with a tabloid smear Mark turns it back on her with a hugely successful benefit concert to which most of the villagers, now thoroughly in tune with their gay friends, turn up. The miners are defeated and return to work but at the Pride march the following year a vast contingent of miners show up to repay their comrades with their show of support."
+,
+"It's the summer of 1984. Margaret Thatcher is in power and the National Union of Mineworkers (NUM) is on strike. At the Gay Pride March in London, a group of gay and lesbian activists decides to raise money to support the families of the striking miners."
+,
+"Set in the summer of 1984 Margaret Thatcher is in power and the National Union of Mineworkers (NUM) is on strike. At the Gay Pride March in London, a group of gay and lesbian activists decides to raise money to support the families of the striking miners. But there is a problem. The Union seems embarrassed to receive their support."
+]
+}
+}
+,
+{
+"_index": "movies",
+"_type": "docs",
+"_id": "4CJW84QB_Hoamgc57HEF",
+"_score": 14.7715645,
+"_source": {
+"title": "Dimenticare Venezia",
+"year": 1979,
+"genders": [
+"Drama"
+],
+"score": 6.7,
+"directors": [
+"Franco Brusati"
+],
+"writers": [
+"Franco Brusati"
+,
+"Jaja Fiastri"
+],
+"synopsis": [ ],
+"summaries": [
+"A gay brother visits his childhood home where his sister still lives with her lesbian niece and her girlfriend. They reminisce about the better past and their parents."
+]
+}
+}
+,
+{
+"_index": "movies",
+"_type": "docs",
+"_id": "pkxi84QBEuMZ1zZ3rE1f",
+"_score": 14.7715645,
+"_source": {
+"title": "Dimenticare Venezia",
+"year": 1979,
+"genders": [
+"Drama"
+],
+"score": 6.7,
+"directors": [
+"Franco Brusati"
+],
+"writers": [
+"Franco Brusati"
+,
+"Jaja Fiastri"
+],
+"synopsis": [ ],
+"summaries": [
+"A gay brother visits his childhood home where his sister still lives with her lesbian niece and her girlfriend. They reminisce about the better past and their parents."
+]
+}
+}
+,
+{
+"_index": "movies",
+"_type": "docs",
+"_id": "hUxi84QBEuMZ1zZ3rFxk",
+"_score": 14.48761,
+"_source": {
+"title": "Hush!",
+"year": 2001,
+"genders": [
+"Comedy"
+,
+"Drama"
+],
+"score": 6.9,
+"directors": [
+"Ryosuke Hashiguchi"
+],
+"writers": [
+"Ryosuke Hashiguchi"
+],
+"synopsis": [
+"Basics: 2 guys who are gay, one female who is lonely for someone to love. The woman approaches 1 of the guys and wants him to seed her would be child. Gay guy 1 moves through the movie with all the usual angst. Gay guy 2 loves him but is just this side of giving up on gay guy 1 because he is too ambivalent. The parent and families get involved and all heck breaks loose."
+],
+"summaries": [
+"Soon after the disparate yet compatible Naoya and Katsuhiro start to settle into a relationship, a slightly unhinged young woman named Asako asks Katsuhiro to father her child."
+,
+"While the couple navigates the implications of this unexpected proposal, they are forced to confront their conflicting understandings of what it means to be gay and in a committed relationship. A landmark work of LGBTQ Japanese cinema by pioneering director Ryosuke Hashiguchi, Hush. humorously and poignantly upends the traditional Japanese genre of the family drama to offer a deeply human story about three people doing their best to be true to themselves."
+]
+}
+}
+,
+{
+"_index": "movies",
+"_type": "docs",
+"_id": "vyJW84QB_Hoamgc57IAN",
+"_score": 14.289859,
+"_source": {
+"title": "Hush!",
+"year": 2001,
+"genders": [
+"Comedy"
+,
+"Drama"
+],
+"score": 6.9,
+"directors": [
+"Ryosuke Hashiguchi"
+],
+"writers": [
+"Ryosuke Hashiguchi"
+],
+"synopsis": [
+"Basics: 2 guys who are gay, one female who is lonely for someone to love. The woman approaches 1 of the guys and wants him to seed her would be child.nGay guy 1 moves through the movie with all the usual angst. Gay guy 2 loves him but is just this side of giving up on gay guy 1 because he is too ambivalent. The parent and families get involved and all heck breaks loose."
+],
+"summaries": [
+"Soon after the disparate yet compatible Naoya and Katsuhiro start to settle into a relationship, a slightly unhinged young woman named Asako asks Katsuhiro to father her child."
+,
+"While the couple navigates the implications of this unexpected proposal, they are forced to confront their conflicting understandings of what it means to be gay and in a committed relationship. A landmark work of LGBTQ Japanese cinema by pioneering director Ryosuke Hashiguchi, Hush. humorously and poignantly upends the traditional Japanese genre of the family drama to offer a deeply human story about three people doing their best to be true to themselves."
+]
+}
+}
+,
+{
+"_index": "movies",
+"_type": "docs",
+"_id": "eyJW84QB_Hoamgc57JAW",
+"_score": 13.708586,
+"_source": {
+"title": "Stud Life",
+"year": 2012,
+"genders": [
+"Drama"
+,
+"Romance"
+],
+"score": 5.1,
+"directors": [
+"Campbell Ex"
+],
+"writers": [
+"Campbell Ex"
+],
+"synopsis": [ ],
+"summaries": [
+"JJ is a 'Stud' Lesbian. Together with her best friend Seb, a gay pretty boy, they work as wedding photographers. When JJ falls in love with a beautiful diva, JJ and Seb's friendship is tested. JJ is forced to chose between her hot new lover and her best friend."
+]
+}
+}
+,
+{
+"_index": "movies",
+"_type": "docs",
+"_id": "QUxi84QBEuMZ1zZ3rGxp",
+"_score": 13.708586,
+"_source": {
+"title": "Stud Life",
+"year": 2012,
+"genders": [
+"Drama"
+,
+"Romance"
+],
+"score": 5.1,
+"directors": [
+"Campbell Ex"
+],
+"writers": [
+"Campbell Ex"
+],
+"synopsis": [ ],
+"summaries": [
+"JJ is a 'Stud' Lesbian. Together with her best friend Seb, a gay pretty boy, they work as wedding photographers. When JJ falls in love with a beautiful diva, JJ and Seb's friendship is tested. JJ is forced to chose between her hot new lover and her best friend."
+]
+}
+}
+,
+{
+"_index": "movies",
+"_type": "docs",
+"_id": "NiJW84QB_Hoamgc57HUH",
+"_score": 13.681999,
+"_source": {
+"title": "Law of Desire",
+"year": 1987,
+"genders": [
+"Comedy"
+,
+"Drama"
+,
+"Thriller"
+],
+"score": 7.1,
+"directors": [
+"Pedro Almodóvar"
+],
+"writers": [
+"Pedro Almodóvar"
+],
+"synopsis": [ ],
+"summaries": [
+"A gay filmmaker becomes involved with an obsessive fan while still pining for his absent true love. Meanwhile, he shares a close but complex relationship with his trans sister, an actress."
+,
+"Pablo and Tina have complicated sexual lives. Pablo writes and directs plays and films; he's gay and deeply in love with Juan, a young man who won't reply to Pablo's affection or letters. Pablo's sibling Tina is a transsexual, angry at men, raising Ada, and trying to make it as an actress. Pablo takes up with Antonio, a youth who becomes jealous of Pablo's love for Juan. Antonio seeks out Juan, and violence leads to Pablo's grief and a temporary loss of memory. When memory returns, he learns that Antonio has taken up with Tina. In horror, he hurries to Tina's rescue and must face Antonio and his desire."
+]
+}
+}
+,
+{
+"_index": "movies",
+"_type": "docs",
+"_id": "_Exi84QBEuMZ1zZ3rFBg",
+"_score": 13.681999,
+"_source": {
+"title": "Law of Desire",
+"year": 1987,
+"genders": [
+"Comedy"
+,
+"Drama"
+,
+"Thriller"
+],
+"score": 7.1,
+"directors": [
+"Pedro Almodóvar"
+],
+"writers": [
+"Pedro Almodóvar"
+],
+"synopsis": [ ],
+"summaries": [
+"A gay filmmaker becomes involved with an obsessive fan while still pining for his absent true love. Meanwhile, he shares a close but complex relationship with his trans sister, an actress."
+,
+"Pablo and Tina have complicated sexual lives. Pablo writes and directs plays and films; he's gay and deeply in love with Juan, a young man who won't reply to Pablo's affection or letters. Pablo's sibling Tina is a transsexual, angry at men, raising Ada, and trying to make it as an actress. Pablo takes up with Antonio, a youth who becomes jealous of Pablo's love for Juan. Antonio seeks out Juan, and violence leads to Pablo's grief and a temporary loss of memory. When memory returns, he learns that Antonio has taken up with Tina. In horror, he hurries to Tina's rescue and must face Antonio and his desire."
+]
+}
+}
+,
+{
+"_index": "movies",
+"_type": "docs",
+"_id": "YUxi84QBEuMZ1zZ3rGpo",
+"_score": 13.558844,
+"_source": {
+"title": "Girltrash: All Night Long",
+"year": 2014,
+"genders": [
+"Comedy"
+,
+"Crime"
+,
+"Drama"
+],
+"score": 6.2,
+"directors": [
+"Alexandra Kondracke"
+],
+"writers": [
+"Angela Robinson"
+],
+"synopsis": [
+"Based on the extremely successful Internet Web series from Showtime, GIRLTRASH: All Night Long, the Movie stars Lisa Rieffel (lead singer of Killola), Gabrielle Christian ('South of Nowhere'), Michelle Lombardo ('Quarterlife'), Mandy Musgrave ('South of Nowhere'), Rose Rollins ('The L Word'), Kate French ('One Tree Hill', The L Word', 'Wicked Wicked Games') and Clementine Ford ('The L Word'). Directed by Alex Kondracke and produced by Angela Robinson ('D.E.B.S.', 'Herbie Fully Loaded', 'The L Word') & Lisa Thrasher ('Itty Bitty Titty Committee'). Stacy Codikow (D.E.B.S., Itty Bitty Titty Committee) the founder of POWER UP is executive producing.In the tradition of "Go" and "Superbad," 'GIRLTRASH: All Night Long' is the story of five girls and one epic night. Daisy and Tyler are two hapless rockers trying to make it to a Battle of the Bands concert on time. They are waylaid by Daisy's sister, Colby, who has her sights set on hooking up with the girl of her dreams, Misty (that is, if she can manage to have a conversation with her first.) As the night spirals out of control, the girls will find lesbian love, lust, girl-fights, rock and roll, and a whole lot of stoned sorority girls. Oh, did we mention it's a musical?Source- girltrashallnightlong.com"
+],
+"summaries": [
+"The story of five girls and one epic night. The girls will find love, lust, girl-fights, rock and roll, and a whole lot of stoned sorority girls."
+,
+"Set during one long night in the LGBT sub-culture of Los Angeles, Daisy and Tyler are two rock and roll musicians who are selected to partake in a battle of the bands contest to claim a prize. But while on their way to the concert, their van breaks down and they are sidetracked by Daisy's younger sister, Colby, a recent college graduate who agrees to drive them to the concert if they help her hook up with her girl-crush; a struggling actress named Misty. Also tagging along is Misty's bisexual best friend Sid, who longs to hook up with a famous celebrity. However, Misty is not interested in hooking up with Colby because she has her sights on Tyler. Meanwhile, Daisy tries to win back her ex-girlfriend, Xan, who is on a date with her latest girlfriend who is competing against Daisy and Tyler's band that very night. Elsewhere, Monique Jones is a violent ex-con recently paroled from prison who comes looking for Daisy and Tyler with a score to settle."
+]
+}
+}
+,
+{
+"_index": "movies",
+"_type": "docs",
+"_id": "kSJW84QB_Hoamgc57JIX",
+"_score": 13.325033,
+"_source": {
+"title": "I Do",
+"year": 2012,
+"genders": [
+"Drama"
+,
+"Romance"
+],
+"score": 6.5,
+"directors": [
+"Glenn Gaylord"
+],
+"writers": [
+"David W. Ross"
+],
+"synopsis": [ ],
+"summaries": [
+"A gay Brit living in New York is deprived of his immigration status and risks losing his family and life in the U.S. He marries his lesbian best friend to remain in the country and stay with his family, but things get complicated when he meets the love of his life and is forced to make an impossible choice."
+]
+}
+}
+,
+{
+"_index": "movies",
+"_type": "docs",
+"_id": "V0xi84QBEuMZ1zZ3rG5p",
+"_score": 13.325033,
+"_source": {
+"title": "I Do",
+"year": 2012,
+"genders": [
+"Drama"
+,
+"Romance"
+],
+"score": 6.5,
+"directors": [
+"Glenn Gaylord"
+],
+"writers": [
+"David W. Ross"
+],
+"synopsis": [ ],
+"summaries": [
+"A gay Brit living in New York is deprived of his immigration status and risks losing his family and life in the U.S. He marries his lesbian best friend to remain in the country and stay with his family, but things get complicated when he meets the love of his life and is forced to make an impossible choice."
+]
+}
+}
+,
+{
+"_index": "movies",
+"_type": "docs",
+"_id": "HyJW84QB_Hoamgc57IcR",
+"_score": 12.6119375,
+"_source": {
+"title": "Itty Bitty Titty Committee",
+"year": 2007,
+"genders": [
+"Comedy"
+,
+"Drama"
+,
+"Romance"
+],
+"score": 5.4,
+"directors": [
+"Jamie Babbit"
+],
+"writers": [
+"Jamie Babbit"
+,
+"Tina Mabry"
+,
+"Abigail McCarthy"
+],
+"synopsis": [
+"Anna is coming out. But not as gay as a revolutionary. Itty Bitty Titty Committee is a rockin love song to the heady rush of sex, freedom and rebellion that happens when an everyday girl discovers her own strength and the righteous indignation needed to take action and change the world. Our heroine is a shy, just-out-of-high-school lesbian, still living with her parents and working at a plastic surgery clinic. She is depressed because of a recent breakup but lives in a super-loving, gay-is-A-OK kind of family. Her world opens up one night when she catches a one-woman army reclaiming public space for women (i.e., spray painting the clinic where Anna works). A recruiting member of the guerrilla girls-esque Clits in Action (C(i)A), Sadie is trying to make people aware of how bad plastic surgery is for women. With an undeniable attraction to this sexy, raw rebel gurl, Anna eagerly joins the ranks of C(i)A and starts her rollercoaster ride from meek and mousy to bad-ass bravado. Full of mosh pits, power fists and utter charm,"
+],
+"summaries": [
+"High School grad and all American gal, Anna, finds her purpose and herself after she hooks up with the radical feminists in The Itty Bitty Titty Committee."
+,
+"Anna is a young lesbian high school graduate who still lives with her parents, and works as a receptionist in a plastic surgeon's office. She embarks on a wild ride when she hooks up with a cadre of ultra-radical feminist lesbians hell-bent on raising hell. But things get even more complicated when Anna falls in love with Sadie, the radical group's leader who's already involved with an older woman named Courtney."
+]
+}
+}
+,
+{
+"_index": "movies",
+"_type": "docs",
+"_id": "5Uxi84QBEuMZ1zZ3rGJm",
+"_score": 12.6119375,
+"_source": {
+"title": "Itty Bitty Titty Committee",
+"year": 2007,
+"genders": [
+"Comedy"
+,
+"Drama"
+,
+"Romance"
+],
+"score": 5.4,
+"directors": [
+"Jamie Babbit"
+],
+"writers": [
+"Jamie Babbit"
+,
+"Tina Mabry"
+,
+"Abigail McCarthy"
+],
+"synopsis": [
+"Anna is coming out. But not as gay as a revolutionary. Itty Bitty Titty Committee is a rockin love song to the heady rush of sex, freedom and rebellion that happens when an everyday girl discovers her own strength and the righteous indignation needed to take action and change the world. Our heroine is a shy, just-out-of-high-school lesbian, still living with her parents and working at a plastic surgery clinic. She is depressed because of a recent breakup but lives in a super-loving, gay-is-A-OK kind of family. Her world opens up one night when she catches a one-woman army reclaiming public space for women (i.e., spray painting the clinic where Anna works). A recruiting member of the guerrilla girls-esque Clits in Action (C(i)A), Sadie is trying to make people aware of how bad plastic surgery is for women. With an undeniable attraction to this sexy, raw rebel gurl, Anna eagerly joins the ranks of C(i)A and starts her rollercoaster ride from meek and mousy to bad-ass bravado. Full of mosh pits, power fists and utter charm,"
+],
+"summaries": [
+"High School grad and all American gal, Anna, finds her purpose and herself after she hooks up with the radical feminists in The Itty Bitty Titty Committee."
+,
+"Anna is a young lesbian high school graduate who still lives with her parents, and works as a receptionist in a plastic surgeon's office. She embarks on a wild ride when she hooks up with a cadre of ultra-radical feminist lesbians hell-bent on raising hell. But things get even more complicated when Anna falls in love with Sadie, the radical group's leader who's already involved with an older woman named Courtney."
+]
+}
+}
+,
+{
+"_index": "movies",
+"_type": "docs",
+"_id": "Zkxi84QBEuMZ1zZ3rFJg",
+"_score": 12.308136,
+"_source": {
+"title": "Internal Affairs",
+"year": 1990,
+"genders": [
+"Crime"
+,
+"Drama"
+,
+"Thriller"
+],
+"score": 6.5,
+"directors": [
+"Mike Figgis"
+],
+"writers": [
+"Henry Bean"
+],
+"synopsis": [
+"Ambitious LA cop with Latin temper moves to Internal Affairs department where he's paired up with lesbian superior. Immediately involved in police brutality case, his pursuit of the young police officer leads him to cross swords with an amoral, possibly sociopathic police sergeant who controls a seemingly department wide network of corruption. Physical and pychological battle between them involving violence, murder and some, occasionally rough, sex ends in triumph for the good guys as usual but with some thought provoking character exploration along the way as the film develops. Sympathethic treatment of the gay female IA officer ahead of its time."
+],
+"summaries": [
+"An Internal Affairs agent becomes obsessed with bringing down a cop who has managed to maintain a spotless reputation despite being involved in a web of corruption."
+,
+"Keen young Raymond Avila joins the Internal Affairs Department of the Los Angeles police. He and partner Amy Wallace are soon looking closely at the activities of cop Dennis Peck whose financial holdings start to suggest something shady. Indeed Peck is involved in any number of dubious or downright criminal activities. He is also devious, a womaniser, and a clever manipulator, and he starts to turn his attention on Avila."
+,
+"Earnest Raymond Avilla has just begun his assignment in the LAPD's Internal Affairs Division (IAD) partnered with capable and bright Amy Wallace, the IAD arguably the most hated division by the non-IAD officers in its members being seen as opportunistic in getting ahead in the force investigating their "brothers". To show that he is above board, Raymond agrees as his and Amy's first case as partners that of Van Stretch, Raymond wanting to seem impartial despite he and Van going back to their days together in the academy. Although there does seem to be improper conduct by Van, Raymond begins to believe a bigger, more dangerous fish is Van's partner Dennis Peck, who outwardly is seen as the model officer by the force's highers-up. What Raymond sees in Dennis is a bright officer too content in his relatively low position within the force, he who is able to live beyond his means, especially in having to pay alimony and child support to several ex-wives. In reality, Dennis is not only a womanizer and chronic philanderer in still fooling around with other women despite again being married, but is a master manipulator in working every situation to his benefit and often illegal end goals, that manipulation often of crime scenes and of his fellow officers, including Van and by association Van's occasionally battered wife, Penny Stretch. What ensues is a game of cat and mouse between Raymond and Dennis which becomes personal in both sides using the other's family - Dennis' wife Heather Peck and Raymond's contemporary art gallery curator wife Kathleen Avilla - to achieve their respective end goals, which may be more dangerous for Raymond and Kathleen as Dennis has and will kill to protect his way of life."
+]
+}
+}
+,
+{
+"_index": "movies",
+"_type": "docs",
+"_id": "vExi84QBEuMZ1zZ3rGRm",
+"_score": 12.281666,
+"_source": {
+"title": "For the Bible Tells Me So",
+"year": 2007,
+"genders": [
+"Documentary"
+,
+"Romance"
+],
+"score": 7.8,
+"directors": [
+"Daniel G. Karslake"
+],
+"writers": [
+"Daniel G. Karslake"
+,
+"Helen R. Mendoza"
+],
+"synopsis": [
+"The producers of this movie explore ways of discrediting traditional Biblical teachings concerning homosexuality. They uses anecdotes from families who are friendly or at least resigned to the concept of homosexuality and they gather testimony from liberal clergy who discuss the scriptures. These testimonials are typified by a preacher from the Disciples of Christ who stresses that cannot say what the Bible says; we can only say what it reads. Others profess that scriptures which describe homosexuality as an abomination are morally equivalent to dietary restrictions cited in contiguous but not contextual scriptures. Other arguments against scriptural teachings against homosexuality offer some tortured definitions of of words which deviate greatly from common and long accepted definitions. A good example of this involves the narrator's claim that "natural" actually means "customary." This would substantially alter the meaning and the long accepted view of the word in its context. The producers provide scant attention to opposing viewpoints; it is safe to say that any opposing viewpoints are merely token."
+],
+"summaries": [
+"An exploration of the intersection between religion and homosexuality in the U.S. and how the religious right has used its interpretation of the Bible to stigmatize the gay community."
+,
+"We meet five Christian families, each with a gay or lesbian child. Parents talk about their marriages and church-going, their children's childhood and coming out, their reactions, and changes over time. The stories told by these nine parents and four adult children alternate with talking heads - Protestant and Jewish theologians - and with film clips of fundamentalist preachers and pundits and news clips of people in the street. They discuss scripture and biblical scholarship. A thesis of the film is that much of Christianity's homophobia represents a misreading of scripture, a denial of science, and an embrace of quack psychology. The families call for love."
+]
+}
+}
+,
+{
+"_index": "movies",
+"_type": "docs",
+"_id": "GSJW84QB_Hoamgc57G4D",
+"_score": 12.051474,
+"_source": {
+"title": "Rachel, Rachel",
+"year": 1968,
+"genders": [
+"Drama"
+,
+"Romance"
+],
+"score": 7.1,
+"directors": [
+"Paul Newman"
+],
+"writers": [
+"Stewart Stern"
+,
+"Margaret Laurence"
+],
+"synopsis": [
+"Rachel Cameron (Joanne Woodward) is a shy, 35-year-old spinster schoolteacher living with her widowed mother in a small apartment above a funeral home that was once owned by her late father in a small town in Connecticut. Haunted by memories of her unhappy childhood and her mortician father, Rachel spends each frustrating day taking care of her mother and working with the schoolchildren. School is soon let out for summer vacation and Rachel figures it will just be another lonely and boring summer for her. (It's implied that she may even hate summer as her job provided somewhat of an escape from her domineering mother who's always trying to compare her to her sister, who married a successful businessman in Boston.)Rachel's closest friend is Calla Mackie (Estelle Parsons), a fellow unmarried teacher who persuades her to attend a revival meeting, where a visiting preacher, named Reverend Wood, encourages Rachel to express her need for the love of Jesus Christ. Rachel is overwhelmed by God's grace, baring so much pent-up emotion, that she is humbled after the service. While comforting Rachel, Calla suddenly begins to kiss Rachel passionately. (It is never explained if Calla is a lesbian, bisexual, or if she merely reacted to the emotion of the moment.) Rachel's reaction is to withdraw from the friendship for the time being.Note: Brief daydreaming sequences of the adult Rachel also appear, including those showing her imagining seizing a stolen moment with the school's possibly sexual-harassing principal; taking an under-loved boy in her classroom home with her; and rocking an expected baby in a park while children play nearby.Rachel realizes that only by exposing herself to life is the way she can she experience it. She therefore gives herself to a former high school friend, named Nick Kazlik (James Olsen), who is in town for a visit with his parents which she and he sleep together after first meeting. Mistaking her first sexual encounter for love, she fantasizes about a future with Nick. Her hopes are shattered, however, when Nick, put off by her seriousness, abruptly ends their affair.A short time later, Rachel discovers that she may be pregnant. Determined to accept the consequences of her actions, she decides to go away and have the child. After Calla has helped her find a teaching post in Oregon, Rachel learns that her pregnancy is merely a cyst requiring minor surgery. After undergoing surgery to have the cyst removed, she tells her mother, in the hospital, that she has decided to relocate, and that her mother may accompany her or not, as she wishes. Her mother quickly agrees to go, in a way that suggests she realizes her dependence on Rachel and perhaps even will take her less for granted from now on. Rachel sets out with hope for the future, having learned that she has choices, that she is able to give and receive sexual pleasure, that it is possible for her to take on life actively, rather than wait for it to find her. In the final scene, as Rachel leaves town with her somewhat reluctant mother and looks for the last time at the familiar sights of her home town, she speculates on what the future may bring."
+],
+"summaries": [
+"Rachel is a lonely school teacher who lives with her mother. When a man from the big city asks her out, she starts thinking about where she wants her life to go."
+,
+"Thirty-five year old spinster and virgin Rachel Cameron is a sad, lonely woman. She lives in the small town of Japonica, Connecticut where she grew up. She teaches second grade at Japonica Elementary School and lives with her highly demanding widowed mother (her funeral director father passed away fourteen years ago) in the same apartment above a funeral home where she grew up, despite the home now not being owned by them. Rachel often uses her mother as an excuse not to do things. Rachel represses her emotions, and is prone to daydreaming to envision alternate paths for herself in certain situations if she only had the nerve to do those things. Even when Nick Kazlik, a childhood acquaintance who has returned to Japonica for a summer visit with his family, makes it clear that he wants to have fun with her while he's in town, she can't act on his request out of fear of the unknown. But after a couple of incidents with her only real friend Calla Mackie, who is a fellow teacher at the school, Rachel begins to allow herself more freedom. But as Rachel's repressions slowly melt away, how her emotions will manifest themselves becomes the question."
+]
+}
+}
+,
+{
+"_index": "movies",
+"_type": "docs",
+"_id": "30xi84QBEuMZ1zZ3rElc",
+"_score": 12.051474,
+"_source": {
+"title": "Rachel, Rachel",
+"year": 1968,
+"genders": [
+"Drama"
+,
+"Romance"
+],
+"score": 7.1,
+"directors": [
+"Paul Newman"
+],
+"writers": [
+"Stewart Stern"
+,
+"Margaret Laurence"
+],
+"synopsis": [
+"Rachel Cameron (Joanne Woodward) is a shy, 35-year-old spinster schoolteacher living with her widowed mother in a small apartment above a funeral home that was once owned by her late father in a small town in Connecticut. Haunted by memories of her unhappy childhood and her mortician father, Rachel spends each frustrating day taking care of her mother and working with the schoolchildren. School is soon let out for summer vacation and Rachel figures it will just be another lonely and boring summer for her. (It's implied that she may even hate summer as her job provided somewhat of an escape from her domineering mother who's always trying to compare her to her sister, who married a successful businessman in Boston.)Rachel's closest friend is Calla Mackie (Estelle Parsons), a fellow unmarried teacher who persuades her to attend a revival meeting, where a visiting preacher, named Reverend Wood, encourages Rachel to express her need for the love of Jesus Christ. Rachel is overwhelmed by God's grace, baring so much pent-up emotion, that she is humbled after the service. While comforting Rachel, Calla suddenly begins to kiss Rachel passionately. (It is never explained if Calla is a lesbian, bisexual, or if she merely reacted to the emotion of the moment.) Rachel's reaction is to withdraw from the friendship for the time being.Note: Brief daydreaming sequences of the adult Rachel also appear, including those showing her imagining seizing a stolen moment with the school's possibly sexual-harassing principal; taking an under-loved boy in her classroom home with her; and rocking an expected baby in a park while children play nearby.Rachel realizes that only by exposing herself to life is the way she can she experience it. She therefore gives herself to a former high school friend, named Nick Kazlik (James Olsen), who is in town for a visit with his parents which she and he sleep together after first meeting. Mistaking her first sexual encounter for love, she fantasizes about a future with Nick. Her hopes are shattered, however, when Nick, put off by her seriousness, abruptly ends their affair.A short time later, Rachel discovers that she may be pregnant. Determined to accept the consequences of her actions, she decides to go away and have the child. After Calla has helped her find a teaching post in Oregon, Rachel learns that her pregnancy is merely a cyst requiring minor surgery. After undergoing surgery to have the cyst removed, she tells her mother, in the hospital, that she has decided to relocate, and that her mother may accompany her or not, as she wishes. Her mother quickly agrees to go, in a way that suggests she realizes her dependence on Rachel and perhaps even will take her less for granted from now on. Rachel sets out with hope for the future, having learned that she has choices, that she is able to give and receive sexual pleasure, that it is possible for her to take on life actively, rather than wait for it to find her. In the final scene, as Rachel leaves town with her somewhat reluctant mother and looks for the last time at the familiar sights of her home town, she speculates on what the future may bring."
+],
+"summaries": [
+"Rachel is a lonely school teacher who lives with her mother. When a man from the big city asks her out, she starts thinking about where she wants her life to go."
+,
+"Thirty-five year old spinster and virgin Rachel Cameron is a sad, lonely woman. She lives in the small town of Japonica, Connecticut where she grew up. She teaches second grade at Japonica Elementary School and lives with her highly demanding widowed mother (her funeral director father passed away fourteen years ago) in the same apartment above a funeral home where she grew up, despite the home now not being owned by them. Rachel often uses her mother as an excuse not to do things. Rachel represses her emotions, and is prone to daydreaming to envision alternate paths for herself in certain situations if she only had the nerve to do those things. Even when Nick Kazlik, a childhood acquaintance who has returned to Japonica for a summer visit with his family, makes it clear that he wants to have fun with her while he's in town, she can't act on his request out of fear of the unknown. But after a couple of incidents with her only real friend Calla Mackie, who is a fellow teacher at the school, Rachel begins to allow herself more freedom. But as Rachel's repressions slowly melt away, how her emotions will manifest themselves becomes the question."
+]
+}
+}
+,
+{
+"_index": "movies",
+"_type": "docs",
+"_id": "iExi84QBEuMZ1zZ3rHBq",
+"_score": 11.973539,
+"_source": {
+"title": "Me Him Her",
+"year": 2015,
+"genders": [
+"Comedy"
+,
+"Romance"
+],
+"score": 5.2,
+"directors": [
+"Max Landis"
+],
+"writers": [
+"Max Landis"
+],
+"synopsis": [ ],
+"summaries": [
+"Vicenarian drifter Cory arrives in Los Angeles to help his semi-famous T.V. star friend Brendan take his first steps out of the closet."
+,
+"Brendan Ehrlick, star of TV's popular cop series "Hard Justice," would like to come out of the closet to his parents. His first step? Come out to his best friend Cory in Florida and solicit his help. Cory already knows he's gay but comes to L.A. anyway, where his actions, rather than help Brendan, put him in awkward, possibly career-threatening situations. As corporate managers advise Brendan to remain uninformative in dealing with paparazzi, Cory ventures off into a one-night-stand with Emily, a lesbian on the rebound from a toxic relationship. He falls for her, but being with him confuses her life-long lesbian identity. Her struggles with this prompt Cory towards suddenly becoming a better friend to Brendan, leading to an immediate abduction followed by a violent, sword-wielding confrontation at the "Hard Justice" cast party."
+]
+}
+}
+,
+{
+"_index": "movies",
+"_type": "docs",
+"_id": "q0xi84QBEuMZ1zZ3rElc",
+"_score": 11.956003,
+"_source": {
+"title": "Les Biches",
+"year": 1968,
+"genders": [
+"Drama"
+],
+"score": 6.9,
+"directors": [
+"Claude Chabrol"
+],
+"writers": [
+"Paul Gégauff"
+,
+"Claude Chabrol"
+],
+"synopsis": [ ],
+"summaries": [
+"Architect Paul Thomas insinuates himself into the relationship of two bisexual women living in a St. Tropez villa with tragic consequences."
+,
+"Frédérique is a rich and beautiful woman who picks up a female street artist called "Why". It is December and they go to her villa in Saint Tropez, which is inhabited by a couple of odd gay men. Both women fall for the local architect Paul Thomas. However Why says that she is not interested in him, so Frédérique invites him to move into the villa."
+,
+"In Paris, while crossing a bridge over the Seine, the bored bisexual millionaire Frédérique meets a homeless young street painter called 'Why' and invites her to drink tea at her apartment. They have a love affair and Frédérique takes 'Why' to spend the winter at her house in Saint Tropez, where Frédérique's other two friends of hers live. When Frédérique throws a party for a few guests, the handsome architect Paul Thomas hits on Why. She is seduced by Paul and spends the night with him in his place. The next day, the selfish Frédérique visits Paul and seduces him. They travel together to Paris and when they return, Frédérique tells Why that Paul is going to live with them at her house. Why is upset but unsuccessfully tries to seduce Paul. One night, Why proposes they get drunk, expecting to go to their room and have a threesome, but she is unwanted by the couple. When Frédérique and Paul travel to Paris to attend urgent business, Why follows them expecting to stay in Frédérique's apartment."
+]
+}
+}
+,
+{
+"_index": "movies",
+"_type": "docs",
+"_id": "R0xi84QBEuMZ1zZ3rEtd",
+"_score": 10.9007015,
+"_source": {
+"title": "Horror Express",
+"year": 1972,
+"genders": [
+"Adventure"
+,
+"Horror"
+,
+"Sci-Fi"
+],
+"score": 6.5,
+"directors": [
+"Eugenio Martín"
+],
+"writers": [
+"Arnaud d'Usseau"
+,
+"Julian Zimet"
+],
+"synopsis": [
+"In 1906 Shanghai, anthropologist Professor Sir Alexander Saxton (Christopher Lee) is returning home to England via the Trans-Siberian Railway to Moscow. He brings with him a large crate containing the prize from his expedition in the mountains of Manchuria: the frozen remains of a primitive humanoid creature, which Saxton is sure is the missing link in the evolutionary chain. Also on board is Dr. Wells (Peter Cushing), a colleague of Saxton's from the Geological Society of London.Mysterious deaths occur even before the train sets out. A known thief is found dead on the platform after having looked into the crate. His corpse is discovered bleeding from the eyes, which have turned blank and white. A slightly unbalanced, Rasputin-esque monk named Pujardov (Alberto de Mendoza) claims that the contents of the crate is evil. Pujardov is the spiritual adviser for Count Maryan Petrovski (George Rigaud) and his wife, Irina (Silvia Tortosa), and he tries to demonstrate to them that the crate is an omen of evil: in a bizarre rationalization, he claims that where there is evil, there is no place for the sign of the cross, and a piece of chalk fails to make the marking of the cross on the side of the crate. Saxton dismisses it as a trick and discredits the monk.Saxton is eager to keep his find a secret from everyone, especially Dr. Wells, but Wells pays the baggage man (Víctor Israel) to look into the crate when everyone is gone and tell him what's inside. Later, the man does this and is also killed by the creature, which possesses a glowing red eye. After gazing at the red eye, the man's eyes begin to bleed and turn white until he falls down dead. The ape-man quickly picks the lock of the crate just like the Chinese thief did back at the beginning of the train's voyage. The creature leaves the crate and places the baggage man's corpse inside instead; the others discover it later and Saxton is forced to come clean about his discovery. Inspector Mirov (Julio Peña) represents authority on the train, and he tries to keep the news of the death quiet among the passengers, while simultaneously searching for the creature.A beautiful woman insinuates herself into Dr. Wells' compartment; she is Natasha (Helga Liné), and she uses her feminine charm to convince Wells that she is a lady in distress. In reality, Natasha is a spy intent on pilfering a block of steel belonging to the Count - who knows the formula for its creation - from the train's safe. She is recognized by Yevtushenko (Ángel del Pozo), a prominent engineer who knows he has seen her before. Wells dines with the both of them in the dining car, but Mirov summons him and his assistant, Miss Jones (Alice Reinheart) to perform an autopsy on the baggage man. When they remove the top of his skull, they find that his brain is strangely smooth; Wells concludes that the brain has somehow been "drained" of all knowledge and memory. Later, when he sees a boiled fish with a white eye, he decides that this is the reason the eyes of the victims turn white; the memories and information are absorbed through the eyes, causing this reaction.The fossil continues to haunt the train and kills two guards, eventually overcoming Natasha when she sneaks into the baggage compartment and attempts to remove the steel block from the safe. Wells happens upon the murder scene and the fossil tries to attack him, but it is gunned down by Inspector Mirov, who stares at the creature and then collapses into unconsciousness.In a strange experiment, Saxton, Wells and Jones discover images embedded in liquid inside the eye of the fossil, images that reveal a prehistoric Earth, as well as a view of the Earth from outer space. They deduce that the real threat is a formless alien creature that was simply inhabiting the body of the fossil, and that it has now transferred itself to someone else on board the train. These fears are confirmed when Jones is found dead in the baggage compartment, attacked by the Inspector and drained of her brain, her eyes white and bleeding. The monk senses the evil presence inside of the Inspector and pledges allegiance to it, declaring it to be Satan. Yevtushenko becomes a victim, too, when the creature learns that he has studied the laws of physics and theories of space travel.When news of the murders on the train is wired to Siberian authorities, the train is stopped and an intimidating Cossack named Captain Kazan (Telly Savalas) boards with a small group of his men. Mirov is discovered to be the creature and is shot and stabbed, but not before the alien presence transfers itself to the monk. The passengers all evacuate to the caboose, while the monk murders Kazan and his men by draining them of their brains.The creature attacks the Count to absorb his knowledge about steel; using the combined knowledge of the minds it has absorbed, the creature intends to build a vehicle that will allow it to escape Earth. When it threatens the Countess, Saxton arrives and confronts it with a shotgun and a powerful light, which renders its deadly red eyes temporarily ineffective. Playing for time, the creature tempts Saxton by revealing that it is a formless energy that came to Earth millions of years ago from another galaxy, and was accidentally left behind by its own kind; it has survived by transferring itself to each form of life that has evolved over time. As such, it possesses all of the knowledge that Saxton so desperately wants - including, it claims, the knowledge to cure disease and end hunger. Saxton, however, decides that the alien is too dangerous to be left alive. Realizing that Saxton cannot be bargained with, it resurrects all of its victims as white-eyed zombies. Saxton and the Countess fight through the zombies back to the caboose, where the others are waiting. As Saxton and Wells desperately work to detach the caboose from the rest of the train, Kazan's superiors in Moscow send a telegraph to the next station ahead, ordering them to divert the train to a siding overlooking a precarious cliff. The operators follow this order, speculating that a war has broken out. Just as Saxton and Wells uncouple themselves from the rest of the train, it crashes over the cliff and explodes into a fireball as it hits the ravine below. The caboose rolls to a safe stop precariously near the edge, where the survivors watch the fire consume the train and the unearthly inhabitants within it."
+],
+"summaries": [
+"While travelling on the Trans-Siberian Express, an anthropologist and his rival must contain the threat posed by the former's cargo: a prehistoric ape which is the host for a lifeform that is absorbing the minds of the passengers and crew."
+,
+"An English anthropologist has discovered a frozen monster in the frozen wastes of Manchuria which he believes may be the Missing Link. He brings the creature back to Europe aboard a trans-Siberian express, but during the trip the monster thaws out and starts to butcher the passengers one by one."
+,
+"In 1906, in China, Professor Alexander Saxton discovers an ancient frozen fossil in the remote Province of Szechuan. He brings the remains of the being in a box to Shanghai and boards a trans-Siberian train, where he meets his acquaintance Dr. Wells. During the trip, a life force trapped in the frozen creature is released, killing and stealing the memories of the passengers."
+]
+}
+}
+,
+{
+"_index": "movies",
+"_type": "docs",
+"_id": "R0xi84QBEuMZ1zZ3rE9f",
+"_score": 10.872667,
+"_source": {
+"title": "The Lonely Lady",
+"year": 1983,
+"genders": [
+"Drama"
+],
+"score": 3.1,
+"directors": [
+"Peter Sasdy"
+],
+"writers": [
+"Harold Robbins"
+,
+"Ellen Shepard"
+,
+"John Kershaw"
+],
+"synopsis": [
+"Jerilee Randall enters the Awards Presentation Ceremony alone, unrecognized by the media and the crowd gathered outside.Several years earlier, as a student at Valley High School, 18-year-old Jerilee received an award, presented by film director Guy Jackson, for her outstanding achievements in creative writing. In an acceptance speech, Jerilee states that in each of her stories, at least one character must be "concerned with some important issue that people are afraid to talk about." Afterward, Jerilee attends a party where she meets Walt Thornton, Jnr., the son of renowned screenwriter, Walter Thornton. He invites Jerilee to meet his famous father, and during the drive, Walt's friends Joe and Mary attempt to draw her into their amorous activities in the back seat. Shortly after arriving, Joe knocks Walt unconscious and rapes Jerilee with the nozzle of a garden hose before the elder Walter comes to her rescue.A few days later, Walter visits Jerilee to return the award statuette she left in his home. They bond over their shared passion for writing, and over time, their mutual admiration turns to love. Although Jerilee's widowed mother, Veronica, disapproves of her daughter's romance with an older man, she does not interfere with the couple's plans to marry. Later, Walter's agent tries to discourage Jerilee's aspirations, saying, "women can't write," and advises her to earn a living from her beauty rather than her mind. Jerilee proves him wrong by writing a critically-acclaimed book of short stories.When an unemployed actress begs Walter for a part in his next picture, he uses the incident to show his wife that many in the entertainment industry have lost their self-respect. Regardless, Jerilee is anxious to learn screenwriting and becomes Walter's assistant on his latest film. On the set, she reconnects with director Guy Jackson, who complains about the length of a key speech in Walter's screenplay, to be delivered during a child's funeral. Jerilee replaces the entire speech with the word, "why," which pleases the director. Walter is angered by his wife's audacity, but accepts credit for the rewrite.After the film has become a commercial and critical success, Jerilee is angered by Walter's refusal to acknowledge her contribution during a lunch with friends and associates. He admits to his loss of self-respect and leaves. Upon returning home, Jerilynn tries to reason with her husband, but he becomes verbally abusive and makes a cruel reference to the garden hose that she enjoyed being raped by it.Sometime later, Guy visits Jerilee in her modest apartment. She has left Walter, written another book, and wants to write a screenplay about two people whose deep love cannot surmount their lack of compatibility. Guy takes her to a party, where she encounters rising star George Ballantine, and they begin a torrid affair, despite the fact that he is married. George rejects Jerilee when he learns that she is pregnant with his child, and she has an abortion.While at a restaurant with Veronica, Jerilee meets nightclub owner Vincent Dacosta and his business partner, Nick Rossi, who are in search of screenplays for their new film production company. When Jerilee offers her screenplay, Dacosta is interested, but later admits that he and Nick will need more than six months to raise the necessary funds. Aware of Jerilee's dire financial situation, he offers her a job at his nightclub. Their business relationship develops into a stormy love affair, as Dacosta reveals his volatile personality and penchant for cocaine.Jerilee has a nervous breakdown after Dacosta allows her to be molested by lesbian Italian actress Carla Maria Peroni, and she is committed to a mental hospital. Guy's regular visits to the hospital, along with his love and encouragement, speed Jerilee's recovery. Her harrowing experiences inspire her to write a new screenplay, titled "The Hold-Outs," which Guy takes to his agent. Jerilee is offered the opportunity to sell her screenplay to producer Tom Castel, providing George Ballantine is given a starring role. She refuses at first, but Guy convinces her, saying, "It's the movie that matters." Jerilee meets with Castel at his home, where the producer leaves the decision to his bisexual wife, Joanne, who insists that Jerilee join her in the hot tub.Months later, the events come full circle at the Presentation Ceremony, where Jerilee wins the award for best original screenplay. During her acceptance speech, she admits that she, like so many women in Hollywood, had to trade sex for a career, and describes how she was exploited by her colleagues whom she describes by name. Jerilee places her award statuette on the podium and refuses to accept it. She leaves the ceremony in tears, ignoring the taunts of outraged audience members."
+],
+"summaries": [
+"Hoping to achieve success in Hollywood, a young aspiring screenwriter allows others to exploit her. She goes through affair after sordid affair in her attempt to write her own screenplay and have it produced."
+,
+"Jerilee Randall, a simple schoolgirl living in the San Fernando Valley, dreams of becoming a famous screenwriter. She meets the son of a famous screenwriter at a party and accepts his invitation to come to his house. They drive away with some other people, and that night one of his friends assaults her with a garden hose. The attack is interrupted--just in time--by screenwriter Walter Thornton. Jerilee and Walter become friends, then fall in love and marry. Their marriage falls apart when Jerilee's script rewrites actually improve one of Walter's screenplays and he feels one-upped. Jerilee then tries to write her own screenplay and have it produced, which ends up involving her in endless sordid affairs."
+]
+}
+}
+,
+{
+"_index": "movies",
+"_type": "docs",
+"_id": "dkxi84QBEuMZ1zZ3rFZi",
+"_score": 10.862858,
+"_source": {
+"title": "Chasing Amy",
+"year": 1997,
+"genders": [
+"Comedy"
+,
+"Drama"
+,
+"Romance"
+],
+"score": 7.2,
+"directors": [
+"Kevin Smith"
+],
+"writers": [
+"Kevin Smith"
+],
+"synopsis": [
+"Holden McNeil (Ben Affleck) and Banky Edwards (Jason Lee) are comic book artists and lifelong friends. Holden is the calmer, more reasonable of the duo; Banky, meanwhile, is the caustic and short-tempered half. The story opens at a comic book convention in New York City where the two are promoting their latest comic series 'Bluntman and Chronic'. After Holden breaks up a fight between Banky and an antagonistic fan, they attend a panel discussion where they meet Alyssa Jones (Joey Lauren Adams). She is a struggling comic book writer whom is friends with the African-American comic book writer and activist Hooper (Dwight Ewell) who puts on this militant image to hide his flamboyantly gay personality.That evening, the four go out for drinks together at a local bar where Holden is attracted to Alyssa based on their conversation during a dart game. Through Hooper she invites Holden to a get together at a bar she frequents. Banks comes along and while there Alyssa is asked to sing a song. During the song Banky notices that they are in a female gay bar and that Alyssa is singing the love song to a woman in the audience and not to Holden who thinks the song is for him. The four of them end up at a booth and Alyssa and Banky have an involved conversation about sex with women while Holden broods, visibly upset about Alyssa being a lesbian. However, they have discovered they are both from the same area of New Jersey and the two begin hanging out, and a deep friendship develops. During their discussions it is clear that Holden has a very narrow heterosexual view on male female relationships and sex in general. The new friendship does not sit well with the homophobic Banky, who dislikes and distrusts Alyssa and is bothered by the relationship that develops between her and Holden. Holden and Banky's business relationship suffers as well -- the two had been on the verge of signing a lucrative deal to turn Bluntman and Chronic into television show and Banky feels that Holden is no longer taking their combined efforts or the TV show seriously.Eventually, Holden is no longer able to contain his feelings, and confesses his love to Alyssa. She is initially angry with him and walks away. Holden follows her and they have a heated discussion about their relationship and she walks away again. Holden is confused and while returning to his vehicle Alyssa runs up, they embrace and that night the two begin a romantic relationship. Banky walks in the next morning and finds them together sleeping on his couch in the studio. This new development worsens the tension between Holden and Banky who distrusts Alyssa and that his friend is going to be hurt when the relationship fails. Banky runs across an old friend who grew up with Alyssa who tells him a sexual adventure story from Alyssa's past. Banky reports to Holden that Alyssa participated in a threesome with two guys during high school, which earned her the nickname "Finger Cuffs" for getting it from both ends. Holden is deeply disturbed by this revelation, having believed based on their conversations about love and sex that he is the first man Alyssa had ever slept with.Holden asks advice from Hooper who tells him that if he wants his relationship with Alyssa to work, he must be honest and truthful and ask Alyssa about her past. Hooper also tells Holden he believes the issue with Banky is that Banky is jealous and in love with him and that his macho sexual banter is a disguise for his true feelings.The following evening, Holden confronts Alyssa while attending a hockey game and he clumsily attempts baiting her into confessing, which she eventually does, prompting her to storm out of the arena. During a tearful argument in the parking lot, she tells Holden about her youthful sexual experimentation involving men. She apologizes for letting him believe that he was the only man she had been with but justifies it by saying she could see that he took pleasure in the thought. However, she refuses to apologize for her past and Holden leaves feeling angry and confused.Later, during lunch at a local diner with the local stoners and drug dealers Jay and Silent Bob (Jason Mewes and Kevin Smith), who were the inspiration for the Bluntman and Chronic comic book characters, Holden gives them their monthly residual pay for sales of the comic book. Here he confides in them about his troubled feelings and relationship with Alyssa. Speaking more than one line for the first time, Silent Bob mentions chasing Amy and reveals that he was once in a relationship "a couple of years ago" which was similar to Holden's. Despite the fact that he was in love with his girlfriend, Amy, his insecurities about her adventurous sexual past caused him to sabotage the relationship and leave her. Angry at himself for letting her go, he has "spent every day since then chasing Amy".Inspired by Silent Bob's story, Holden devises a plan to fix both his relationship with Alyssa and his fractured friendship with Banky. He invites them both over and tells Alyssa that he would like to get over her past and remain her boyfriend. He also tells Banky that he realizes that Banky is in love with him... kissing him passionately to prove the point. Holden suggests that the three of them should have sex with each other in a threesome so he will no longer be envious of Alyssa's broader experiences and it will resolve Banky's issues with them as a couple. Banky reluctantly agrees to participate. Alyssa is appalled and refuses, at which Banky expresses his relief. Alyssa tries to explain to Holden why his plan is so wrong. Before leaving, she states that she will always love him but her past is in the past and she will not be his whore and slaps him across his face. Banky then leaves without saying a word.One year later, the story has Banky busy promoting his own new comic book at a convention in New York. It is revealed that Holden has dissolved their partnership over Bluntman and Chronic, leaving the viewer with the assumption that he sold the publishing and creative rights over to Banky (which is corroborated in the beginning of 'Jay and Silent Bob Strike Back'). Banky looks over and sees Holden at a distance, who silently congratulates him for his success on the new book. Banky gestures over to a booth hosted by Alyssa who is promoting her own comic, and provides wordless encouragement with a hand gesture implying a coming together to Holden to go talk to her. Holden has a brief poignant conversation with Alyssa, and gives her a copy of 'Chasing Amy', his new comic based on their failed relationship. Holden asks her to contact him. After Holden leaves, Alyssa's girlfriend (Virginia Smith) comes back to the booth and asks who that was. Alyssa feigns indifference,casually tosses his comic on the floor behind her and replies, "Oh, just some guy I knew." She then turns to sign the next fan's material."
+],
+"summaries": [
+"Holden and Banky are comic book artists. Everything's going good for them until they meet Alyssa, also a comic book artist. Holden falls for her, but his hopes are crushed when he finds out she's a lesbian."
+,
+"A pair of comic book authors named Holden McNeil and Banky Edwards, who live in New Jersey, have been best friends for 20 years. They spend their time working in their studio, and in the evenings they are going out. But their friendship is about to be disputed for the first time in their life, when a beautiful young lesbian woman named Alyssa Jones enters their life and Holden falls in love with her. Now Holden has to deal with Banky's jealousy, and with his new girlfriend's very rich past."
+,
+"Holden and Banky are two average guys who just need someone to bring out their hidden secrets. Enter Alyssa Jones and Hooper LaMont, two homosexuals who are slightly more experienced than the former two. Together, Hooper and Alyssa show Holden and Banky that being gay isn't as bad as they might think. Meanwhile, Holden develops an 'untainted' love for Alyssa, one which she finally sees in him as well, taking Holden on a journey through the complexities of love in the 90s."
+,
+"Holden and Banky are best friends and authors of a popular comic book called "Bluntman and Chronic". Holden falls in love with Alyssa, also a comic book artist, who happens to be a lesbian. Holden's new relationship with Alyssa strains his life-long friendship with Banky, and soon the relationship between Holden and Alyssa hits a wall due to Holden not being able to deal with her past."
+]
+}
+}
+,
+{
+"_index": "movies",
+"_type": "docs",
+"_id": "yyJW84QB_Hoamgc57I4V",
+"_score": 10.634079,
+"_source": {
+"title": "Mutantes: Punk Porn Feminism",
+"year": 2009,
+"genders": [
+"Documentary"
+],
+"score": 6.3,
+"directors": [
+"Virginie Despentes"
+],
+"writers": [
+"Norma Jean Almodovar"
+,
+"Maria Beatty"
+,
+"Lynn Breedlove"
+],
+"synopsis": [ ],
+"summaries": [
+"Mutantes sheds light on a feminism that was little talked about in France. This documentary comprises of a series of interviews conducted in the USA, Paris and Barcelona, and documents from the archives about the political action of sex workers, queer activists and post-pornographic performances."
+]
+}
+}
+,
+{
+"_index": "movies",
+"_type": "docs",
+"_id": "kUxi84QBEuMZ1zZ3rGpo",
+"_score": 10.634079,
+"_source": {
+"title": "Mutantes: Punk Porn Feminism",
+"year": 2009,
+"genders": [
+"Documentary"
+],
+"score": 6.3,
+"directors": [
+"Virginie Despentes"
+],
+"writers": [
+"Norma Jean Almodovar"
+,
+"Maria Beatty"
+,
+"Lynn Breedlove"
+],
+"synopsis": [ ],
+"summaries": [
+"Mutantes sheds light on a feminism that was little talked about in France. This documentary comprises of a series of interviews conducted in the USA, Paris and Barcelona, and documents from the archives about the political action of sex workers, queer activists and post-pornographic performances."
+]
+}
+}
+,
+{
+"_index": "movies",
+"_type": "docs",
+"_id": "FCJW84QB_Hoamgc57Jga",
+"_score": 10.610501,
+"_source": {
+"title": "Break Free",
+"year": 2014,
+"genders": [
+"Short"
+],
+"score": 7.4,
+"directors": [
+"Phillip Lopez"
+],
+"writers": [
+"Ruby Rose"
+],
+"synopsis": [ ],
+"summaries": [
+"A short film about gender roles, Trans, and what it is like to have an identity that deviates from the status quo."
+]
+}
+}
+,
+{
+"_index": "movies",
+"_type": "docs",
+"_id": "2kxi84QBEuMZ1zZ3rHNs",
+"_score": 10.610501,
+"_source": {
+"title": "Break Free",
+"year": 2014,
+"genders": [
+"Short"
+],
+"score": 7.4,
+"directors": [
+"Phillip Lopez"
+],
+"writers": [
+"Ruby Rose"
+],
+"synopsis": [ ],
+"summaries": [
+"A short film about gender roles, Trans, and what it is like to have an identity that deviates from the status quo."
+]
+}
+}
+,
+{
+"_index": "movies",
+"_type": "docs",
+"_id": "lUxi84QBEuMZ1zZ3rExe",
+"_score": 10.415293,
+"_source": {
+"title": "Cannonball",
+"year": 1976,
+"genders": [
+"Action"
+,
+"Comedy"
+,
+"Crime"
+],
+"score": 5.5,
+"directors": [
+"Paul Bartel"
+],
+"writers": [
+"Paul Bartel"
+,
+"Don Simpson"
+],
+"synopsis": [
+"Coy "Cannonball" Buckman is a race driver-turned parolee, who signs on to compete in the Trans-Continental Road Race, a cross-country journey starting at the Santa Monica Pier and ending at a garage in New York City. This does not sit well with Coy's parole officer girlfriend Linda Maxwell, who is legally responsible for him and he could go back to prison for violating his parole. Fixing up Coy's red Pontiac Trans Am is his loyal pal Zippo Friedman, who decides to enter the race himself in a identical Trans Am and even dressing up like Coy to fool the cops. Coy's rival is Cade Redman, an embittered fellow racer, who is also tasked to take no-talent country singer Perman Waters and his mother Sharma Capri to New York to jump-start Perman's stalled career.Other participants in the race is eccentric European racing champ Wolfe Messer, driving a yellow DeTomaso Pantera, Jim and Maryann Crandell, a surfer couple racing in a silver Corvette owned by her father. Terry McMillan, who sheepishly uses sneak tactics to make it to New York without driving his orange Chevorlet Blazer, Beutell Morris, who uses the race as a ruse to help a rich couple deliver their Lincoln Continental to New York without a single scratch, and Sandy, driving a custom blue van with her two waitress friends, Judy and Ginny. What Coy does not know is that his gambler brother Bennie made a deal with mob boss Lester Marks to make sure Coy wins the race as Bennie is in heavy debt to them.Linda has no choice but to accompany Coy in the race, but eventually decides to leave her in Zippo's company, when Redman starts trying to run him off the road. Not long after, the dirty tricks begin to come into play: Bennie, with the help of his prison escapee friend Sharpe, secretly planted a bomb under Messer's Pantera, which explodes during a police pursuit in the desert and Redman shoots out a tire in Coy's Trans Am. He later beats up Sharpe, posing as a motorcycle cop pretending to stop Coy on a routine traffic stop, and confronts Redman at a roadside grocery store, where they wreck the entire establishment. Redman escapes the melee and shatters the headlights on Coy's car before taking off. That night, Coy notices the broken headlights and winds up totaling his car on a winding mountain road, but not after being loaned a green Ford Mustang by a pair of rural auto mechanics, who are big fans of him.Redman gets word that Coy is still in the race and is forced to call in more reinforcements to stop him. They mistake Zippo as Coy and beat him to a pulp, with Linda defeating most of the men with judo and karate moves. Coy shows up and learns from Linda that Zippo was actually driving the car that night when a young girl died, resulting in Coy's prosecution. Coy tells Linda that he took the fall for it because Zippo would have never survived in prison. Linda wants to ride with Coy again, for fear of her safety, but Coy says the race is almost over and they will be together soon. Other sub-plots include Jim's Corvette suffering from a damaged fan belt and after unsuccessful attempts to repair it, they try to steal one from a supermarket parking lot, only to be chased away by a suspicious cop and Sandy and her friends duping a pair of handsome patrolmen by having sex with them to avoid a speeding ticket.At this point, a half-crazed Redman notices Coy driving into the construction site of an unfinished bridge. He dumps Perman and Sharma out of the car and speeds after him. Coy manages to jump the bridge to the other side, but Redman's brakes give out and pummels down to a fiery death. Meanwhile, Sharpe plans to assassinate Coy using a sniper rifle, not knowing it is actually Zippo driving the car. Sharpe shoots Zippo through the head and loses control of the Trans Am, ejecting Linda in the process, and explodes. Beutell, distracted by the explosion, accidentally knocks down the car Sharpe was laying under, fatally crushing him. Jim and Maryann spot Linda lying on the road and to take her to a nearby hospital, but not after unintentionally causing a multi-car pile-up. At the hospital, the doctor tells them she will be okay and Jim thinks they should forget about the race and go home, but Maryann still wants to push forward, even though they might not win first place.Terry and his girlfriend Louisa are the first ones to arrive at the finish line, but are disqualified when she blabs that they left their celebratory champagne on the plane. The second one to arrive is Coy, who is greeted by Bennie, but the victory is cut short when a TV cameraman tells Coy about the pile-up, the other red Trans Am destroyed in the explosion, and that Linda was taken to the hospital. Coy learns the truth about the plan Bennie had all along, rips up his race ticket, and heads for the hospital, as a disappointed Lester and his bodyguard escort a doomed Bennie to Lester's limo, as Jim and Maryann arrive and end up the official winners of the race. At the hospital, Coy rushes to Linda's room and is relieved to see her alive, but badly injured, and the two lovingly embrace, as Beutell eventually delivers the now-wrecked Lincoln to the couple standing outside a downtown hotel."
+],
+"summaries": [
+"Racing across the country from L.A. to New York, a plethora of exotic cars carry contestants hoping to win a very large sum."
+]
+}
+}
+,
+{
+"_index": "movies",
+"_type": "docs",
+"_id": "YCJW84QB_Hoamgc57JAW",
+"_score": 10.262165,
+"_source": {
+"title": "Paul Goodman Changed My Life",
+"year": 2011,
+"genders": [
+"Documentary"
+,
+"Biography"
+,
+"Drama"
+],
+"score": 6.6,
+"directors": [
+"Jonathan Lee"
+],
+"writers": [
+"Paul Goodman"
+],
+"synopsis": [ ],
+"summaries": [
+"Paul Goodman, whose best-selling 'Growing Up Absurd' made him the philosopher of the New Left in the 1960s, was also a brilliant poet, out queer (and family man) in the 1940s, radical pacifist and visionary. His ideas and stubborn integrity helped many find a moral compass in the '60's -- and can do so again today."
+]
+}
+}
+,
+{
+"_index": "movies",
+"_type": "docs",
+"_id": "Jkxi84QBEuMZ1zZ3rGxp",
+"_score": 10.262165,
+"_source": {
+"title": "Paul Goodman Changed My Life",
+"year": 2011,
+"genders": [
+"Documentary"
+,
+"Biography"
+,
+"Drama"
+],
+"score": 6.6,
+"directors": [
+"Jonathan Lee"
+],
+"writers": [
+"Paul Goodman"
+],
+"synopsis": [ ],
+"summaries": [
+"Paul Goodman, whose best-selling 'Growing Up Absurd' made him the philosopher of the New Left in the 1960s, was also a brilliant poet, out queer (and family man) in the 1940s, radical pacifist and visionary. His ideas and stubborn integrity helped many find a moral compass in the '60's -- and can do so again today."
+]
+}
+}
+,
+{
+"_index": "movies",
+"_type": "docs",
+"_id": "vyJW84QB_Hoamgc57HsK",
+"_score": 10.222847,
+"_source": {
+"title": "The Kiss of Her Flesh",
+"year": 1968,
+"genders": [
+"Horror"
+,
+"Thriller"
+],
+"score": 5,
+"directors": [
+"Michael Findlay"
+],
+"writers": [
+"Michael Findlay"
+,
+"Roberta Findlay"
+],
+"synopsis": [ ],
+"summaries": [
+"A weapons expert who murdered his unfaithful stripper wife and her lover goes on a killing spree, bumping off exotic dancers and hookers, while plotting the demise of his wife's swinging bisexual sister and her kinky boyfriend."
+]
+}
+}
+,
+{
+"_index": "movies",
+"_type": "docs",
+"_id": "hUxi84QBEuMZ1zZ3rFdi",
+"_score": 10.222847,
+"_source": {
+"title": "The Kiss of Her Flesh",
+"year": 1968,
+"genders": [
+"Horror"
+,
+"Thriller"
+],
+"score": 5,
+"directors": [
+"Michael Findlay"
+],
+"writers": [
+"Michael Findlay"
+,
+"Roberta Findlay"
+],
+"synopsis": [ ],
+"summaries": [
+"A weapons expert who murdered his unfaithful stripper wife and her lover goes on a killing spree, bumping off exotic dancers and hookers, while plotting the demise of his wife's swinging bisexual sister and her kinky boyfriend."
+]
+}
+}
+,
+{
+"_index": "movies",
+"_type": "docs",
+"_id": "EUxi84QBEuMZ1zZ3rFBf",
+"_score": 10.120615,
+"_source": {
+"title": "Kiss of the Spider Woman",
+"year": 1985,
+"genders": [
+"Drama"
+],
+"score": 7.3,
+"directors": [
+"Hector Babenco"
+],
+"writers": [
+"Manuel Puig"
+,
+"Leonard Schrader"
+],
+"synopsis": [
+"In a Latin American prison somewhere in Brazil, an effeminate window dresser named Luis Molina (William Hurt) recites the story of his favorite movie to his cellmate, Valentin Arregui (Raul Julia), a bold and austere political prisoner. Molina embellishes the romance to escape the brutality of prison life, describing a torrid World War II love affair between a French chanteuse, Leni Lamaison (Sonia Braga), and a German captain named Werner (Herson Capr). As Molina describes Leni's conflict between passion and conscience, Arregui protests that the film is Nazi propaganda. Molina's homosexuality, and his sentimental interpretation of fascist cinema, are repulsive to Arregui, but the two begin to develop an unlikely friendship. Arregui admits his concern that the warden has stopped his interrogation, and fears officials will go after his girl friend for intelligence. Molina reveals that he was imprisoned for seducing a minor (a little boy), and longs for a world in which he is free to love without persecution.One day, Molina is called to the warden (José Lewgoy), and reports back to Arregui that his mother is ill with a weak heart. He fears his transgression has caused her to suffer, and may precipitate her death. When the men are provided food trays with disproportionate servings, Arregui insists that Molina take the larger portion. As he reluctantly eats, Molina encourages his cellmate to write a letter to his girl friend, but Arregui does not wish to expose her to the government, and refuses to mention her name.Referring to the brutality of his captors, Arregui questions why they have kept him alive, and believes they are developing sinister new tactics to induce his confession. Impressed by Arregui's dedication to his girl friend, Molina cries about his failure to find love, and remembers a waiter with whom he was infatuated.One day, Molina becomes violently ill, and convalesces in the infirmary. When he returns to the cell, Arregui suffers the same symptoms and realizes the food has been poisoned. Molina insists on calling the guards for help, but Arregui protests, knowing that he will be drugged to reveal the identities of his fellow revolutionaries. In his delirium, Arregui utters the name "Marta," and Molina returns to narrating his favorite movie, hoping it will assuage his pain.As Arregui awakens, he soils himself with diarrhea, and Molina cleans the mess. Grateful for Molina's care, Arregui lets down his guard and allows him to read a letter from his girl friend, whom he now identifies as Lidia. However, Molina inquires about the mysterious Marta. Shocked by Molina's knowledge of her name, Arregui admits he is still entranced by his former lover, Marta (also Sonia Braga), even though she is from an upper-class family, and his association with the bourgeoisie makes him a hypocrite to the revolution. Marta asked him to leave the rebels, but his friends were being abducted, and he agreed to a mission in which he gave his passport to an elderly dissident, code-named "Dr. Americo." After the transaction, Arregui was arrested and tortured, but he did not succumb to the inquisition. He admits he does not want to die, and begs Molina to protect him.Sometime later, Molina is called back to meet with the warden and his henchman, Pedro (Milton Gonçalves), who have promised to reduce Molina's sentence if he spies on his cellmate. They demand to know the name of Arregui's girl friend, and the identity of the prison's new inmate, but Molina remains mum, pointing out that the captive's face has been concealed by a hood. Molina, who knew all along about the poisoned food, insists he is ignorant about Arregui's revolution, and is relieved to learn that his mother's health has improved. He arranges to bring groceries back to the cell, claiming the gift will help maintain the charade that he is being visited by his mother. Molina hopes the delicacies will restore Arregui's health.After the feast, Molina finishes telling the story of the movie, and Arregui hears the new prisoner's moans. Looking through the bars of their cell, he sees that the inmate's shroud has been removed, and identifies the captive as Dr. Americo, the man who received his passport. The next morning, Arregui is enraged to learn that Americo was killed, and lashes out at Molina. Later, Molina returns to the cell with more groceries, and Arregui apologizes.In another visit to the warden, Molina insists he is making progress, but continues to conceal the names Arregui provided. Hoping to secure his own emancipation, Molina argues that Arregui will reveal his secrets if he knows they will part ways, and the warden grants him parole in 24 hours.Back in the cell, Molina despairs his release, claiming that he will remain spiritually imprisoned in a society that castigates his sexual orientation. Arregui consoles his friend, and asks to hear the story of another movie. Molina narrates the cinematic tale of a woman (Sonia Braga in her third role) who is trapped on a desert island, entangled by a spider web that grows from her body. One day, a man washes ashore, and she nurses him back to life. Explaining that the heroine is anguished by desire, Molina admits his love for Arregui. The revolutionary wishes to express gratitude for Molina's compassion, and fulfills his longing to make love.The next day, Molina does not want to leave, but Arregui sees his liberation as an opportunity to communicate with the revolution, and asks him to deliver a telephone message. Molina refuses, and requests a parting token of tenderness that they did not share the night before: A kiss. Arregui begs Molina to stand up for himself in the outside world, and to never submit to degradation. Molina vows to make the call, and they kiss. As Molina bids his beloved farewell, Arregui whispers a telephone number and message in his ear.Molina returns home and visits his mother (Miriam Pires) who is happy to see him home. Over the next few days, Molina makes a tepid reentry into civilian life, unaware that he is being followed by Pedro, the warden's henchman. A few days later, Molina makes the phone call, and is ordered by the unseen person over the phone to meet the revolutionaries in person. He hesitantly agrees, despite the danger, and plans to disappear afterward. Molina clears his bank account, and asks a friend to deliver the package of cash to his mother.In a crowded city plaza, Molina heads to the meeting place and realizes he is being trailed by Pedro. As he approaches the revolutionaries' car, a young woman (Ana Maria Braga) introduces herself as Arregui's girl friend, Lidia. However, she sees Pedro and incorrectly suspects Molina of being an informant. Lidia shoots Molina in the chest. While the rebels speed away, Pedro and his men pull Molina into his vehicle and holds him at gunpoint, ordering him to reveal the telephone number, but Molina dies before he can say anything. Molina's dead body is unceremoniously dumped in a back alley trash heap.Back in prison, Arregui is tortured but he continues to refuse to talk. A medic takes pity and secretly injects him with a painkiller. As Arregui loses consciousness and seemingly dies, he is visited by Marta the Spider Woman. She guides him out of the prison, and leads him to the desert island in Molina's imaginary movie."
+],
+"summaries": [
+"A gay man and a political prisoner are together in a prison. The gay man narrates the stories of two fake movies and his own life."
+,
+"Luis Molina and Valentin Arregui are cell mates in a South American prison. Luis, a trans individual, is found guilty of immoral behavior and Valentin is a political prisoner. To escape reality Luis invents romantic movies, while Valentin tries to keep his mind on the situation he's in. During the time they spend together, the two men come to understand and respect one another."
+,
+"Valentin Arregui and Luis Molina are unlikely cell mates in a Latin American prison. Valentin, a journalist, is a political prisoner who was working for a leftist anti-government revolutionary group. While in prison, he is frequently tortured in order to cough up information on those with whom he is working. That includes the new prisoner in the cell across the block from his. Valentin has yet to provide the authorities with any useful information. Molina, a stereotypically gay window dresser, is imprisoned on morals charges: having homosexual sex with a minor. He states that he has no political affiliations. To pass the time, Molina recounts aloud story-lines from his favorite movies, usually those of a romantic nature. The current movie of which he is telling is a wartime romantic thriller, which in reality is a World War II Nazi propaganda film, about which he doesn't care as he focuses on the romance part of the story. Because of the reason for his imprisonment, Valentin doesn't much like that Molina is telling a story produced by a repressive regime, but gets caught up in Molina's story-telling regardless. The unlikely cell mates form an equally unlikely friendship based on their mutual support for each other. Molina later admits that he has fallen in love with Valentin. What Valentin does not know is that Molina has been co-opted by the prison warden and the secret police to befriend Valentin so that he can get information on and report back to them about the leftist group with which Valentin is working. Molina's reward is early parole. The question becomes on whose side is Molina really supporting if either."
+,
+"A gay and a political prisoner are in a prison. Gay narrates the story of an imaginary movie to the other, in spite his bad interest. He narrates the stories of two different movies mixed with his own life story. The story narration soon becomes a medicine for their loneliness, sadness and pain.A gay and a political prisoner are in a prison. Gay narrates the story of an imaginary movie to the other, in spite his bad interest. He narrates the stories of two different movies mixed with his own life story. The story narration soon becomes a medicine for their loneliness, sadness and pain."
+,
+"In a prison cell somewhere in Latin America, two very different men warily confront each other. Molina is first seen wrapping his head in a towel, in the shape of a turban, while Valentin, bearded and classically macho in appearance, watches with a mixture of fascination and revulsion. During the time spent together, the two men come to understand and respect each other."
+]
+}
+}
+,
+{
+"_index": "movies",
+"_type": "docs",
+"_id": "gExi84QBEuMZ1zZ3rFJg",
+"_score": 9.956917,
+"_source": {
+"title": "Paris Is Burning",
+"year": 1990,
+"genders": [
+"Documentary"
+,
+"Drama"
+,
+"Romance"
+],
+"score": 8.1,
+"directors": [
+"Jennie Livingston"
+],
+"writers": [
+"Brooke Xtravaganza"
+,
+"André Christian"
+,
+"Dorian Corey"
+],
+"synopsis": [ ],
+"summaries": [
+"A chronicle of New York's drag scene in the 1980s, focusing on balls, voguing and the ambitions and dreams of those who gave the era its warmth and vitality."
+,
+"A documentary of New York's LGBT scene in the 1980s, showing the real life of poor Black and Latin LGBT people, introduce the ballrooms, the categories, the houses, the voguing, and the dreams and ambitions of these people who are systematically excluded from society, they fight to conquer the right to be and to reinvent themselves in a world starring straight and white people. They use the balls to show their creativity, have fun with their community and family, shining, and having their names recognized in the ballroom scene."
+,
+"This is a documentary of 'drag nights' among New York's underclass. Queens are interviewed and observed preparing for and competing in many 'balls'. The people, the clothes, and the whole environment are outlandish."
+,
+"An unblinking behind-the-scenes story of fashion-obsessed New Yorkers who created "voguing" and drag balls, and turned these raucous celebrations into a powerful expression pf personal pride. The world-within-a-world is instantly familiar, filled with ambitions, desires, and yearnings that reflect America itself. PARIS IS BURNING is an intimate portrait of one urban community, a world in which the allure of high fashion, status, and wealth becomes an affirmation of love, acceptance, and joy."
+]
+}
+}
+,
+{
+"_index": "movies",
+"_type": "docs",
+"_id": "oUxi84QBEuMZ1zZ3rGJm",
+"_score": 9.920004,
+"_source": {
+"title": "Out at the Wedding",
+"year": 2007,
+"genders": [
+"Comedy"
+,
+"Drama"
+,
+"Romance"
+],
+"score": 6.1,
+"directors": [
+"Lee Friedlander"
+],
+"writers": [
+"Paula Goldberg"
+],
+"synopsis": [ ],
+"summaries": [
+"Ever have an identity crisis? Tell a little white lie here and there, just to make everyone happy? Well, Alex Houston has got you beat, hands down. After telling her fiancé, Dana, that her entire family is dead, Manhattanite Alex whisks off to her childhood home in South Carolina to serve as bridesmaid at her high-maintenance, estranged sister Jeannie's wedding. As she tries not to steal Jeannie's thunder by telling her family that a) she's engaged, and b) the man she's going to marry is a Jewish African American, things get a little mixed up. For starters, Alex's sharp-tongued, mischievous best friend Jonathan unwittingly starts a rumor at the wedding that Alex is gay and Dana is a woman. When her family reacts in a surprisingly supportive way, Alex decides to go with it. It's easier than telling the truth, right? But when Alex and Jonathan decide to hire sexy lesbian Risa to act as her lover when Jeannie comes to visit Alex in New York, things really start to get out of hand. Director Lee Friedlander follows up her award-winning 2004 film "Girl Play" with this witty, farcical romp that explores the sometimes comically bumbling way in which we come out to the people we love - whether we're gay or straight. As she becomes increasingly entangled in her web of lies, Alex struggles to come to terms with her fiancé, her family and most of all herself along the way."
+]
+}
+}
+,
+{
+"_index": "movies",
+"_type": "docs",
+"_id": "kExi84QBEuMZ1zZ3rGVn",
+"_score": 9.892426,
+"_source": {
+"title": "Vampire Killers",
+"year": 2009,
+"genders": [
+"Action"
+,
+"Comedy"
+,
+"Fantasy"
+],
+"score": 5.1,
+"directors": [
+"Phil Claydon"
+],
+"writers": [
+"Stewart Williams"
+,
+"Paul Hupfield"
+],
+"synopsis": [
+"Jimmy (Mathew Horne) and Fletch (James Corden) are two friends living in London experiencing life problems. Jimmy is dumped by his girlfriend and Fletch is fired from his job as a clown. They decide to escape their woes and hike to a remote village in Norfolk they find on an old map. As they arrive at a pub in the village, with Jimmy upset about Fletch destroying his phone, they see a number of attractive foreign female history students leaving.Hoping to find more beautiful women inside, they are greeted by a morose crowd of men and approached by a seemingly crazed vicar (Paul McGann) who believes Jimmy is a long lost descendant of a local vampire slayer. As the barman offers the two men free ale as an apology for the vicar, they learn the students they saw earlier are going to a cottage - where they are to stay the night. Jimmy and Fletch pursue the students' bus, catching up to it as the engine has broken down, and are introduced to four girls (Heidi, Lotte, Anke and Trudi). They are invited to join a party on the bus.The group arrives at their destination, only to learn that a curse rests over the village and that every female child turns into a lesbian vampire on her eighteenth birthday. There is an old legend stating that the Vampire Queen, Carmilla, descended on the village, killed its menfolk and seduced its women to her evil. When the ruler of the land, Baron Wolfgang Mclaren (Jimmy's great ancestor) returned from the Crusades, he discovered one of the women corrupted by Carmilla was his wife, Eva. The baron forged a sacred sword, then defeated Carmilla, but before dying, Carmilla cursed the village, adding that when the blood of the last of Mclaren's bloodline mixed with a virgin girl's blood, Carmilla would be resurrected.Fletch and Jimmy spend the night with the women. Heidi, Anke and Trudi are turned into vampires. After Lotte insists that the others try to find her missing friends, they witness Trudi being turned. Eva, Carmilla's mistress, tries to draw Lotte to her growing clan of lesbian vampires. The trio runs back into the cottage after killing vampires Heidi and Anke and barricade themselves in after the vampires destroy the bus. Jimmy's ex-girlfriend Judi arrives at the door and Jimmy, not ready to give up on the relationship, takes her into the bedroom. Lotte reveals to Fletch that she is a virgin and wants to sleep with Jimmy.At the church, the Vicar researches the vampire slayer who killed Carmilla before arming himself and setting off to find Jimmy. Judi reveals herself to be a vampire, and after a struggle, Fletch and Jimmy kill her. The vampires approach the cottage and Jimmy inadvertently invites them in. Eva discovers that Jimmy is the descendant of the baron who killed Carmilla and that Lotte is a virgin and kidnaps them.The Vicar saves Fletch from Trudi and tells Fletch the truth about the village and Jimmy's identity. They go after Jimmy and Lotte in the Vicar's crucifix-covered car. As the vampires prepare to sacrifice Lotte and Jimmy, Fletch and the Vicar try to recover the sword of Daeldo, the sword that killed Carmilla, from the baron's tomb. While Fletch works to open the tomb, the Vicar checks on his daughter Rebecca, but does not notice that she has been turned. Rebecca attempts to seduce Fletch, who does not know what she is. When she attacks him, she is inadvertently impaled on the sword. Fletch decides not to tell the Vicar of his daughter's death.At Carmilla's tomb, Lotte reveals her love for Jimmy. The vampires begin draining the two of their blood to resurrect Carmilla. With the sword, Fletch and the Vicar drive to Carmilla's tomb. When they enter the woods, they bring various weapons, but forget the sword. Despite not having the sword, the pair reach Jimmy and Lotte. The Vicar releases them, but not before enough blood gathers to resurrect Carmilla. The Vicar sacrifices himself so the others can get back to the car and the sword. Eva separates Lotte from the men, attacking and seducing her. Lotte fights back while Fletch and Jimmy fetch weapons. Lotte kills Eva with her cross necklace, infuriating Carmilla. Fletch tries to kill Carmilla before Lotte is turned, but is captured himself. Jimmy saves them by hurling the sword at Carmilla, piercing her heart and destroying her for good. With the curse lifted, the three survivors decide to continue ridding the world of evil.The film ends with the shot of a "Gay Werewolf" howling before the full moon."
+],
+"summaries": [
+"Their women having been enslaved by the local pack of lesbian vampires thanks to an ancient curse, the remaining menfolk of a rural town send two hapless young lads out onto the moors as a sacrifice."
+,
+"Centuries ago, Baron Wolfgang MacLaren vanquished the Vampire Queen Carmilla in the remote Cragwich; however, before decapitating the evil vampire, she curses the locals and descendants of the baron, swearing that every woman would turn into a lesbian vampire on her 18th birthday. In the present day, clumsy, naive cuckold Jimmy is dumped again by his girlfriend Judy and misses her. His best friend Fletch is fired in his job of clown after hitting an annoying boy. The two broken friends decide to camp in the countryside to forget their problems, and Jimmy throws a dart at a map in a pub to decide where they should go. They head to Cragwich, and when they arrive in the Baron's Rest bar, they see four hot girls leaving the place in a Kombi. The innkeeper offers the guys the old Mircalla cottage in the woods, the same place the girls will lodge. Meanwhile, Lotte, Heide, Anke, and Trudi have trouble with their van, and when Jimmy and Fletch reach them in the forest, the girls offer the guys a ride to their cottage. They introduce themselves as students of folklore who they are researching the Vampire Queen Carmilla. When Fletch believes that he will have a night of beer and sex with three sexy girls and Jimmy and Lotte have a crush on each other, the cottage is surrounded by a group of lesbian vampires that vampires intend to use Jimmy and Lotte's blood to bring Carmilla back to life. They are abducted by the vampires, but Fletch escapes and meets Reverend Vicar, who tells him that Jimmy is a descendant of the baron and the only hope to stop the evil curse of Cragwich."
+]
+}
+}
+,
+{
+"_index": "movies",
+"_type": "docs",
+"_id": "fCJW84QB_Hoamgc57IMP",
+"_score": 9.574596,
+"_source": {
+"title": "Saving Face",
+"year": 2004,
+"genders": [
+"Comedy"
+,
+"Drama"
+,
+"Romance"
+],
+"score": 7.4,
+"directors": [
+"Alice Wu"
+],
+"writers": [
+"Alice Wu"
+],
+"synopsis": [ ],
+"summaries": [
+"A gay Chinese-American and her traditionalist mother are reluctant to go public with secret loves that clash against cultural expectations."
+,
+"In Manhattan, the brilliant Chinese-American lesbian surgeon Wil is surprised by the arrival of her forty-eight year old widow mother to her apartment. Ma was banished from Flushing, Queens, when her father discovered that she was pregnant. The presence of Ma affects the personal life of Wil, who is in love with the daughter of her boss at the hospital, the dancer Vivian Shing. Once her grandfather has promised that her mother would only return to Flushing remarried or proving that it was an immaculate conception, Wil tries to find a Chinese bachelor to marry Ma."
+,
+"A Chinese-American surgeon, living in Manhattan, is shocked when her single mother shows up on her doorstep pregnant. To help her mom save face and avoid the taboo in the Chinese community of an unmarried woman pregnant, the doctor helps her mom find Mr. Right. Cultures clash in this film that explores culture shock."
+]
+}
+}
+,
+{
+"_index": "movies",
+"_type": "docs",
+"_id": "Qkxi84QBEuMZ1zZ3rF9k",
+"_score": 9.574596,
+"_source": {
+"title": "Saving Face",
+"year": 2004,
+"genders": [
+"Comedy"
+,
+"Drama"
+,
+"Romance"
+],
+"score": 7.4,
+"directors": [
+"Alice Wu"
+],
+"writers": [
+"Alice Wu"
+],
+"synopsis": [ ],
+"summaries": [
+"A gay Chinese-American and her traditionalist mother are reluctant to go public with secret loves that clash against cultural expectations."
+,
+"In Manhattan, the brilliant Chinese-American lesbian surgeon Wil is surprised by the arrival of her forty-eight year old widow mother to her apartment. Ma was banished from Flushing, Queens, when her father discovered that she was pregnant. The presence of Ma affects the personal life of Wil, who is in love with the daughter of her boss at the hospital, the dancer Vivian Shing. Once her grandfather has promised that her mother would only return to Flushing remarried or proving that it was an immaculate conception, Wil tries to find a Chinese bachelor to marry Ma."
+,
+"A Chinese-American surgeon, living in Manhattan, is shocked when her single mother shows up on her doorstep pregnant. To help her mom save face and avoid the taboo in the Chinese community of an unmarried woman pregnant, the doctor helps her mom find Mr. Right. Cultures clash in this film that explores culture shock."
+]
+}
+}
+,
+{
+"_index": "movies",
+"_type": "docs",
+"_id": "nkxi84QBEuMZ1zZ3rGtp",
+"_score": 9.502171,
+"_source": {
+"title": "We Are the Night",
+"year": 2010,
+"genders": [
+"Drama"
+,
+"Fantasy"
+,
+"Horror"
+],
+"score": 6.2,
+"directors": [
+"Dennis Gansel"
+],
+"writers": [
+"Jan Berger"
+,
+"Dennis Gansel"
+],
+"synopsis": [
+"The film opens with several images of three young women. The images date further and further back until ending in the late 18th century.In a private airplane, the people and the pilots are dead. The only survivors, three young women, are the obvious killers. The leader of these women finds an air-hostess (Cristina do Rego) still alive. After examining her eyes, she breaks her neck and the women jump out of the plane, allowing it to crash into Berlin, Germany.The next day, somewhere in Berlin, a young 18-year-old drug addict and petty criminal, Lena (Karoline Herfurth), lurks near an ATM cash dispenser. Just as her victim has used the machine she pickpockets his credit card only for the victim to be arrested by the police. A police officer, Tom (Max Riemelt), chases after her and eventually catches up with her on a bridge. After a short conversation, he tries to arrest her but Lena hits him in the face, kicks him between the legs and jumps off the bridge onto a passing boat. Lena returns to her home, a large high-rise apartment block where she lives with her drug-addicted, alcoholic mother (Steffi Kühnert) who is flirting with her parole officer.Later that evening, Lena goes to a nightclub. Everyone in line for the club is being examined with a hidden camera by one of the women from the beginning, Louise (Nina Hoss). Upon seeing Lena, she orders the guard to let her in. Inside the club, Louise dances with Lena and offers her a drink. She asks where Lena's friends are, but Lena replies she does not have any. When Lena goes to the bathroom, Louise follows and bites her on her neck. Freaked out and seeing that Louise casts no reflection in the mirror, the terrified Lena runs home. When she awakes in the morning, the sun burns her, forcing her to stay inside. That night, Lena returns to the club to confront Louise about what has happened. She meets Louise's two companions, the silent brunette Charlotte (Jennifer Ulrich) and the cheerful redhead Nora (Anna Fischer). Although the word is never said in the film, it becomes clear that Louise, Charlotte and Nora are vampires.The girls sell the angry and confused Lena to a Russian pimp (Waléra Kanischtscheff) as a prostitute. Louise plans for Lena to kill the wicked man to ease her transformation. Lena is locked in a room. When the pimp comes in to rape her, she is overwhelmed by vampiric blood lust and attacks the pimp. In the struggle, she stabs him with a broken light bulb and tries to escape but another pimp shoots her with a shotgun. The three other vampire girls return to kill the pimps before setting them ablaze. They fail to notice one mobster hiding in fear. Before leaving, Nora steals one of the mobster's Lamborghini.When Lena awakes at the hotel, Louise gives her a glass of what appears to be blood. As Lena drinks, she feels her strength return. Louise takes care of Lena, removing her dirty and torn clothes and showing her to a bathroom where a bath is waiting. Louise tells Lena the story of how she was changed 280 years ago at a masked ball. At first she hated her maker (a woman), but grew to love her after traveling throughout Europe and getting to know all the benefits of vampire life. After her maker was burned (killed by sunlight), Louise wanted to commit suicide to join her, but instead began searching for a new companion. Louise then settled with and turned Charlotte and Nora as her two new companions/lovers. Louise then walks out and closes the bathroom door at Lena's request for privacy. As Lena bathes, her short hair grows and returns to its natural color, her ear and nose piercings fall out and she loses all scars, bruises and wounds (including a tattoo on her belly).Now fully embracing her new life as a vampire (mostly due to finally leaving her life of poverty behind her), Lena spends the night shopping, partying and having fun with her three new vampire girlfriends who give her the stolen Lamborghini as a gift. As they party, Lena notices that Charlotte longingly staring at a pair of baby shoes. Charlotte also exhibits several signs of depression and engages in acts of self-harm, among other things burning her own eyeball (which immediately heals).During a dinner at a local restaurant, (the vampires can eat and taste food, but it does not satisfy them), Louise tells Lena that there are no male vampires currently in existence, because as the male vampires grew arrogant, the females grew tired of their superiority and killed all of them with the common promise to never turn a man into a vampire. Nora also reveals to Lena that she first met Louise at a Gay Pride Love Parade of 1997 where, after a one-night stand, Louise bit and turned her. As the night comes to an end, the four lady vampires return to their hotel to perform their morning ritual: allowing the first rays of sun burn their skin but retreating inside before any lasting harm can be done. Charlotte stays outside longer than the others, but retreats before catching fire. As they settle into their individual coffins for the day, Louise deeply and passionately kisses Lena, which startles and confuses Lena who bites Louise's lip in response. Louise interrupts herself and goes to her own coffin, where she begins cursing her hastiness.Meanwhile, Tom uses a file on Lena to find her home address. The next night, Lena returns home to visit her mother who has not even noticed her absence. As Lena leaves after saying goodbye to her mother, Tom sees her, but almost does not recognize her due to her different color hairstyle and new fancy clothing. He tells Lena that she could go to prison for violating her 18-month probation for auto theft if he arrested her for stealing the credit card, but says he won't because her victim (Wasja) used women. The two have coffee and talk, but when Lena suddenly sees Louise approaching, she uses her Lamborghini to retreat to the vampire's nightclub.At the club, Lena finds Charlotte in a private room where Charlotte (finally speaking for the first time) tells Lena that she was a silent movie actress in the 1920s and that she had a husband and daughter. However, Charlotte was ashamed at herself for she was a closeted lesbian in denial of her sexuality until she first met Louise who turned and encouraged Charlotte to abandon her family to settle with her new life. Louise enters the room and asks Lena why she is acting different. Lena lies that she misses the sun, so Louise takes the girls to an indoor swimming pool area called Tropical Islands Resort that has artificial sunlight allowing them to have a pool party "in the sun". Two night watchmen (Christian Näth and Tom Jahn) find the girls and ask how they managed to get inside. Nora convinces the men to join them in the pool where she quickly kills off one of them, but as water slows the vampires down, the other tries to escape. Charlotte kills this man in a sadistic manner, slicing his throat with a piece of paper which causes him to die slowly and painfully. Lena flees the scene in terror.Meanwhile, Tom and his partner, Lummer (Arved Birnbaum), interrogate the surviving Russian mobster van Gough (Ivan Shvedoff) who says that "the devil" killed his friends and stole his Lamborghini. As van Gogh describes it Tom realizes that the stolen car is the car he saw Lena drive.Nora awakes with a bellboy (Neil Belakhdar) she had flirted with (making it known that Nora is actually bisexual). She tries to wake him, but realizes she killed him when they had sex. Nora breaks down in tears as the other girls come into the room. Louise shows her that the SEK (German SWAT unit) is invading the building. Charlotte says she will stall them while the girls make their escape. The vampires have special cars with tinted windows to protect them from sunlight if they ever had to escape during daylight. Lena and Louise take one car while Nora drives alone. The police, who think the girls are simply dangerous criminals, are slaughtered by Charlotte. Tom enters the room looking for Lena and manages to shoot Charlotte before she attacks him, causing her to fall out the window and to the ground. As the sun starts to burn her skin, Lena and Louise manage to get her inside their car. Nora crashes into a car and is thrown into sunlight. Police open fire at the other car letting in sunlight on the vampires. Unable to save Nora, they drive away as Charlotte looks back at Nora burning to death and screaming in agony. The roof of the car is ripped off by a roadblock and the girls crash into a subway to escape the scourging sunlight.The three remaining vampire girls (Lena, Charlotte and Louise) hide at the abandoned Teufelsberg (The Devil's Mountain) where Louise has kept cash. Louise angrily blames Lena for leading the police to them and for Nora's death. Now wanted by the police, the girls prepare to escape to Moscow to make their new home there. Before leaving, Charlotte demands to see her elderly daughter.At a local retirement home, Charlotte sings a lullaby to her dying daughter whom in her last moments recognizes her mother. With a whole day before their departure flight to Russia, the girls return to their hideout to perform their morning ritual. As the sun rises, Charlotte locks Lena and Louise inside and allows the sun to kill her. Louise screams at Charlotte to open the door as she and Lena break down into tears as they hear Charlotte's dying screams.Lena goes to Tom to say good bye and show him who she really is (She forces him to shoot her and the wound heals in front of his eyes). Lena begins to cry while Tom holds her and they fall asleep. Lummer, who has suspected Tom of having some involvement with the girl since the hotel attack, has the SEK invade the building. Lena almost kills the policemen but is stopped by Tom's plea, leading to their arrest and incarceration.Louise goes to the watchmen while they're in the shower and kills them (director Dennis Gansel plays one of the cops getting killed). After that she asks Lena how she will manage to live with Tom, a human, because he will die in 60 years or less while she will never age and then she'll be alone. Louise kidnaps Tom, and Lena follows her. The sun is rising when they meet and Louise finally says to Lena, "I love you". Lena (who is really straight) tells Louise that she loves her back. Louise says that that's the most beautiful lie she's ever heard and shoots Tom. Louise and Lena have a fight and Lena throws Louise out a window into the sunlight, where she dies with a peaceful smile on her face. Lena runs to the wounded Tom and wants to bite him to make him a vampire like her so they can live together forever, but stops, kisses him and begins to cry.In the final scene, the SEK troops arrive with Lummer. Lena and Tom are both gone with no trace other than Louise's gun. Lummer looks outside and sees something the other policemen and the audience don't. Lummer whispers "good luck" and walks away from the scene."
+],
+"summaries": [
+"In Berlin, a cop closes in on an all-female vampire trio who just took in a new member, Lena."
+,
+"The vampires Louise, Charlotte and Nora arrive in Berlin after attacking the passengers and crew of an airplane in a flight to Paris. The leader Louise has been looking for centuries for her missed love and Charlotte misses her daughter that she saw in 1923 for the last time. Meanwhile, the smalltime pickpocket Lena steals a Russian mobster and is chased by Detective Tom. When Lena goes to a nightclub, the lesbian Louise believes that Lena is the love of her life and transforms her into a vampire. Lena initially feels lost with the transformation, but sooner she joins the trio of vampires in their nightlife. When the pack of vampires attacks a group of criminals, the police department investigates the case and hunts the women without knowing the risks that they are taking. Meanwhile the lonely Tom and the Lena fall in love with each other; but the unrequited love of Louise for Lena jeopardizes the couple."
+,
+"18-year old Lena lives an unhappy life in Berlin with an uncaring mother and problems to fit in, constantly shoplifting and stealing. One night while visiting a nightclub, Lena is spotted by the vampire Louise. Lena is turned by Louise and introduced to a new life of wealth, fast cars and parties with Louise and her two fellow vampires Charlotte and Nora. Meanwhile, the young and sympathetic police officer Tom is investigating Lena. While Tom hopes to help Lena, he is unwittingly heading for a crash collision with Louise."
+]
+}
+}
+,
+{
+"_index": "movies",
+"_type": "docs",
+"_id": "YExi84QBEuMZ1zZ3rG5q",
+"_score": 9.494726,
+"_source": {
+"title": "ThanksKilling 3",
+"year": 2012,
+"genders": [
+"Comedy"
+,
+"Horror"
+,
+"Sci-Fi"
+],
+"score": 2.8,
+"directors": [
+"Jordan Downey"
+],
+"writers": [
+"Jordan Downey"
+,
+"Mike Will Downey"
+,
+"Kevin Stewart"
+],
+"synopsis": [ ],
+"summaries": [
+"Fowl-mouthed villain Turkie carves through the likes of a rapping grandma, a mindless puppet, a wig-wearing inventor, a bisexual space worm, and their equally ridiculous friends on his quest to recover the last copy of "ThanksKilling 2"."
+,
+"In "ThanksKilling 3", the fowl-mouthed villain Turkie is back and hacking his way to find the last copy of "ThanksKilling 2" which has landed in the hands of a group of disturbingly crude puppets. The death toll rises as Turkie carves through the likes of Flowis the rapping grandma, Rhonda the bisexual space worm, Yomi the puppet in search of her mind, and their equally ridiculous friends who all travel through fantastical settings such as the FeatherWorld and Turkey Hell. With the guidance of Uncle Donny (Dan Usaj), the wig-wearing inventor of the PluckMaster 3000, Jefferson (Joe Hartzler), Head of Security at ThanksgivingLand, and a WiseTurkey, the gatekeeper to the FeatherWorld, our collection of raunchy characters hope to fend off the murderous rampage of Turkie, all while trying to help Yomi find her mind."
+]
+}
+}
+,
+{
+"_index": "movies",
+"_type": "docs",
+"_id": "dCJW84QB_Hoamgc57GoA",
+"_score": 9.300982,
+"_source": {
+"title": "The High and the Mighty",
+"year": 1954,
+"genders": [
+"Action"
+,
+"Adventure"
+,
+"Drama"
+],
+"score": 6.7,
+"directors": [
+"William A. Wellman"
+],
+"writers": [
+"Ernest K. Gann"
+],
+"synopsis": [ ],
+"summaries": [
+"When a commercial airliner develops engine problems on a trans-Pacific flight and the pilot loses his nerve, it is up to the washed-up co-pilot Dan Roman to bring the plane in safely."
+,
+"On a flight from Hawaii to California, the engine dies on the plane Dan is flying. As he prepares for a crash landing, the passengers reassess their lives. The template for disaster movies with an Oscar-winning score and a cast list that reads like a who's who of 1950s film."
+,
+"One disaster after another happens on this trans-Pacific flight. You have the pilot who loses his nerve! The washed-up co-pilot. The milquetoast flight engineer. The young hot shot second officer. And a cabin full of passengers with every range of problems and personalities there could possibly be. Here you have the Duke in a role he didn't want, and a movie with the title song that became Duke's theme. What else could any John Wayne fan want? It's all here, and then some."
+]
+}
+}
+,
+{
+"_index": "movies",
+"_type": "docs",
+"_id": "Okxi84QBEuMZ1zZ3rEZX",
+"_score": 9.300982,
+"_source": {
+"title": "The High and the Mighty",
+"year": 1954,
+"genders": [
+"Action"
+,
+"Adventure"
+,
+"Drama"
+],
+"score": 6.7,
+"directors": [
+"William A. Wellman"
+],
+"writers": [
+"Ernest K. Gann"
+],
+"synopsis": [ ],
+"summaries": [
+"When a commercial airliner develops engine problems on a trans-Pacific flight and the pilot loses his nerve, it is up to the washed-up co-pilot Dan Roman to bring the plane in safely."
+,
+"On a flight from Hawaii to California, the engine dies on the plane Dan is flying. As he prepares for a crash landing, the passengers reassess their lives. The template for disaster movies with an Oscar-winning score and a cast list that reads like a who's who of 1950s film."
+,
+"One disaster after another happens on this trans-Pacific flight. You have the pilot who loses his nerve! The washed-up co-pilot. The milquetoast flight engineer. The young hot shot second officer. And a cabin full of passengers with every range of problems and personalities there could possibly be. Here you have the Duke in a role he didn't want, and a movie with the title song that became Duke's theme. What else could any John Wayne fan want? It's all here, and then some."
+]
+}
+}
+]
+},
+"aggregations": {
+"year_duplicate": {
+"doc_count_error_upper_bound": 0,
+"sum_other_doc_count": 21,
+"buckets": [
+{
+"key": 2009,
+"doc_count": 39
+}
+,
+{
+"key": 2007,
+"doc_count": 32
+}
+,
+{
+"key": 2006,
+"doc_count": 27
+}
+,
+{
+"key": 2011,
+"doc_count": 26
+}
+,
+{
+"key": 2012,
+"doc_count": 24
+}
+,
+{
+"key": 2005,
+"doc_count": 22
+}
+,
+{
+"key": 2014,
+"doc_count": 22
+}
+,
+{
+"key": 2001,
+"doc_count": 21
+}
+,
+{
+"key": 1999,
+"doc_count": 19
+}
+,
+{
+"key": 2004,
+"doc_count": 17
+}
+,
+{
+"key": 2008,
+"doc_count": 17
+}
+,
+{
+"key": 1998,
+"doc_count": 16
+}
+,
+{
+"key": 2013,
+"doc_count": 16
+}
+,
+{
+"key": 1996,
+"doc_count": 15
+}
+,
+{
+"key": 2010,
+"doc_count": 15
+}
+,
+{
+"key": 2015,
+"doc_count": 15
+}
+,
+{
+"key": 1968,
+"doc_count": 14
+}
+,
+{
+"key": 1995,
+"doc_count": 13
+}
+,
+{
+"key": 2002,
+"doc_count": 12
+}
+,
+{
+"key": 1980,
+"doc_count": 11
+}
+,
+{
+"key": 2000,
+"doc_count": 10
+}
+,
+{
+"key": 1970,
+"doc_count": 8
+}
+,
+{
+"key": 1984,
+"doc_count": 8
+}
+,
+{
+"key": 2003,
+"doc_count": 8
+}
+,
+{
+"key": 1971,
+"doc_count": 7
+}
+,
+{
+"key": 1976,
+"doc_count": 7
+}
+,
+{
+"key": 1983,
+"doc_count": 6
+}
+,
+{
+"key": 1994,
+"doc_count": 6
+}
+,
+{
+"key": 1972,
+"doc_count": 5
+}
+,
+{
+"key": 1979,
+"doc_count": 5
+}
+,
+{
+"key": 1981,
+"doc_count": 5
+}
+,
+{
+"key": 1989,
+"doc_count": 5
+}
+,
+{
+"key": 1992,
+"doc_count": 5
+}
+,
+{
+"key": 1997,
+"doc_count": 5
+}
+,
+{
+"key": 1945,
+"doc_count": 4
+}
+,
+{
+"key": 1947,
+"doc_count": 4
+}
+,
+{
+"key": 1967,
+"doc_count": 4
+}
+,
+{
+"key": 1982,
+"doc_count": 4
+}
+,
+{
+"key": 2016,
+"doc_count": 4
+}
+,
+{
+"key": 1966,
+"doc_count": 3
+}
+,
+{
+"key": 1969,
+"doc_count": 3
+}
+,
+{
+"key": 1977,
+"doc_count": 3
+}
+,
+{
+"key": 1978,
+"doc_count": 3
+}
+,
+{
+"key": 1987,
+"doc_count": 3
+}
+,
+{
+"key": 1991,
+"doc_count": 3
+}
+,
+{
+"key": 1993,
+"doc_count": 3
+}
+,
+{
+"key": 1930,
+"doc_count": 2
+}
+,
+{
+"key": 1932,
+"doc_count": 2
+}
+,
+{
+"key": 1939,
+"doc_count": 2
+}
+,
+{
+"key": 1949,
+"doc_count": 2
+}
+]
+}
+}
+}
