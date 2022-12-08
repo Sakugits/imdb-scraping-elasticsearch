@@ -1,0 +1,93 @@
+Consulta 1: Películas sobre la Segunda Guerra Mundial producidas desde el año 1980 en adelante.
+
+synopsis:World War II AND year:>=1980
+
+{
+	"query": {
+		"query_string": {
+			"query": "\"World War II\" \"WW II\" \"WWII\" AND year:>=1980"
+		}
+	},
+	"size": 50,
+	"from": 0,
+	"sort": []
+}
+
+Consulta 2: Directores con más películas de acción.
+
+{
+  "query": {
+    "bool": {
+      "must": [
+        {
+          "match": {
+            "genders.keyword": "Action"
+          }
+        }
+      ],
+      "must_not": [],
+      "should": []
+    }
+  },
+  "from": 0,
+  "size": 0,
+  "sort": [],
+  "aggs": {
+    "directors_duplicate": {
+      "terms": {
+        "field": "directors.keyword",
+        "size": 50
+      }
+    }
+  }
+}
+
+Consulta 3: Películas de temática LGBTQ disponibles en la colección. Además del listado, mostrar el número de películas por año.
+
+{
+  "query": {
+    "query_string": {
+      "query": "LGBT~ gay lesbian trans transexual bisexual queer"
+    }
+  },
+  "size": 50,
+  "from": 0,
+  "sort": [],
+  "aggs": {
+    "year_duplicate": {
+      "terms": {
+        "field": "year",
+        "size": 50
+      }
+    }
+  }
+}
+
+Consulta 4: Películas que traten sobre políticos corruptos en Europa y Estados Unidos.
+
+{
+	"query": {
+		"simple_query_string": {
+			"query": "((politician~3 | president | secretary | senator | major) + corruption~3 + 
+			( \"New York\" | \"Los Angeles\" | \"San Francisco\"| \"Seattle\"| \"Boston\"
+			| \"Philadelphia\"| \"Washington D.C.~1\"| \"Atlanta\"| \"Miami\"| \"New Orleans\"
+			| \"Las Vegas\"| \"Dallas\"| \"Nashville\"| \"Chicago\"| \"Detroit\"
+			| \"USA\"| \"UEA\"| \"United States of America\"| \"United States\"| \"U.S.A\"))
+			|
+			((politician~3 | president | secretary | senator | major) + corruption~3 + 
+			( \"London\" | \"Paris\" | \"Istanbul\"| \"Rome\"| \"Amsterdam\"
+			| \"Barcelona\"| \"Prague\"| \"Vienna\"| \"Milan\"| \"Athens\"
+			| \"Berlin\"| \"Moscow\"| \"Venice\"| \"Madrid\"| \"Dublin\"
+			| \"Brussels\" | \"St Petersburg\" | \"Budapest\"| \"Lisbon\"| \"Copenhagen\"
+			| \"Edinburgh\" | \"Warsaw\"
+			| \"United Kingdom\"| \"UK\"| \"France\"| \"Turkey\"| \"Italy\"
+			| \"Netherlands\"| \"Spain\"| \"Czech Republic\"| \"Austria\"| \"Greece\"
+			| \"Germany\"| \"Russia\"| \"Ireland\"| \"Belgium\"| \"Hungary\"
+			| \"Estonia\"| \"Portugal\"| \"Scotland\"| \"Poland\"| \"Sweden\"))
+			"
+		}
+	},
+	"size": 50,
+	"from": 0,
+	"sort": []
+}
