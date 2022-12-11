@@ -1,5 +1,5 @@
 {
-"took": 70,
+"took": 74,
 "timed_out": false,
 "_shards": {
 "total": 2,
@@ -9,16 +9,16 @@
 },
 "hits": {
 "total": {
-"value": 553,
+"value": 378,
 "relation": "eq"
 },
-"max_score": 20.565653,
+"max_score": 21.138378,
 "hits": [
 {
 "_index": "movies",
 "_type": "docs",
-"_id": "_SJW84QB_Hoamgc57I0U",
-"_score": 20.565653,
+"_id": "si_NAIUBmFo8GYv0bo80",
+"_score": 21.138378,
 "_source": {
 "title": "8: The Mormon Proposition",
 "year": 2010,
@@ -48,39 +48,8 @@
 {
 "_index": "movies",
 "_type": "docs",
-"_id": "w0xi84QBEuMZ1zZ3rGlo",
-"_score": 20.565653,
-"_source": {
-"title": "8: The Mormon Proposition",
-"year": 2010,
-"genders": [
-"Documentary"
-],
-"score": 7.1,
-"directors": [
-"Reed Cowan"
-,
-"Steven Greenstreet"
-],
-"writers": [
-"Reed Cowan"
-],
-"synopsis": [
-"As California's anti-gay marriage proposition 8 languished in the polls, Mormon Prophet Thomas S. Monson issued a call from Salt Lake City to millions of Mormons all over the world. His was an order to action containing the secret code language of the highly secret Mormon temple ceremony. The action alert commanded Mormons in and out of California to do all things necessary to insure the passage of California's Proposition 8. Within days, hundreds of thousands of Mormons all over the United States funneled thirty million Mormon dollars in to California coffers to purchase the passage of California's anti-gay marriage Proposition 8.Before the Mormons and their participation in the passage of Proposition 8, evangelicals were flopping in the fight. After Mormons got involved, the fight flourished.During the fight, the Mormon Church media-engine, including mega-million dollar public relations and political consulting firm support, barraged Californians with a suffocating number of misleading television and radio ads and door-to-door campaigns manned by the Mormon NATIONAL ORGANIZATION FOR MARRIAGE.When Prop. 8 passed in California by a slim margin, Mormons were quick to take credit for the success. But when backlash from LGBT citizens targeted Mormon temples throughout the United States, the Mormon Church was the first to complain that they were the ones being persecuted.In the wake of it all, documentary producer Reed Cowan was collecting secret recordings, secret documents and never before seen footage exposing Mormon efforts to quash ANY rights for LGBT citizens anywhere in the world. 'As a former Mormon missionary, I am appalled in knowing that a church which itself worships the practice of alternative marriage (polygamy), would become so vehemently involved in the marriage debate,' says Director Reed Cowan.8: The Mormon Proposition follows the story of many LGBT citizens seeking marriage equality. One of the couples Cowan follows is Tyler Barrick and Spencer Jones. Barrick is the direct descendant of Mormon founder and Prophet, Joseph Smith's right hand man Fredrick G. Williams.The Barrick-Jones family history tells tales of Mormon ancestors chased from state to state because of their own practice of alternative marriage (polygamy). Now, decades later, the Barrick-Jones family is experiencing cultural and governmental discrimination of the same kind that haunted their ancestors. Only now, they're at war with their own religion of Mormonism and the people their religion seduced in to voting against their union.'When 8 passed, I called my mother crying--why did the Mormons do this to us? Why would our own people do this to us? They have turned their backs on us, ' says Barrick-Jones.8: The Mormon Proposition exposes decade's-long campaigns against LGBT rights, not only working behind the scenes to unseat political leaders who advocate for marriage equality, but also abuse against their own people through electric shock therapy and frontal lobotomies for BYU men arrested by Mormon security police. For the first time in history, the film goes on record about alleged prurient meetings between Mormon Prophet Spencer W. Kimball with a secret group of gay BYU students who called themselves 'Spencer's boys.' The film chronicles the hundreds of gay-Mormon suicides, including the story of Mormon Stuart Matis, who shot himself on the steps of a California Mormon Church during another of the church's work against marriage equality during the days of California's Knight Initiative.Long before its official completion, 8: The Mormon Proposition has already received considerable international press coverage. During the filming of 8, Reed Cowan interviewed Mormon Bishop and Senator D. Chris Buttars, who compared gay people to radical Muslims and said 'gays represent the greatest threat to America going down today.'Buttars characterization of gays engaged in so-called pig sex, brought on an HRC action alert, a scolding from GLAAD, and the eventual ouster of Utah Senator Buttars from his position as chair of Utah's Senate Judiciary Committee.In the days during the media backlash following Buttars interview with Cowan for 8, major media outlets and programs like FORBES, WASHINGTON POST and THE RACHEL MADDOW SHOW picked up on the story with considerable coverage that resulted in thirty thousand e mails to the Utah Senate President and the crashing of the Utah Senate computer server for three days.8: The Mormon Proposition also reveals the truth about Utah's gay homeless youth and the fact that the lions-share of hundreds of homeless teens on the streets in Utah, are LGBT youth who have been kicked out after coming out to their families.Finally, in the telling of the Mormon Church's risk of losing their tax-free status, 8: THE MORMON PROPOSITION is a call to action not only to LGBT citizens, but all citizens everywhere to not only stand up for human rights, but also to pay attention to where the money and the information is coming from whenever a ballot measure picks up uncommon speed, money and heat.In the words of Reed Cowan, '8: The Mormon Proposition puts on record one of the greatest election shams in the history of the United States. If the Mormon church gets a pass on this one, we're in grave danger as a society of letting other groups purchase votes and we're putting power behind their so-called 'secret combinations' to do it again. This can never happen again. Never.'"
-],
-"summaries": [
-"A scorching indictment of the Mormon Church's historic involvement in the promotion & passage of California's Proposition 8 and the Mormon religion's secretive, decades-long campaign against LGBT human rights."
-,
-"In 2009, thousands of LGBT citizens are denied almost 200 civil rights their straight, married counterparts enjoy through civil marriage. Some states have signaled progress. But amid the progress, The Mormon Church, with its front-group THE NATIONAL ORGANIZATION FOR MARRIAGE, has been coordinating, financing and leading the effort to stop the advancement of marriage equality for more than three decades. As an organization worth hundreds of billions of dollars, the Mormon Church has been able to wage this war in secret. Not until the California Fair Political Practices Commission launched an investigation into the Mormon's involvement in Proposition 8, did the secrets of the Mormon effort become a matter of record. Through never-before seen documents, recordings & insider-interviews, 8: THE MORMON PROPOSITION, exposes the efforts of the Mormon Church and its members to halt nearly every piece of LGBT legislation on the desks of lawmakers from Hawaii to New York. 8: THE MORMON PROPOSITION makes these efforts a matter of record and challenges viewers to demand more of government officials in requiring religions more transparency in their efforts to influence public policy. Emmy-award winning journalist and documentary filmmaker Reed Cowan is a former Mormon who served a two-year mission door-to-door for the Mormon Church. His access to high-level Mormons & Mormon communications on the matter, coupled with his OUT status as a gay man and father of two adopted sons has provided a compelling and at times shocking look at the Mormon way of doing business against LGBT people."
-]
-}
-}
-,
-{
-"_index": "movies",
-"_type": "docs",
-"_id": "hkxi84QBEuMZ1zZ3rFZi",
-"_score": 15.628837,
+"_id": "dS_NAIUBmFo8GYv0bnwu",
+"_score": 15.770205,
 "_source": {
 "title": "East Palace, West Palace",
 "year": 1996,
@@ -110,8 +79,8 @@
 {
 "_index": "movies",
 "_type": "docs",
-"_id": "CCJW84QB_Hoamgc57IkS",
-"_score": 15.525809,
+"_id": "vS_NAIUBmFo8GYv0booy",
+"_score": 15.593084,
 "_source": {
 "title": "Love My Life",
 "year": 2006,
@@ -137,35 +106,8 @@
 {
 "_index": "movies",
 "_type": "docs",
-"_id": "zkxi84QBEuMZ1zZ3rGRm",
-"_score": 15.525809,
-"_source": {
-"title": "Love My Life",
-"year": 2006,
-"genders": [
-"Drama"
-],
-"score": 6,
-"directors": [
-"Kôji Kawano"
-],
-"writers": [
-"Hiroko Kanasugi"
-,
-"Ebine Yamaji"
-],
-"synopsis": [ ],
-"summaries": [
-"Ichiko and Eri are two beautiful Japanese Uni students who are in a lesbian relationship. Ichiko comes out to her father who tells her he is also gay and her mother was a lesbian. Her best friend is gay too, though he has a female who is after him. Their liaison is very intense, but Eri suggests a temporary separation so she can concentrate on her law studies. The break from their affair is difficult for Ichiko to deal with. But Eri soon sorts out her priorities."
-]
-}
-}
-,
-{
-"_index": "movies",
-"_type": "docs",
-"_id": "XCJW84QB_Hoamgc57JAW",
-"_score": 15.431315,
+"_id": "ES_NAIUBmFo8GYv0bpI1",
+"_score": 15.575281,
 "_source": {
 "title": "Wish Me Away",
 "year": 2011,
@@ -199,43 +141,8 @@
 {
 "_index": "movies",
 "_type": "docs",
-"_id": "Ikxi84QBEuMZ1zZ3rGxp",
-"_score": 15.431315,
-"_source": {
-"title": "Wish Me Away",
-"year": 2011,
-"genders": [
-"Documentary"
-,
-"Biography"
-,
-"Music"
-],
-"score": 7.5,
-"directors": [
-"Bobbie Birleffi"
-,
-"Beverly Kopf"
-],
-"writers": [
-"Chely Wright"
-,
-"Jennifer Archer"
-,
-"Howard Bragman"
-],
-"synopsis": [ ],
-"summaries": [
-"After a lifetime of hiding, Chely Wright becomes the first commercial country music singer to come out as gay, shattering cultural stereotypes within Nashville, her conservative heartland family and, most importantly, within herself. With unprecedented access over a two-year period, including her private video diaries, the film layers Chely's rise to fame while hiding in the late 90's with the execution of her coming out plan, culminating in the exciting moment when she steps into the media glare to reveal she is gay. The film shows both the devastation of internalized homophobia and the transformational power of living an authentic life. The film also documents the conflicting responses from Nashville, the heartland and the LGBT community as Chely Wright prepares for an unknown future."
-]
-}
-}
-,
-{
-"_index": "movies",
-"_type": "docs",
-"_id": "diJW84QB_Hoamgc57JYZ",
-"_score": 14.924388,
+"_id": "Ky_NAIUBmFo8GYv0bpg3",
+"_score": 15.105504,
 "_source": {
 "title": "Pride",
 "year": 2014,
@@ -271,45 +178,8 @@
 {
 "_index": "movies",
 "_type": "docs",
-"_id": "PExi84QBEuMZ1zZ3rHJr",
-"_score": 14.924388,
-"_source": {
-"title": "Pride",
-"year": 2014,
-"genders": [
-"Biography"
-,
-"Comedy"
-,
-"Drama"
-],
-"score": 7.8,
-"directors": [
-"Matthew Warchus"
-],
-"writers": [
-"Stephen Beresford"
-],
-"synopsis": [
-"Its the summer of 1984 Margaret Thatcher is in power and the National Union of Mineworkers (NUM) is on strike. At the Gay Pride March in London, a group of gay and lesbian activists decides to raise money to support the families of the striking miners. But there is a problem. The Union seems embarrassed to receive their support.But the activists are not deterred. They decide to ignore the Union and go direct to the miners. They identify a mining village in deepest Wales and set off in a mini bus to make their donation in person. And so begins the extraordinary story of two seemingly alien communities who form a surprising and ultimately triumphant partnership."
-],
-"summaries": [
-"U.K. gay activists work to help miners during their lengthy strike of the National Union of Mineworkers in the summer of 1984."
-,
-"In 1984 20 year old closet gay Joe hesitantly arrives in London from Bromley for his first Gay Pride march and is taken under the collective wing of a group of gay men and Lesbian Steph, who meet at flamboyant Jonathan and his Welsh partner Gethin's Soho bookshop. Not only are gays being threatened by Thatcher but the miners are on strike in response to her pit closures and Northern Irish activist Mark Ashton believes gays and miners should show solidarity. Almost by accident a mini-bus full of gays find themselves in the Welsh village of Onllwyn in the Dulais valley and through their sincere fund raising and Jonathan's nifty disco moves persuade most of the community that they are on the same side. When a bigot tries to sabotage the partnership with a tabloid smear Mark turns it back on her with a hugely successful benefit concert to which most of the villagers, now thoroughly in tune with their gay friends, turn up. The miners are defeated and return to work but at the Pride march the following year a vast contingent of miners show up to repay their comrades with their show of support."
-,
-"It's the summer of 1984. Margaret Thatcher is in power and the National Union of Mineworkers (NUM) is on strike. At the Gay Pride March in London, a group of gay and lesbian activists decides to raise money to support the families of the striking miners."
-,
-"Set in the summer of 1984 Margaret Thatcher is in power and the National Union of Mineworkers (NUM) is on strike. At the Gay Pride March in London, a group of gay and lesbian activists decides to raise money to support the families of the striking miners. But there is a problem. The Union seems embarrassed to receive their support."
-]
-}
-}
-,
-{
-"_index": "movies",
-"_type": "docs",
-"_id": "4CJW84QB_Hoamgc57HEF",
-"_score": 14.7715645,
+"_id": "lS_NAIUBmFo8GYv0bnMr",
+"_score": 14.744228,
 "_source": {
 "title": "Dimenticare Venezia",
 "year": 1979,
@@ -335,35 +205,8 @@
 {
 "_index": "movies",
 "_type": "docs",
-"_id": "pkxi84QBEuMZ1zZ3rE1f",
-"_score": 14.7715645,
-"_source": {
-"title": "Dimenticare Venezia",
-"year": 1979,
-"genders": [
-"Drama"
-],
-"score": 6.7,
-"directors": [
-"Franco Brusati"
-],
-"writers": [
-"Franco Brusati"
-,
-"Jaja Fiastri"
-],
-"synopsis": [ ],
-"summaries": [
-"A gay brother visits his childhood home where his sister still lives with her lesbian niece and her girlfriend. They reminisce about the better past and their parents."
-]
-}
-}
-,
-{
-"_index": "movies",
-"_type": "docs",
-"_id": "hUxi84QBEuMZ1zZ3rFxk",
-"_score": 14.48761,
+"_id": "dC_NAIUBmFo8GYv0boIw",
+"_score": 14.357601,
 "_source": {
 "title": "Hush!",
 "year": 2001,
@@ -393,93 +236,8 @@
 {
 "_index": "movies",
 "_type": "docs",
-"_id": "vyJW84QB_Hoamgc57IAN",
-"_score": 14.289859,
-"_source": {
-"title": "Hush!",
-"year": 2001,
-"genders": [
-"Comedy"
-,
-"Drama"
-],
-"score": 6.9,
-"directors": [
-"Ryosuke Hashiguchi"
-],
-"writers": [
-"Ryosuke Hashiguchi"
-],
-"synopsis": [
-"Basics: 2 guys who are gay, one female who is lonely for someone to love. The woman approaches 1 of the guys and wants him to seed her would be child.nGay guy 1 moves through the movie with all the usual angst. Gay guy 2 loves him but is just this side of giving up on gay guy 1 because he is too ambivalent. The parent and families get involved and all heck breaks loose."
-],
-"summaries": [
-"Soon after the disparate yet compatible Naoya and Katsuhiro start to settle into a relationship, a slightly unhinged young woman named Asako asks Katsuhiro to father her child."
-,
-"While the couple navigates the implications of this unexpected proposal, they are forced to confront their conflicting understandings of what it means to be gay and in a committed relationship. A landmark work of LGBTQ Japanese cinema by pioneering director Ryosuke Hashiguchi, Hush. humorously and poignantly upends the traditional Japanese genre of the family drama to offer a deeply human story about three people doing their best to be true to themselves."
-]
-}
-}
-,
-{
-"_index": "movies",
-"_type": "docs",
-"_id": "eyJW84QB_Hoamgc57JAW",
-"_score": 13.708586,
-"_source": {
-"title": "Stud Life",
-"year": 2012,
-"genders": [
-"Drama"
-,
-"Romance"
-],
-"score": 5.1,
-"directors": [
-"Campbell Ex"
-],
-"writers": [
-"Campbell Ex"
-],
-"synopsis": [ ],
-"summaries": [
-"JJ is a 'Stud' Lesbian. Together with her best friend Seb, a gay pretty boy, they work as wedding photographers. When JJ falls in love with a beautiful diva, JJ and Seb's friendship is tested. JJ is forced to chose between her hot new lover and her best friend."
-]
-}
-}
-,
-{
-"_index": "movies",
-"_type": "docs",
-"_id": "QUxi84QBEuMZ1zZ3rGxp",
-"_score": 13.708586,
-"_source": {
-"title": "Stud Life",
-"year": 2012,
-"genders": [
-"Drama"
-,
-"Romance"
-],
-"score": 5.1,
-"directors": [
-"Campbell Ex"
-],
-"writers": [
-"Campbell Ex"
-],
-"synopsis": [ ],
-"summaries": [
-"JJ is a 'Stud' Lesbian. Together with her best friend Seb, a gay pretty boy, they work as wedding photographers. When JJ falls in love with a beautiful diva, JJ and Seb's friendship is tested. JJ is forced to chose between her hot new lover and her best friend."
-]
-}
-}
-,
-{
-"_index": "movies",
-"_type": "docs",
-"_id": "NiJW84QB_Hoamgc57HUH",
-"_score": 13.681999,
+"_id": "6y_NAIUBmFo8GYv0bnYs",
+"_score": 14.037614,
 "_source": {
 "title": "Law of Desire",
 "year": 1987,
@@ -509,39 +267,8 @@
 {
 "_index": "movies",
 "_type": "docs",
-"_id": "_Exi84QBEuMZ1zZ3rFBg",
-"_score": 13.681999,
-"_source": {
-"title": "Law of Desire",
-"year": 1987,
-"genders": [
-"Comedy"
-,
-"Drama"
-,
-"Thriller"
-],
-"score": 7.1,
-"directors": [
-"Pedro Almodóvar"
-],
-"writers": [
-"Pedro Almodóvar"
-],
-"synopsis": [ ],
-"summaries": [
-"A gay filmmaker becomes involved with an obsessive fan while still pining for his absent true love. Meanwhile, he shares a close but complex relationship with his trans sister, an actress."
-,
-"Pablo and Tina have complicated sexual lives. Pablo writes and directs plays and films; he's gay and deeply in love with Juan, a young man who won't reply to Pablo's affection or letters. Pablo's sibling Tina is a transsexual, angry at men, raising Ada, and trying to make it as an actress. Pablo takes up with Antonio, a youth who becomes jealous of Pablo's love for Juan. Antonio seeks out Juan, and violence leads to Pablo's grief and a temporary loss of memory. When memory returns, he learns that Antonio has taken up with Tina. In horror, he hurries to Tina's rescue and must face Antonio and his desire."
-]
-}
-}
-,
-{
-"_index": "movies",
-"_type": "docs",
-"_id": "YUxi84QBEuMZ1zZ3rGpo",
-"_score": 13.558844,
+"_id": "UC_NAIUBmFo8GYv0bpA1",
+"_score": 13.876739,
 "_source": {
 "title": "Girltrash: All Night Long",
 "year": 2014,
@@ -573,8 +300,35 @@
 {
 "_index": "movies",
 "_type": "docs",
-"_id": "kSJW84QB_Hoamgc57JIX",
-"_score": 13.325033,
+"_id": "MC_NAIUBmFo8GYv0bpI1",
+"_score": 13.770108,
+"_source": {
+"title": "Stud Life",
+"year": 2012,
+"genders": [
+"Drama"
+,
+"Romance"
+],
+"score": 5.1,
+"directors": [
+"Campbell Ex"
+],
+"writers": [
+"Campbell Ex"
+],
+"synopsis": [ ],
+"summaries": [
+"JJ is a 'Stud' Lesbian. Together with her best friend Seb, a gay pretty boy, they work as wedding photographers. When JJ falls in love with a beautiful diva, JJ and Seb's friendship is tested. JJ is forced to chose between her hot new lover and her best friend."
+]
+}
+}
+,
+{
+"_index": "movies",
+"_type": "docs",
+"_id": "Ri_NAIUBmFo8GYv0bpQ2",
+"_score": 13.415571,
 "_source": {
 "title": "I Do",
 "year": 2012,
@@ -600,35 +354,8 @@
 {
 "_index": "movies",
 "_type": "docs",
-"_id": "V0xi84QBEuMZ1zZ3rG5p",
-"_score": 13.325033,
-"_source": {
-"title": "I Do",
-"year": 2012,
-"genders": [
-"Drama"
-,
-"Romance"
-],
-"score": 6.5,
-"directors": [
-"Glenn Gaylord"
-],
-"writers": [
-"David W. Ross"
-],
-"synopsis": [ ],
-"summaries": [
-"A gay Brit living in New York is deprived of his immigration status and risks losing his family and life in the U.S. He marries his lesbian best friend to remain in the country and stay with his family, but things get complicated when he meets the love of his life and is forced to make an impossible choice."
-]
-}
-}
-,
-{
-"_index": "movies",
-"_type": "docs",
-"_id": "HyJW84QB_Hoamgc57IcR",
-"_score": 12.6119375,
+"_id": "1C_NAIUBmFo8GYv0bogy",
+"_score": 12.534144,
 "_source": {
 "title": "Itty Bitty Titty Committee",
 "year": 2007,
@@ -664,36 +391,32 @@
 {
 "_index": "movies",
 "_type": "docs",
-"_id": "5Uxi84QBEuMZ1zZ3rGJm",
-"_score": 12.6119375,
+"_id": "qy_NAIUBmFo8GYv0booy",
+"_score": 12.4894085,
 "_source": {
-"title": "Itty Bitty Titty Committee",
+"title": "For the Bible Tells Me So",
 "year": 2007,
 "genders": [
-"Comedy"
-,
-"Drama"
+"Documentary"
 ,
 "Romance"
 ],
-"score": 5.4,
+"score": 7.8,
 "directors": [
-"Jamie Babbit"
+"Daniel G. Karslake"
 ],
 "writers": [
-"Jamie Babbit"
+"Daniel G. Karslake"
 ,
-"Tina Mabry"
-,
-"Abigail McCarthy"
+"Helen R. Mendoza"
 ],
 "synopsis": [
-"Anna is coming out. But not as gay as a revolutionary. Itty Bitty Titty Committee is a rockin love song to the heady rush of sex, freedom and rebellion that happens when an everyday girl discovers her own strength and the righteous indignation needed to take action and change the world. Our heroine is a shy, just-out-of-high-school lesbian, still living with her parents and working at a plastic surgery clinic. She is depressed because of a recent breakup but lives in a super-loving, gay-is-A-OK kind of family. Her world opens up one night when she catches a one-woman army reclaiming public space for women (i.e., spray painting the clinic where Anna works). A recruiting member of the guerrilla girls-esque Clits in Action (C(i)A), Sadie is trying to make people aware of how bad plastic surgery is for women. With an undeniable attraction to this sexy, raw rebel gurl, Anna eagerly joins the ranks of C(i)A and starts her rollercoaster ride from meek and mousy to bad-ass bravado. Full of mosh pits, power fists and utter charm,"
+"The producers of this movie explore ways of discrediting traditional Biblical teachings concerning homosexuality. They uses anecdotes from families who are friendly or at least resigned to the concept of homosexuality and they gather testimony from liberal clergy who discuss the scriptures. These testimonials are typified by a preacher from the Disciples of Christ who stresses that cannot say what the Bible says; we can only say what it reads. Others profess that scriptures which describe homosexuality as an abomination are morally equivalent to dietary restrictions cited in contiguous but not contextual scriptures. Other arguments against scriptural teachings against homosexuality offer some tortured definitions of of words which deviate greatly from common and long accepted definitions. A good example of this involves the narrator's claim that "natural" actually means "customary." This would substantially alter the meaning and the long accepted view of the word in its context. The producers provide scant attention to opposing viewpoints; it is safe to say that any opposing viewpoints are merely token."
 ],
 "summaries": [
-"High School grad and all American gal, Anna, finds her purpose and herself after she hooks up with the radical feminists in The Itty Bitty Titty Committee."
+"An exploration of the intersection between religion and homosexuality in the U.S. and how the religious right has used its interpretation of the Bible to stigmatize the gay community."
 ,
-"Anna is a young lesbian high school graduate who still lives with her parents, and works as a receptionist in a plastic surgeon's office. She embarks on a wild ride when she hooks up with a cadre of ultra-radical feminist lesbians hell-bent on raising hell. But things get even more complicated when Anna falls in love with Sadie, the radical group's leader who's already involved with an older woman named Courtney."
+"We meet five Christian families, each with a gay or lesbian child. Parents talk about their marriages and church-going, their children's childhood and coming out, their reactions, and changes over time. The stories told by these nine parents and four adult children alternate with talking heads - Protestant and Jewish theologians - and with film clips of fundamentalist preachers and pundits and news clips of people in the street. They discuss scripture and biblical scholarship. A thesis of the film is that much of Christianity's homophobia represents a misreading of scripture, a denial of science, and an embrace of quack psychology. The families call for love."
 ]
 }
 }
@@ -701,8 +424,101 @@
 {
 "_index": "movies",
 "_type": "docs",
-"_id": "Zkxi84QBEuMZ1zZ3rFJg",
-"_score": 12.308136,
+"_id": "zi_NAIUBmFo8GYv0bm8n",
+"_score": 12.316904,
+"_source": {
+"title": "Rachel, Rachel",
+"year": 1968,
+"genders": [
+"Drama"
+,
+"Romance"
+],
+"score": 7.1,
+"directors": [
+"Paul Newman"
+],
+"writers": [
+"Stewart Stern"
+,
+"Margaret Laurence"
+],
+"synopsis": [
+"Rachel Cameron (Joanne Woodward) is a shy, 35-year-old spinster schoolteacher living with her widowed mother in a small apartment above a funeral home that was once owned by her late father in a small town in Connecticut. Haunted by memories of her unhappy childhood and her mortician father, Rachel spends each frustrating day taking care of her mother and working with the schoolchildren. School is soon let out for summer vacation and Rachel figures it will just be another lonely and boring summer for her. (It's implied that she may even hate summer as her job provided somewhat of an escape from her domineering mother who's always trying to compare her to her sister, who married a successful businessman in Boston.)Rachel's closest friend is Calla Mackie (Estelle Parsons), a fellow unmarried teacher who persuades her to attend a revival meeting, where a visiting preacher, named Reverend Wood, encourages Rachel to express her need for the love of Jesus Christ. Rachel is overwhelmed by God's grace, baring so much pent-up emotion, that she is humbled after the service. While comforting Rachel, Calla suddenly begins to kiss Rachel passionately. (It is never explained if Calla is a lesbian, bisexual, or if she merely reacted to the emotion of the moment.) Rachel's reaction is to withdraw from the friendship for the time being.Note: Brief daydreaming sequences of the adult Rachel also appear, including those showing her imagining seizing a stolen moment with the school's possibly sexual-harassing principal; taking an under-loved boy in her classroom home with her; and rocking an expected baby in a park while children play nearby.Rachel realizes that only by exposing herself to life is the way she can she experience it. She therefore gives herself to a former high school friend, named Nick Kazlik (James Olsen), who is in town for a visit with his parents which she and he sleep together after first meeting. Mistaking her first sexual encounter for love, she fantasizes about a future with Nick. Her hopes are shattered, however, when Nick, put off by her seriousness, abruptly ends their affair.A short time later, Rachel discovers that she may be pregnant. Determined to accept the consequences of her actions, she decides to go away and have the child. After Calla has helped her find a teaching post in Oregon, Rachel learns that her pregnancy is merely a cyst requiring minor surgery. After undergoing surgery to have the cyst removed, she tells her mother, in the hospital, that she has decided to relocate, and that her mother may accompany her or not, as she wishes. Her mother quickly agrees to go, in a way that suggests she realizes her dependence on Rachel and perhaps even will take her less for granted from now on. Rachel sets out with hope for the future, having learned that she has choices, that she is able to give and receive sexual pleasure, that it is possible for her to take on life actively, rather than wait for it to find her. In the final scene, as Rachel leaves town with her somewhat reluctant mother and looks for the last time at the familiar sights of her home town, she speculates on what the future may bring."
+],
+"summaries": [
+"Rachel is a lonely school teacher who lives with her mother. When a man from the big city asks her out, she starts thinking about where she wants her life to go."
+,
+"Thirty-five year old spinster and virgin Rachel Cameron is a sad, lonely woman. She lives in the small town of Japonica, Connecticut where she grew up. She teaches second grade at Japonica Elementary School and lives with her highly demanding widowed mother (her funeral director father passed away fourteen years ago) in the same apartment above a funeral home where she grew up, despite the home now not being owned by them. Rachel often uses her mother as an excuse not to do things. Rachel represses her emotions, and is prone to daydreaming to envision alternate paths for herself in certain situations if she only had the nerve to do those things. Even when Nick Kazlik, a childhood acquaintance who has returned to Japonica for a summer visit with his family, makes it clear that he wants to have fun with her while he's in town, she can't act on his request out of fear of the unknown. But after a couple of incidents with her only real friend Calla Mackie, who is a fellow teacher at the school, Rachel begins to allow herself more freedom. But as Rachel's repressions slowly melt away, how her emotions will manifest themselves becomes the question."
+]
+}
+}
+,
+{
+"_index": "movies",
+"_type": "docs",
+"_id": "mi_NAIUBmFo8GYv0bm8n",
+"_score": 12.245798,
+"_source": {
+"title": "Les Biches",
+"year": 1968,
+"genders": [
+"Drama"
+],
+"score": 6.9,
+"directors": [
+"Claude Chabrol"
+],
+"writers": [
+"Paul Gégauff"
+,
+"Claude Chabrol"
+],
+"synopsis": [ ],
+"summaries": [
+"Architect Paul Thomas insinuates himself into the relationship of two bisexual women living in a St. Tropez villa with tragic consequences."
+,
+"Frédérique is a rich and beautiful woman who picks up a female street artist called "Why". It is December and they go to her villa in Saint Tropez, which is inhabited by a couple of odd gay men. Both women fall for the local architect Paul Thomas. However Why says that she is not interested in him, so Frédérique invites him to move into the villa."
+,
+"In Paris, while crossing a bridge over the Seine, the bored bisexual millionaire Frédérique meets a homeless young street painter called 'Why' and invites her to drink tea at her apartment. They have a love affair and Frédérique takes 'Why' to spend the winter at her house in Saint Tropez, where Frédérique's other two friends of hers live. When Frédérique throws a party for a few guests, the handsome architect Paul Thomas hits on Why. She is seduced by Paul and spends the night with him in his place. The next day, the selfish Frédérique visits Paul and seduces him. They travel together to Paris and when they return, Frédérique tells Why that Paul is going to live with them at her house. Why is upset but unsuccessfully tries to seduce Paul. One night, Why proposes they get drunk, expecting to go to their room and have a threesome, but she is unwanted by the couple. When Frédérique and Paul travel to Paris to attend urgent business, Why follows them expecting to stay in Frédérique's apartment."
+]
+}
+}
+,
+{
+"_index": "movies",
+"_type": "docs",
+"_id": "dy_NAIUBmFo8GYv0bpY3",
+"_score": 12.204645,
+"_source": {
+"title": "Me Him Her",
+"year": 2015,
+"genders": [
+"Comedy"
+,
+"Romance"
+],
+"score": 5.2,
+"directors": [
+"Max Landis"
+],
+"writers": [
+"Max Landis"
+],
+"synopsis": [ ],
+"summaries": [
+"Vicenarian drifter Cory arrives in Los Angeles to help his semi-famous T.V. star friend Brendan take his first steps out of the closet."
+,
+"Brendan Ehrlick, star of TV's popular cop series "Hard Justice," would like to come out of the closet to his parents. His first step? Come out to his best friend Cory in Florida and solicit his help. Cory already knows he's gay but comes to L.A. anyway, where his actions, rather than help Brendan, put him in awkward, possibly career-threatening situations. As corporate managers advise Brendan to remain uninformative in dealing with paparazzi, Cory ventures off into a one-night-stand with Emily, a lesbian on the rebound from a toxic relationship. He falls for her, but being with him confuses her life-long lesbian identity. Her struggles with this prompt Cory towards suddenly becoming a better friend to Brendan, leading to an immediate abduction followed by a violent, sword-wielding confrontation at the "Hard Justice" cast party."
+]
+}
+}
+,
+{
+"_index": "movies",
+"_type": "docs",
+"_id": "VS_NAIUBmFo8GYv0bngs",
+"_score": 12.193323,
 "_source": {
 "title": "Internal Affairs",
 "year": 1990,
@@ -736,204 +552,8 @@
 {
 "_index": "movies",
 "_type": "docs",
-"_id": "vExi84QBEuMZ1zZ3rGRm",
-"_score": 12.281666,
-"_source": {
-"title": "For the Bible Tells Me So",
-"year": 2007,
-"genders": [
-"Documentary"
-,
-"Romance"
-],
-"score": 7.8,
-"directors": [
-"Daniel G. Karslake"
-],
-"writers": [
-"Daniel G. Karslake"
-,
-"Helen R. Mendoza"
-],
-"synopsis": [
-"The producers of this movie explore ways of discrediting traditional Biblical teachings concerning homosexuality. They uses anecdotes from families who are friendly or at least resigned to the concept of homosexuality and they gather testimony from liberal clergy who discuss the scriptures. These testimonials are typified by a preacher from the Disciples of Christ who stresses that cannot say what the Bible says; we can only say what it reads. Others profess that scriptures which describe homosexuality as an abomination are morally equivalent to dietary restrictions cited in contiguous but not contextual scriptures. Other arguments against scriptural teachings against homosexuality offer some tortured definitions of of words which deviate greatly from common and long accepted definitions. A good example of this involves the narrator's claim that "natural" actually means "customary." This would substantially alter the meaning and the long accepted view of the word in its context. The producers provide scant attention to opposing viewpoints; it is safe to say that any opposing viewpoints are merely token."
-],
-"summaries": [
-"An exploration of the intersection between religion and homosexuality in the U.S. and how the religious right has used its interpretation of the Bible to stigmatize the gay community."
-,
-"We meet five Christian families, each with a gay or lesbian child. Parents talk about their marriages and church-going, their children's childhood and coming out, their reactions, and changes over time. The stories told by these nine parents and four adult children alternate with talking heads - Protestant and Jewish theologians - and with film clips of fundamentalist preachers and pundits and news clips of people in the street. They discuss scripture and biblical scholarship. A thesis of the film is that much of Christianity's homophobia represents a misreading of scripture, a denial of science, and an embrace of quack psychology. The families call for love."
-]
-}
-}
-,
-{
-"_index": "movies",
-"_type": "docs",
-"_id": "GSJW84QB_Hoamgc57G4D",
-"_score": 12.051474,
-"_source": {
-"title": "Rachel, Rachel",
-"year": 1968,
-"genders": [
-"Drama"
-,
-"Romance"
-],
-"score": 7.1,
-"directors": [
-"Paul Newman"
-],
-"writers": [
-"Stewart Stern"
-,
-"Margaret Laurence"
-],
-"synopsis": [
-"Rachel Cameron (Joanne Woodward) is a shy, 35-year-old spinster schoolteacher living with her widowed mother in a small apartment above a funeral home that was once owned by her late father in a small town in Connecticut. Haunted by memories of her unhappy childhood and her mortician father, Rachel spends each frustrating day taking care of her mother and working with the schoolchildren. School is soon let out for summer vacation and Rachel figures it will just be another lonely and boring summer for her. (It's implied that she may even hate summer as her job provided somewhat of an escape from her domineering mother who's always trying to compare her to her sister, who married a successful businessman in Boston.)Rachel's closest friend is Calla Mackie (Estelle Parsons), a fellow unmarried teacher who persuades her to attend a revival meeting, where a visiting preacher, named Reverend Wood, encourages Rachel to express her need for the love of Jesus Christ. Rachel is overwhelmed by God's grace, baring so much pent-up emotion, that she is humbled after the service. While comforting Rachel, Calla suddenly begins to kiss Rachel passionately. (It is never explained if Calla is a lesbian, bisexual, or if she merely reacted to the emotion of the moment.) Rachel's reaction is to withdraw from the friendship for the time being.Note: Brief daydreaming sequences of the adult Rachel also appear, including those showing her imagining seizing a stolen moment with the school's possibly sexual-harassing principal; taking an under-loved boy in her classroom home with her; and rocking an expected baby in a park while children play nearby.Rachel realizes that only by exposing herself to life is the way she can she experience it. She therefore gives herself to a former high school friend, named Nick Kazlik (James Olsen), who is in town for a visit with his parents which she and he sleep together after first meeting. Mistaking her first sexual encounter for love, she fantasizes about a future with Nick. Her hopes are shattered, however, when Nick, put off by her seriousness, abruptly ends their affair.A short time later, Rachel discovers that she may be pregnant. Determined to accept the consequences of her actions, she decides to go away and have the child. After Calla has helped her find a teaching post in Oregon, Rachel learns that her pregnancy is merely a cyst requiring minor surgery. After undergoing surgery to have the cyst removed, she tells her mother, in the hospital, that she has decided to relocate, and that her mother may accompany her or not, as she wishes. Her mother quickly agrees to go, in a way that suggests she realizes her dependence on Rachel and perhaps even will take her less for granted from now on. Rachel sets out with hope for the future, having learned that she has choices, that she is able to give and receive sexual pleasure, that it is possible for her to take on life actively, rather than wait for it to find her. In the final scene, as Rachel leaves town with her somewhat reluctant mother and looks for the last time at the familiar sights of her home town, she speculates on what the future may bring."
-],
-"summaries": [
-"Rachel is a lonely school teacher who lives with her mother. When a man from the big city asks her out, she starts thinking about where she wants her life to go."
-,
-"Thirty-five year old spinster and virgin Rachel Cameron is a sad, lonely woman. She lives in the small town of Japonica, Connecticut where she grew up. She teaches second grade at Japonica Elementary School and lives with her highly demanding widowed mother (her funeral director father passed away fourteen years ago) in the same apartment above a funeral home where she grew up, despite the home now not being owned by them. Rachel often uses her mother as an excuse not to do things. Rachel represses her emotions, and is prone to daydreaming to envision alternate paths for herself in certain situations if she only had the nerve to do those things. Even when Nick Kazlik, a childhood acquaintance who has returned to Japonica for a summer visit with his family, makes it clear that he wants to have fun with her while he's in town, she can't act on his request out of fear of the unknown. But after a couple of incidents with her only real friend Calla Mackie, who is a fellow teacher at the school, Rachel begins to allow herself more freedom. But as Rachel's repressions slowly melt away, how her emotions will manifest themselves becomes the question."
-]
-}
-}
-,
-{
-"_index": "movies",
-"_type": "docs",
-"_id": "30xi84QBEuMZ1zZ3rElc",
-"_score": 12.051474,
-"_source": {
-"title": "Rachel, Rachel",
-"year": 1968,
-"genders": [
-"Drama"
-,
-"Romance"
-],
-"score": 7.1,
-"directors": [
-"Paul Newman"
-],
-"writers": [
-"Stewart Stern"
-,
-"Margaret Laurence"
-],
-"synopsis": [
-"Rachel Cameron (Joanne Woodward) is a shy, 35-year-old spinster schoolteacher living with her widowed mother in a small apartment above a funeral home that was once owned by her late father in a small town in Connecticut. Haunted by memories of her unhappy childhood and her mortician father, Rachel spends each frustrating day taking care of her mother and working with the schoolchildren. School is soon let out for summer vacation and Rachel figures it will just be another lonely and boring summer for her. (It's implied that she may even hate summer as her job provided somewhat of an escape from her domineering mother who's always trying to compare her to her sister, who married a successful businessman in Boston.)Rachel's closest friend is Calla Mackie (Estelle Parsons), a fellow unmarried teacher who persuades her to attend a revival meeting, where a visiting preacher, named Reverend Wood, encourages Rachel to express her need for the love of Jesus Christ. Rachel is overwhelmed by God's grace, baring so much pent-up emotion, that she is humbled after the service. While comforting Rachel, Calla suddenly begins to kiss Rachel passionately. (It is never explained if Calla is a lesbian, bisexual, or if she merely reacted to the emotion of the moment.) Rachel's reaction is to withdraw from the friendship for the time being.Note: Brief daydreaming sequences of the adult Rachel also appear, including those showing her imagining seizing a stolen moment with the school's possibly sexual-harassing principal; taking an under-loved boy in her classroom home with her; and rocking an expected baby in a park while children play nearby.Rachel realizes that only by exposing herself to life is the way she can she experience it. She therefore gives herself to a former high school friend, named Nick Kazlik (James Olsen), who is in town for a visit with his parents which she and he sleep together after first meeting. Mistaking her first sexual encounter for love, she fantasizes about a future with Nick. Her hopes are shattered, however, when Nick, put off by her seriousness, abruptly ends their affair.A short time later, Rachel discovers that she may be pregnant. Determined to accept the consequences of her actions, she decides to go away and have the child. After Calla has helped her find a teaching post in Oregon, Rachel learns that her pregnancy is merely a cyst requiring minor surgery. After undergoing surgery to have the cyst removed, she tells her mother, in the hospital, that she has decided to relocate, and that her mother may accompany her or not, as she wishes. Her mother quickly agrees to go, in a way that suggests she realizes her dependence on Rachel and perhaps even will take her less for granted from now on. Rachel sets out with hope for the future, having learned that she has choices, that she is able to give and receive sexual pleasure, that it is possible for her to take on life actively, rather than wait for it to find her. In the final scene, as Rachel leaves town with her somewhat reluctant mother and looks for the last time at the familiar sights of her home town, she speculates on what the future may bring."
-],
-"summaries": [
-"Rachel is a lonely school teacher who lives with her mother. When a man from the big city asks her out, she starts thinking about where she wants her life to go."
-,
-"Thirty-five year old spinster and virgin Rachel Cameron is a sad, lonely woman. She lives in the small town of Japonica, Connecticut where she grew up. She teaches second grade at Japonica Elementary School and lives with her highly demanding widowed mother (her funeral director father passed away fourteen years ago) in the same apartment above a funeral home where she grew up, despite the home now not being owned by them. Rachel often uses her mother as an excuse not to do things. Rachel represses her emotions, and is prone to daydreaming to envision alternate paths for herself in certain situations if she only had the nerve to do those things. Even when Nick Kazlik, a childhood acquaintance who has returned to Japonica for a summer visit with his family, makes it clear that he wants to have fun with her while he's in town, she can't act on his request out of fear of the unknown. But after a couple of incidents with her only real friend Calla Mackie, who is a fellow teacher at the school, Rachel begins to allow herself more freedom. But as Rachel's repressions slowly melt away, how her emotions will manifest themselves becomes the question."
-]
-}
-}
-,
-{
-"_index": "movies",
-"_type": "docs",
-"_id": "iExi84QBEuMZ1zZ3rHBq",
-"_score": 11.973539,
-"_source": {
-"title": "Me Him Her",
-"year": 2015,
-"genders": [
-"Comedy"
-,
-"Romance"
-],
-"score": 5.2,
-"directors": [
-"Max Landis"
-],
-"writers": [
-"Max Landis"
-],
-"synopsis": [ ],
-"summaries": [
-"Vicenarian drifter Cory arrives in Los Angeles to help his semi-famous T.V. star friend Brendan take his first steps out of the closet."
-,
-"Brendan Ehrlick, star of TV's popular cop series "Hard Justice," would like to come out of the closet to his parents. His first step? Come out to his best friend Cory in Florida and solicit his help. Cory already knows he's gay but comes to L.A. anyway, where his actions, rather than help Brendan, put him in awkward, possibly career-threatening situations. As corporate managers advise Brendan to remain uninformative in dealing with paparazzi, Cory ventures off into a one-night-stand with Emily, a lesbian on the rebound from a toxic relationship. He falls for her, but being with him confuses her life-long lesbian identity. Her struggles with this prompt Cory towards suddenly becoming a better friend to Brendan, leading to an immediate abduction followed by a violent, sword-wielding confrontation at the "Hard Justice" cast party."
-]
-}
-}
-,
-{
-"_index": "movies",
-"_type": "docs",
-"_id": "q0xi84QBEuMZ1zZ3rElc",
-"_score": 11.956003,
-"_source": {
-"title": "Les Biches",
-"year": 1968,
-"genders": [
-"Drama"
-],
-"score": 6.9,
-"directors": [
-"Claude Chabrol"
-],
-"writers": [
-"Paul Gégauff"
-,
-"Claude Chabrol"
-],
-"synopsis": [ ],
-"summaries": [
-"Architect Paul Thomas insinuates himself into the relationship of two bisexual women living in a St. Tropez villa with tragic consequences."
-,
-"Frédérique is a rich and beautiful woman who picks up a female street artist called "Why". It is December and they go to her villa in Saint Tropez, which is inhabited by a couple of odd gay men. Both women fall for the local architect Paul Thomas. However Why says that she is not interested in him, so Frédérique invites him to move into the villa."
-,
-"In Paris, while crossing a bridge over the Seine, the bored bisexual millionaire Frédérique meets a homeless young street painter called 'Why' and invites her to drink tea at her apartment. They have a love affair and Frédérique takes 'Why' to spend the winter at her house in Saint Tropez, where Frédérique's other two friends of hers live. When Frédérique throws a party for a few guests, the handsome architect Paul Thomas hits on Why. She is seduced by Paul and spends the night with him in his place. The next day, the selfish Frédérique visits Paul and seduces him. They travel together to Paris and when they return, Frédérique tells Why that Paul is going to live with them at her house. Why is upset but unsuccessfully tries to seduce Paul. One night, Why proposes they get drunk, expecting to go to their room and have a threesome, but she is unwanted by the couple. When Frédérique and Paul travel to Paris to attend urgent business, Why follows them expecting to stay in Frédérique's apartment."
-]
-}
-}
-,
-{
-"_index": "movies",
-"_type": "docs",
-"_id": "R0xi84QBEuMZ1zZ3rEtd",
-"_score": 10.9007015,
-"_source": {
-"title": "Horror Express",
-"year": 1972,
-"genders": [
-"Adventure"
-,
-"Horror"
-,
-"Sci-Fi"
-],
-"score": 6.5,
-"directors": [
-"Eugenio Martín"
-],
-"writers": [
-"Arnaud d'Usseau"
-,
-"Julian Zimet"
-],
-"synopsis": [
-"In 1906 Shanghai, anthropologist Professor Sir Alexander Saxton (Christopher Lee) is returning home to England via the Trans-Siberian Railway to Moscow. He brings with him a large crate containing the prize from his expedition in the mountains of Manchuria: the frozen remains of a primitive humanoid creature, which Saxton is sure is the missing link in the evolutionary chain. Also on board is Dr. Wells (Peter Cushing), a colleague of Saxton's from the Geological Society of London.Mysterious deaths occur even before the train sets out. A known thief is found dead on the platform after having looked into the crate. His corpse is discovered bleeding from the eyes, which have turned blank and white. A slightly unbalanced, Rasputin-esque monk named Pujardov (Alberto de Mendoza) claims that the contents of the crate is evil. Pujardov is the spiritual adviser for Count Maryan Petrovski (George Rigaud) and his wife, Irina (Silvia Tortosa), and he tries to demonstrate to them that the crate is an omen of evil: in a bizarre rationalization, he claims that where there is evil, there is no place for the sign of the cross, and a piece of chalk fails to make the marking of the cross on the side of the crate. Saxton dismisses it as a trick and discredits the monk.Saxton is eager to keep his find a secret from everyone, especially Dr. Wells, but Wells pays the baggage man (Víctor Israel) to look into the crate when everyone is gone and tell him what's inside. Later, the man does this and is also killed by the creature, which possesses a glowing red eye. After gazing at the red eye, the man's eyes begin to bleed and turn white until he falls down dead. The ape-man quickly picks the lock of the crate just like the Chinese thief did back at the beginning of the train's voyage. The creature leaves the crate and places the baggage man's corpse inside instead; the others discover it later and Saxton is forced to come clean about his discovery. Inspector Mirov (Julio Peña) represents authority on the train, and he tries to keep the news of the death quiet among the passengers, while simultaneously searching for the creature.A beautiful woman insinuates herself into Dr. Wells' compartment; she is Natasha (Helga Liné), and she uses her feminine charm to convince Wells that she is a lady in distress. In reality, Natasha is a spy intent on pilfering a block of steel belonging to the Count - who knows the formula for its creation - from the train's safe. She is recognized by Yevtushenko (Ángel del Pozo), a prominent engineer who knows he has seen her before. Wells dines with the both of them in the dining car, but Mirov summons him and his assistant, Miss Jones (Alice Reinheart) to perform an autopsy on the baggage man. When they remove the top of his skull, they find that his brain is strangely smooth; Wells concludes that the brain has somehow been "drained" of all knowledge and memory. Later, when he sees a boiled fish with a white eye, he decides that this is the reason the eyes of the victims turn white; the memories and information are absorbed through the eyes, causing this reaction.The fossil continues to haunt the train and kills two guards, eventually overcoming Natasha when she sneaks into the baggage compartment and attempts to remove the steel block from the safe. Wells happens upon the murder scene and the fossil tries to attack him, but it is gunned down by Inspector Mirov, who stares at the creature and then collapses into unconsciousness.In a strange experiment, Saxton, Wells and Jones discover images embedded in liquid inside the eye of the fossil, images that reveal a prehistoric Earth, as well as a view of the Earth from outer space. They deduce that the real threat is a formless alien creature that was simply inhabiting the body of the fossil, and that it has now transferred itself to someone else on board the train. These fears are confirmed when Jones is found dead in the baggage compartment, attacked by the Inspector and drained of her brain, her eyes white and bleeding. The monk senses the evil presence inside of the Inspector and pledges allegiance to it, declaring it to be Satan. Yevtushenko becomes a victim, too, when the creature learns that he has studied the laws of physics and theories of space travel.When news of the murders on the train is wired to Siberian authorities, the train is stopped and an intimidating Cossack named Captain Kazan (Telly Savalas) boards with a small group of his men. Mirov is discovered to be the creature and is shot and stabbed, but not before the alien presence transfers itself to the monk. The passengers all evacuate to the caboose, while the monk murders Kazan and his men by draining them of their brains.The creature attacks the Count to absorb his knowledge about steel; using the combined knowledge of the minds it has absorbed, the creature intends to build a vehicle that will allow it to escape Earth. When it threatens the Countess, Saxton arrives and confronts it with a shotgun and a powerful light, which renders its deadly red eyes temporarily ineffective. Playing for time, the creature tempts Saxton by revealing that it is a formless energy that came to Earth millions of years ago from another galaxy, and was accidentally left behind by its own kind; it has survived by transferring itself to each form of life that has evolved over time. As such, it possesses all of the knowledge that Saxton so desperately wants - including, it claims, the knowledge to cure disease and end hunger. Saxton, however, decides that the alien is too dangerous to be left alive. Realizing that Saxton cannot be bargained with, it resurrects all of its victims as white-eyed zombies. Saxton and the Countess fight through the zombies back to the caboose, where the others are waiting. As Saxton and Wells desperately work to detach the caboose from the rest of the train, Kazan's superiors in Moscow send a telegraph to the next station ahead, ordering them to divert the train to a siding overlooking a precarious cliff. The operators follow this order, speculating that a war has broken out. Just as Saxton and Wells uncouple themselves from the rest of the train, it crashes over the cliff and explodes into a fireball as it hits the ravine below. The caboose rolls to a safe stop precariously near the edge, where the survivors watch the fire consume the train and the unearthly inhabitants within it."
-],
-"summaries": [
-"While travelling on the Trans-Siberian Express, an anthropologist and his rival must contain the threat posed by the former's cargo: a prehistoric ape which is the host for a lifeform that is absorbing the minds of the passengers and crew."
-,
-"An English anthropologist has discovered a frozen monster in the frozen wastes of Manchuria which he believes may be the Missing Link. He brings the creature back to Europe aboard a trans-Siberian express, but during the trip the monster thaws out and starts to butcher the passengers one by one."
-,
-"In 1906, in China, Professor Alexander Saxton discovers an ancient frozen fossil in the remote Province of Szechuan. He brings the remains of the being in a box to Shanghai and boards a trans-Siberian train, where he meets his acquaintance Dr. Wells. During the trip, a life force trapped in the frozen creature is released, killing and stealing the memories of the passengers."
-]
-}
-}
-,
-{
-"_index": "movies",
-"_type": "docs",
-"_id": "R0xi84QBEuMZ1zZ3rE9f",
-"_score": 10.872667,
+"_id": "Ni_NAIUBmFo8GYv0bnUr",
+"_score": 11.20455,
 "_source": {
 "title": "The Lonely Lady",
 "year": 1983,
@@ -965,8 +585,8 @@
 {
 "_index": "movies",
 "_type": "docs",
-"_id": "dkxi84QBEuMZ1zZ3rFZi",
-"_score": 10.862858,
+"_id": "ZS_NAIUBmFo8GYv0bnwu",
+"_score": 11.144213,
 "_source": {
 "title": "Chasing Amy",
 "year": 1997,
@@ -1002,140 +622,36 @@
 {
 "_index": "movies",
 "_type": "docs",
-"_id": "yyJW84QB_Hoamgc57I4V",
-"_score": 10.634079,
+"_id": "Ni_NAIUBmFo8GYv0bnEp",
+"_score": 11.125076,
 "_source": {
-"title": "Mutantes: Punk Porn Feminism",
-"year": 2009,
+"title": "Horror Express",
+"year": 1972,
 "genders": [
-"Documentary"
+"Adventure"
+,
+"Horror"
+,
+"Sci-Fi"
 ],
-"score": 6.3,
+"score": 6.5,
 "directors": [
-"Virginie Despentes"
+"Eugenio Martín"
 ],
 "writers": [
-"Norma Jean Almodovar"
+"Arnaud d'Usseau"
 ,
-"Maria Beatty"
-,
-"Lynn Breedlove"
-],
-"synopsis": [ ],
-"summaries": [
-"Mutantes sheds light on a feminism that was little talked about in France. This documentary comprises of a series of interviews conducted in the USA, Paris and Barcelona, and documents from the archives about the political action of sex workers, queer activists and post-pornographic performances."
-]
-}
-}
-,
-{
-"_index": "movies",
-"_type": "docs",
-"_id": "kUxi84QBEuMZ1zZ3rGpo",
-"_score": 10.634079,
-"_source": {
-"title": "Mutantes: Punk Porn Feminism",
-"year": 2009,
-"genders": [
-"Documentary"
-],
-"score": 6.3,
-"directors": [
-"Virginie Despentes"
-],
-"writers": [
-"Norma Jean Almodovar"
-,
-"Maria Beatty"
-,
-"Lynn Breedlove"
-],
-"synopsis": [ ],
-"summaries": [
-"Mutantes sheds light on a feminism that was little talked about in France. This documentary comprises of a series of interviews conducted in the USA, Paris and Barcelona, and documents from the archives about the political action of sex workers, queer activists and post-pornographic performances."
-]
-}
-}
-,
-{
-"_index": "movies",
-"_type": "docs",
-"_id": "FCJW84QB_Hoamgc57Jga",
-"_score": 10.610501,
-"_source": {
-"title": "Break Free",
-"year": 2014,
-"genders": [
-"Short"
-],
-"score": 7.4,
-"directors": [
-"Phillip Lopez"
-],
-"writers": [
-"Ruby Rose"
-],
-"synopsis": [ ],
-"summaries": [
-"A short film about gender roles, Trans, and what it is like to have an identity that deviates from the status quo."
-]
-}
-}
-,
-{
-"_index": "movies",
-"_type": "docs",
-"_id": "2kxi84QBEuMZ1zZ3rHNs",
-"_score": 10.610501,
-"_source": {
-"title": "Break Free",
-"year": 2014,
-"genders": [
-"Short"
-],
-"score": 7.4,
-"directors": [
-"Phillip Lopez"
-],
-"writers": [
-"Ruby Rose"
-],
-"synopsis": [ ],
-"summaries": [
-"A short film about gender roles, Trans, and what it is like to have an identity that deviates from the status quo."
-]
-}
-}
-,
-{
-"_index": "movies",
-"_type": "docs",
-"_id": "lUxi84QBEuMZ1zZ3rExe",
-"_score": 10.415293,
-"_source": {
-"title": "Cannonball",
-"year": 1976,
-"genders": [
-"Action"
-,
-"Comedy"
-,
-"Crime"
-],
-"score": 5.5,
-"directors": [
-"Paul Bartel"
-],
-"writers": [
-"Paul Bartel"
-,
-"Don Simpson"
+"Julian Zimet"
 ],
 "synopsis": [
-"Coy "Cannonball" Buckman is a race driver-turned parolee, who signs on to compete in the Trans-Continental Road Race, a cross-country journey starting at the Santa Monica Pier and ending at a garage in New York City. This does not sit well with Coy's parole officer girlfriend Linda Maxwell, who is legally responsible for him and he could go back to prison for violating his parole. Fixing up Coy's red Pontiac Trans Am is his loyal pal Zippo Friedman, who decides to enter the race himself in a identical Trans Am and even dressing up like Coy to fool the cops. Coy's rival is Cade Redman, an embittered fellow racer, who is also tasked to take no-talent country singer Perman Waters and his mother Sharma Capri to New York to jump-start Perman's stalled career.Other participants in the race is eccentric European racing champ Wolfe Messer, driving a yellow DeTomaso Pantera, Jim and Maryann Crandell, a surfer couple racing in a silver Corvette owned by her father. Terry McMillan, who sheepishly uses sneak tactics to make it to New York without driving his orange Chevorlet Blazer, Beutell Morris, who uses the race as a ruse to help a rich couple deliver their Lincoln Continental to New York without a single scratch, and Sandy, driving a custom blue van with her two waitress friends, Judy and Ginny. What Coy does not know is that his gambler brother Bennie made a deal with mob boss Lester Marks to make sure Coy wins the race as Bennie is in heavy debt to them.Linda has no choice but to accompany Coy in the race, but eventually decides to leave her in Zippo's company, when Redman starts trying to run him off the road. Not long after, the dirty tricks begin to come into play: Bennie, with the help of his prison escapee friend Sharpe, secretly planted a bomb under Messer's Pantera, which explodes during a police pursuit in the desert and Redman shoots out a tire in Coy's Trans Am. He later beats up Sharpe, posing as a motorcycle cop pretending to stop Coy on a routine traffic stop, and confronts Redman at a roadside grocery store, where they wreck the entire establishment. Redman escapes the melee and shatters the headlights on Coy's car before taking off. That night, Coy notices the broken headlights and winds up totaling his car on a winding mountain road, but not after being loaned a green Ford Mustang by a pair of rural auto mechanics, who are big fans of him.Redman gets word that Coy is still in the race and is forced to call in more reinforcements to stop him. They mistake Zippo as Coy and beat him to a pulp, with Linda defeating most of the men with judo and karate moves. Coy shows up and learns from Linda that Zippo was actually driving the car that night when a young girl died, resulting in Coy's prosecution. Coy tells Linda that he took the fall for it because Zippo would have never survived in prison. Linda wants to ride with Coy again, for fear of her safety, but Coy says the race is almost over and they will be together soon. Other sub-plots include Jim's Corvette suffering from a damaged fan belt and after unsuccessful attempts to repair it, they try to steal one from a supermarket parking lot, only to be chased away by a suspicious cop and Sandy and her friends duping a pair of handsome patrolmen by having sex with them to avoid a speeding ticket.At this point, a half-crazed Redman notices Coy driving into the construction site of an unfinished bridge. He dumps Perman and Sharma out of the car and speeds after him. Coy manages to jump the bridge to the other side, but Redman's brakes give out and pummels down to a fiery death. Meanwhile, Sharpe plans to assassinate Coy using a sniper rifle, not knowing it is actually Zippo driving the car. Sharpe shoots Zippo through the head and loses control of the Trans Am, ejecting Linda in the process, and explodes. Beutell, distracted by the explosion, accidentally knocks down the car Sharpe was laying under, fatally crushing him. Jim and Maryann spot Linda lying on the road and to take her to a nearby hospital, but not after unintentionally causing a multi-car pile-up. At the hospital, the doctor tells them she will be okay and Jim thinks they should forget about the race and go home, but Maryann still wants to push forward, even though they might not win first place.Terry and his girlfriend Louisa are the first ones to arrive at the finish line, but are disqualified when she blabs that they left their celebratory champagne on the plane. The second one to arrive is Coy, who is greeted by Bennie, but the victory is cut short when a TV cameraman tells Coy about the pile-up, the other red Trans Am destroyed in the explosion, and that Linda was taken to the hospital. Coy learns the truth about the plan Bennie had all along, rips up his race ticket, and heads for the hospital, as a disappointed Lester and his bodyguard escort a doomed Bennie to Lester's limo, as Jim and Maryann arrive and end up the official winners of the race. At the hospital, Coy rushes to Linda's room and is relieved to see her alive, but badly injured, and the two lovingly embrace, as Beutell eventually delivers the now-wrecked Lincoln to the couple standing outside a downtown hotel."
+"In 1906 Shanghai, anthropologist Professor Sir Alexander Saxton (Christopher Lee) is returning home to England via the Trans-Siberian Railway to Moscow. He brings with him a large crate containing the prize from his expedition in the mountains of Manchuria: the frozen remains of a primitive humanoid creature, which Saxton is sure is the missing link in the evolutionary chain. Also on board is Dr. Wells (Peter Cushing), a colleague of Saxton's from the Geological Society of London.Mysterious deaths occur even before the train sets out. A known thief is found dead on the platform after having looked into the crate. His corpse is discovered bleeding from the eyes, which have turned blank and white. A slightly unbalanced, Rasputin-esque monk named Pujardov (Alberto de Mendoza) claims that the contents of the crate is evil. Pujardov is the spiritual adviser for Count Maryan Petrovski (George Rigaud) and his wife, Irina (Silvia Tortosa), and he tries to demonstrate to them that the crate is an omen of evil: in a bizarre rationalization, he claims that where there is evil, there is no place for the sign of the cross, and a piece of chalk fails to make the marking of the cross on the side of the crate. Saxton dismisses it as a trick and discredits the monk.Saxton is eager to keep his find a secret from everyone, especially Dr. Wells, but Wells pays the baggage man (Víctor Israel) to look into the crate when everyone is gone and tell him what's inside. Later, the man does this and is also killed by the creature, which possesses a glowing red eye. After gazing at the red eye, the man's eyes begin to bleed and turn white until he falls down dead. The ape-man quickly picks the lock of the crate just like the Chinese thief did back at the beginning of the train's voyage. The creature leaves the crate and places the baggage man's corpse inside instead; the others discover it later and Saxton is forced to come clean about his discovery. Inspector Mirov (Julio Peña) represents authority on the train, and he tries to keep the news of the death quiet among the passengers, while simultaneously searching for the creature.A beautiful woman insinuates herself into Dr. Wells' compartment; she is Natasha (Helga Liné), and she uses her feminine charm to convince Wells that she is a lady in distress. In reality, Natasha is a spy intent on pilfering a block of steel belonging to the Count - who knows the formula for its creation - from the train's safe. She is recognized by Yevtushenko (Ángel del Pozo), a prominent engineer who knows he has seen her before. Wells dines with the both of them in the dining car, but Mirov summons him and his assistant, Miss Jones (Alice Reinheart) to perform an autopsy on the baggage man. When they remove the top of his skull, they find that his brain is strangely smooth; Wells concludes that the brain has somehow been "drained" of all knowledge and memory. Later, when he sees a boiled fish with a white eye, he decides that this is the reason the eyes of the victims turn white; the memories and information are absorbed through the eyes, causing this reaction.The fossil continues to haunt the train and kills two guards, eventually overcoming Natasha when she sneaks into the baggage compartment and attempts to remove the steel block from the safe. Wells happens upon the murder scene and the fossil tries to attack him, but it is gunned down by Inspector Mirov, who stares at the creature and then collapses into unconsciousness.In a strange experiment, Saxton, Wells and Jones discover images embedded in liquid inside the eye of the fossil, images that reveal a prehistoric Earth, as well as a view of the Earth from outer space. They deduce that the real threat is a formless alien creature that was simply inhabiting the body of the fossil, and that it has now transferred itself to someone else on board the train. These fears are confirmed when Jones is found dead in the baggage compartment, attacked by the Inspector and drained of her brain, her eyes white and bleeding. The monk senses the evil presence inside of the Inspector and pledges allegiance to it, declaring it to be Satan. Yevtushenko becomes a victim, too, when the creature learns that he has studied the laws of physics and theories of space travel.When news of the murders on the train is wired to Siberian authorities, the train is stopped and an intimidating Cossack named Captain Kazan (Telly Savalas) boards with a small group of his men. Mirov is discovered to be the creature and is shot and stabbed, but not before the alien presence transfers itself to the monk. The passengers all evacuate to the caboose, while the monk murders Kazan and his men by draining them of their brains.The creature attacks the Count to absorb his knowledge about steel; using the combined knowledge of the minds it has absorbed, the creature intends to build a vehicle that will allow it to escape Earth. When it threatens the Countess, Saxton arrives and confronts it with a shotgun and a powerful light, which renders its deadly red eyes temporarily ineffective. Playing for time, the creature tempts Saxton by revealing that it is a formless energy that came to Earth millions of years ago from another galaxy, and was accidentally left behind by its own kind; it has survived by transferring itself to each form of life that has evolved over time. As such, it possesses all of the knowledge that Saxton so desperately wants - including, it claims, the knowledge to cure disease and end hunger. Saxton, however, decides that the alien is too dangerous to be left alive. Realizing that Saxton cannot be bargained with, it resurrects all of its victims as white-eyed zombies. Saxton and the Countess fight through the zombies back to the caboose, where the others are waiting. As Saxton and Wells desperately work to detach the caboose from the rest of the train, Kazan's superiors in Moscow send a telegraph to the next station ahead, ordering them to divert the train to a siding overlooking a precarious cliff. The operators follow this order, speculating that a war has broken out. Just as Saxton and Wells uncouple themselves from the rest of the train, it crashes over the cliff and explodes into a fireball as it hits the ravine below. The caboose rolls to a safe stop precariously near the edge, where the survivors watch the fire consume the train and the unearthly inhabitants within it."
 ],
 "summaries": [
-"Racing across the country from L.A. to New York, a plethora of exotic cars carry contestants hoping to win a very large sum."
+"While travelling on the Trans-Siberian Express, an anthropologist and his rival must contain the threat posed by the former's cargo: a prehistoric ape which is the host for a lifeform that is absorbing the minds of the passengers and crew."
+,
+"An English anthropologist has discovered a frozen monster in the frozen wastes of Manchuria which he believes may be the Missing Link. He brings the creature back to Europe aboard a trans-Siberian express, but during the trip the monster thaws out and starts to butcher the passengers one by one."
+,
+"In 1906, in China, Professor Alexander Saxton discovers an ancient frozen fossil in the remote Province of Szechuan. He brings the remains of the being in a box to Shanghai and boards a trans-Siberian train, where he meets his acquaintance Dr. Wells. During the trip, a life force trapped in the frozen creature is released, killing and stealing the memories of the passengers."
 ]
 }
 }
@@ -1143,28 +659,53 @@
 {
 "_index": "movies",
 "_type": "docs",
-"_id": "YCJW84QB_Hoamgc57JAW",
-"_score": 10.262165,
+"_id": "yS_NAIUBmFo8GYv0bpk4",
+"_score": 10.702101,
 "_source": {
-"title": "Paul Goodman Changed My Life",
-"year": 2011,
+"title": "Break Free",
+"year": 2014,
+"genders": [
+"Short"
+],
+"score": 7.4,
+"directors": [
+"Phillip Lopez"
+],
+"writers": [
+"Ruby Rose"
+],
+"synopsis": [ ],
+"summaries": [
+"A short film about gender roles, Trans, and what it is like to have an identity that deviates from the status quo."
+]
+}
+}
+,
+{
+"_index": "movies",
+"_type": "docs",
+"_id": "gC_NAIUBmFo8GYv0bpA1",
+"_score": 10.511123,
+"_source": {
+"title": "Mutantes: Punk Porn Feminism",
+"year": 2009,
 "genders": [
 "Documentary"
-,
-"Biography"
-,
-"Drama"
 ],
-"score": 6.6,
+"score": 6.3,
 "directors": [
-"Jonathan Lee"
+"Virginie Despentes"
 ],
 "writers": [
-"Paul Goodman"
+"Norma Jean Almodovar"
+,
+"Maria Beatty"
+,
+"Lynn Breedlove"
 ],
 "synopsis": [ ],
 "summaries": [
-"Paul Goodman, whose best-selling 'Growing Up Absurd' made him the philosopher of the New Left in the 1960s, was also a brilliant poet, out queer (and family man) in the 1940s, radical pacifist and visionary. His ideas and stubborn integrity helped many find a moral compass in the '60's -- and can do so again today."
+"Mutantes sheds light on a feminism that was little talked about in France. This documentary comprises of a series of interviews conducted in the USA, Paris and Barcelona, and documents from the archives about the political action of sex workers, queer activists and post-pornographic performances."
 ]
 }
 }
@@ -1172,95 +713,8 @@
 {
 "_index": "movies",
 "_type": "docs",
-"_id": "Jkxi84QBEuMZ1zZ3rGxp",
-"_score": 10.262165,
-"_source": {
-"title": "Paul Goodman Changed My Life",
-"year": 2011,
-"genders": [
-"Documentary"
-,
-"Biography"
-,
-"Drama"
-],
-"score": 6.6,
-"directors": [
-"Jonathan Lee"
-],
-"writers": [
-"Paul Goodman"
-],
-"synopsis": [ ],
-"summaries": [
-"Paul Goodman, whose best-selling 'Growing Up Absurd' made him the philosopher of the New Left in the 1960s, was also a brilliant poet, out queer (and family man) in the 1940s, radical pacifist and visionary. His ideas and stubborn integrity helped many find a moral compass in the '60's -- and can do so again today."
-]
-}
-}
-,
-{
-"_index": "movies",
-"_type": "docs",
-"_id": "vyJW84QB_Hoamgc57HsK",
-"_score": 10.222847,
-"_source": {
-"title": "The Kiss of Her Flesh",
-"year": 1968,
-"genders": [
-"Horror"
-,
-"Thriller"
-],
-"score": 5,
-"directors": [
-"Michael Findlay"
-],
-"writers": [
-"Michael Findlay"
-,
-"Roberta Findlay"
-],
-"synopsis": [ ],
-"summaries": [
-"A weapons expert who murdered his unfaithful stripper wife and her lover goes on a killing spree, bumping off exotic dancers and hookers, while plotting the demise of his wife's swinging bisexual sister and her kinky boyfriend."
-]
-}
-}
-,
-{
-"_index": "movies",
-"_type": "docs",
-"_id": "hUxi84QBEuMZ1zZ3rFdi",
-"_score": 10.222847,
-"_source": {
-"title": "The Kiss of Her Flesh",
-"year": 1968,
-"genders": [
-"Horror"
-,
-"Thriller"
-],
-"score": 5,
-"directors": [
-"Michael Findlay"
-],
-"writers": [
-"Michael Findlay"
-,
-"Roberta Findlay"
-],
-"synopsis": [ ],
-"summaries": [
-"A weapons expert who murdered his unfaithful stripper wife and her lover goes on a killing spree, bumping off exotic dancers and hookers, while plotting the demise of his wife's swinging bisexual sister and her kinky boyfriend."
-]
-}
-}
-,
-{
-"_index": "movies",
-"_type": "docs",
-"_id": "EUxi84QBEuMZ1zZ3rFBf",
-"_score": 10.120615,
+"_id": "AC_NAIUBmFo8GYv0bnYr",
+"_score": 10.488936,
 "_source": {
 "title": "Kiss of the Spider Woman",
 "year": 1985,
@@ -1296,8 +750,163 @@
 {
 "_index": "movies",
 "_type": "docs",
-"_id": "gExi84QBEuMZ1zZ3rFJg",
-"_score": 9.956917,
+"_id": "kC_NAIUBmFo8GYv0bogy",
+"_score": 10.222271,
+"_source": {
+"title": "Out at the Wedding",
+"year": 2007,
+"genders": [
+"Comedy"
+,
+"Drama"
+,
+"Romance"
+],
+"score": 6.1,
+"directors": [
+"Lee Friedlander"
+],
+"writers": [
+"Paula Goldberg"
+],
+"synopsis": [ ],
+"summaries": [
+"Ever have an identity crisis? Tell a little white lie here and there, just to make everyone happy? Well, Alex Houston has got you beat, hands down. After telling her fiancé, Dana, that her entire family is dead, Manhattanite Alex whisks off to her childhood home in South Carolina to serve as bridesmaid at her high-maintenance, estranged sister Jeannie's wedding. As she tries not to steal Jeannie's thunder by telling her family that a) she's engaged, and b) the man she's going to marry is a Jewish African American, things get a little mixed up. For starters, Alex's sharp-tongued, mischievous best friend Jonathan unwittingly starts a rumor at the wedding that Alex is gay and Dana is a woman. When her family reacts in a surprisingly supportive way, Alex decides to go with it. It's easier than telling the truth, right? But when Alex and Jonathan decide to hire sexy lesbian Risa to act as her lover when Jeannie comes to visit Alex in New York, things really start to get out of hand. Director Lee Friedlander follows up her award-winning 2004 film "Girl Play" with this witty, farcical romp that explores the sometimes comically bumbling way in which we come out to the people we love - whether we're gay or straight. As she becomes increasingly entangled in her web of lies, Alex struggles to come to terms with her fiancé, her family and most of all herself along the way."
+]
+}
+}
+,
+{
+"_index": "movies",
+"_type": "docs",
+"_id": "hC_NAIUBmFo8GYv0bnIq",
+"_score": 10.183567,
+"_source": {
+"title": "Cannonball",
+"year": 1976,
+"genders": [
+"Action"
+,
+"Comedy"
+,
+"Crime"
+],
+"score": 5.5,
+"directors": [
+"Paul Bartel"
+],
+"writers": [
+"Paul Bartel"
+,
+"Don Simpson"
+],
+"synopsis": [
+"Coy "Cannonball" Buckman is a race driver-turned parolee, who signs on to compete in the Trans-Continental Road Race, a cross-country journey starting at the Santa Monica Pier and ending at a garage in New York City. This does not sit well with Coy's parole officer girlfriend Linda Maxwell, who is legally responsible for him and he could go back to prison for violating his parole. Fixing up Coy's red Pontiac Trans Am is his loyal pal Zippo Friedman, who decides to enter the race himself in a identical Trans Am and even dressing up like Coy to fool the cops. Coy's rival is Cade Redman, an embittered fellow racer, who is also tasked to take no-talent country singer Perman Waters and his mother Sharma Capri to New York to jump-start Perman's stalled career.Other participants in the race is eccentric European racing champ Wolfe Messer, driving a yellow DeTomaso Pantera, Jim and Maryann Crandell, a surfer couple racing in a silver Corvette owned by her father. Terry McMillan, who sheepishly uses sneak tactics to make it to New York without driving his orange Chevorlet Blazer, Beutell Morris, who uses the race as a ruse to help a rich couple deliver their Lincoln Continental to New York without a single scratch, and Sandy, driving a custom blue van with her two waitress friends, Judy and Ginny. What Coy does not know is that his gambler brother Bennie made a deal with mob boss Lester Marks to make sure Coy wins the race as Bennie is in heavy debt to them.Linda has no choice but to accompany Coy in the race, but eventually decides to leave her in Zippo's company, when Redman starts trying to run him off the road. Not long after, the dirty tricks begin to come into play: Bennie, with the help of his prison escapee friend Sharpe, secretly planted a bomb under Messer's Pantera, which explodes during a police pursuit in the desert and Redman shoots out a tire in Coy's Trans Am. He later beats up Sharpe, posing as a motorcycle cop pretending to stop Coy on a routine traffic stop, and confronts Redman at a roadside grocery store, where they wreck the entire establishment. Redman escapes the melee and shatters the headlights on Coy's car before taking off. That night, Coy notices the broken headlights and winds up totaling his car on a winding mountain road, but not after being loaned a green Ford Mustang by a pair of rural auto mechanics, who are big fans of him.Redman gets word that Coy is still in the race and is forced to call in more reinforcements to stop him. They mistake Zippo as Coy and beat him to a pulp, with Linda defeating most of the men with judo and karate moves. Coy shows up and learns from Linda that Zippo was actually driving the car that night when a young girl died, resulting in Coy's prosecution. Coy tells Linda that he took the fall for it because Zippo would have never survived in prison. Linda wants to ride with Coy again, for fear of her safety, but Coy says the race is almost over and they will be together soon. Other sub-plots include Jim's Corvette suffering from a damaged fan belt and after unsuccessful attempts to repair it, they try to steal one from a supermarket parking lot, only to be chased away by a suspicious cop and Sandy and her friends duping a pair of handsome patrolmen by having sex with them to avoid a speeding ticket.At this point, a half-crazed Redman notices Coy driving into the construction site of an unfinished bridge. He dumps Perman and Sharma out of the car and speeds after him. Coy manages to jump the bridge to the other side, but Redman's brakes give out and pummels down to a fiery death. Meanwhile, Sharpe plans to assassinate Coy using a sniper rifle, not knowing it is actually Zippo driving the car. Sharpe shoots Zippo through the head and loses control of the Trans Am, ejecting Linda in the process, and explodes. Beutell, distracted by the explosion, accidentally knocks down the car Sharpe was laying under, fatally crushing him. Jim and Maryann spot Linda lying on the road and to take her to a nearby hospital, but not after unintentionally causing a multi-car pile-up. At the hospital, the doctor tells them she will be okay and Jim thinks they should forget about the race and go home, but Maryann still wants to push forward, even though they might not win first place.Terry and his girlfriend Louisa are the first ones to arrive at the finish line, but are disqualified when she blabs that they left their celebratory champagne on the plane. The second one to arrive is Coy, who is greeted by Bennie, but the victory is cut short when a TV cameraman tells Coy about the pile-up, the other red Trans Am destroyed in the explosion, and that Linda was taken to the hospital. Coy learns the truth about the plan Bennie had all along, rips up his race ticket, and heads for the hospital, as a disappointed Lester and his bodyguard escort a doomed Bennie to Lester's limo, as Jim and Maryann arrive and end up the official winners of the race. At the hospital, Coy rushes to Linda's room and is relieved to see her alive, but badly injured, and the two lovingly embrace, as Beutell eventually delivers the now-wrecked Lincoln to the couple standing outside a downtown hotel."
+],
+"summaries": [
+"Racing across the country from L.A. to New York, a plethora of exotic cars carry contestants hoping to win a very large sum."
+]
+}
+}
+,
+{
+"_index": "movies",
+"_type": "docs",
+"_id": "FS_NAIUBmFo8GYv0bpI1",
+"_score": 10.172838,
+"_source": {
+"title": "Paul Goodman Changed My Life",
+"year": 2011,
+"genders": [
+"Documentary"
+,
+"Biography"
+,
+"Drama"
+],
+"score": 6.6,
+"directors": [
+"Jonathan Lee"
+],
+"writers": [
+"Paul Goodman"
+],
+"synopsis": [ ],
+"summaries": [
+"Paul Goodman, whose best-selling 'Growing Up Absurd' made him the philosopher of the New Left in the 1960s, was also a brilliant poet, out queer (and family man) in the 1940s, radical pacifist and visionary. His ideas and stubborn integrity helped many find a moral compass in the '60's -- and can do so again today."
+]
+}
+}
+,
+{
+"_index": "movies",
+"_type": "docs",
+"_id": "dC_NAIUBmFo8GYv0bn0u",
+"_score": 10.151806,
+"_source": {
+"title": "The Kiss of Her Flesh",
+"year": 1968,
+"genders": [
+"Horror"
+,
+"Thriller"
+],
+"score": 5,
+"directors": [
+"Michael Findlay"
+],
+"writers": [
+"Michael Findlay"
+,
+"Roberta Findlay"
+],
+"synopsis": [ ],
+"summaries": [
+"A weapons expert who murdered his unfaithful stripper wife and her lover goes on a killing spree, bumping off exotic dancers and hookers, while plotting the demise of his wife's swinging bisexual sister and her kinky boyfriend."
+]
+}
+}
+,
+{
+"_index": "movies",
+"_type": "docs",
+"_id": "fy_NAIUBmFo8GYv0bosz",
+"_score": 10.075182,
+"_source": {
+"title": "Vampire Killers",
+"year": 2009,
+"genders": [
+"Action"
+,
+"Comedy"
+,
+"Fantasy"
+],
+"score": 5.1,
+"directors": [
+"Phil Claydon"
+],
+"writers": [
+"Stewart Williams"
+,
+"Paul Hupfield"
+],
+"synopsis": [
+"Jimmy (Mathew Horne) and Fletch (James Corden) are two friends living in London experiencing life problems. Jimmy is dumped by his girlfriend and Fletch is fired from his job as a clown. They decide to escape their woes and hike to a remote village in Norfolk they find on an old map. As they arrive at a pub in the village, with Jimmy upset about Fletch destroying his phone, they see a number of attractive foreign female history students leaving.Hoping to find more beautiful women inside, they are greeted by a morose crowd of men and approached by a seemingly crazed vicar (Paul McGann) who believes Jimmy is a long lost descendant of a local vampire slayer. As the barman offers the two men free ale as an apology for the vicar, they learn the students they saw earlier are going to a cottage - where they are to stay the night. Jimmy and Fletch pursue the students' bus, catching up to it as the engine has broken down, and are introduced to four girls (Heidi, Lotte, Anke and Trudi). They are invited to join a party on the bus.The group arrives at their destination, only to learn that a curse rests over the village and that every female child turns into a lesbian vampire on her eighteenth birthday. There is an old legend stating that the Vampire Queen, Carmilla, descended on the village, killed its menfolk and seduced its women to her evil. When the ruler of the land, Baron Wolfgang Mclaren (Jimmy's great ancestor) returned from the Crusades, he discovered one of the women corrupted by Carmilla was his wife, Eva. The baron forged a sacred sword, then defeated Carmilla, but before dying, Carmilla cursed the village, adding that when the blood of the last of Mclaren's bloodline mixed with a virgin girl's blood, Carmilla would be resurrected.Fletch and Jimmy spend the night with the women. Heidi, Anke and Trudi are turned into vampires. After Lotte insists that the others try to find her missing friends, they witness Trudi being turned. Eva, Carmilla's mistress, tries to draw Lotte to her growing clan of lesbian vampires. The trio runs back into the cottage after killing vampires Heidi and Anke and barricade themselves in after the vampires destroy the bus. Jimmy's ex-girlfriend Judi arrives at the door and Jimmy, not ready to give up on the relationship, takes her into the bedroom. Lotte reveals to Fletch that she is a virgin and wants to sleep with Jimmy.At the church, the Vicar researches the vampire slayer who killed Carmilla before arming himself and setting off to find Jimmy. Judi reveals herself to be a vampire, and after a struggle, Fletch and Jimmy kill her. The vampires approach the cottage and Jimmy inadvertently invites them in. Eva discovers that Jimmy is the descendant of the baron who killed Carmilla and that Lotte is a virgin and kidnaps them.The Vicar saves Fletch from Trudi and tells Fletch the truth about the village and Jimmy's identity. They go after Jimmy and Lotte in the Vicar's crucifix-covered car. As the vampires prepare to sacrifice Lotte and Jimmy, Fletch and the Vicar try to recover the sword of Daeldo, the sword that killed Carmilla, from the baron's tomb. While Fletch works to open the tomb, the Vicar checks on his daughter Rebecca, but does not notice that she has been turned. Rebecca attempts to seduce Fletch, who does not know what she is. When she attacks him, she is inadvertently impaled on the sword. Fletch decides not to tell the Vicar of his daughter's death.At Carmilla's tomb, Lotte reveals her love for Jimmy. The vampires begin draining the two of their blood to resurrect Carmilla. With the sword, Fletch and the Vicar drive to Carmilla's tomb. When they enter the woods, they bring various weapons, but forget the sword. Despite not having the sword, the pair reach Jimmy and Lotte. The Vicar releases them, but not before enough blood gathers to resurrect Carmilla. The Vicar sacrifices himself so the others can get back to the car and the sword. Eva separates Lotte from the men, attacking and seducing her. Lotte fights back while Fletch and Jimmy fetch weapons. Lotte kills Eva with her cross necklace, infuriating Carmilla. Fletch tries to kill Carmilla before Lotte is turned, but is captured himself. Jimmy saves them by hurling the sword at Carmilla, piercing her heart and destroying her for good. With the curse lifted, the three survivors decide to continue ridding the world of evil.The film ends with the shot of a "Gay Werewolf" howling before the full moon."
+],
+"summaries": [
+"Their women having been enslaved by the local pack of lesbian vampires thanks to an ancient curse, the remaining menfolk of a rural town send two hapless young lads out onto the moors as a sacrifice."
+,
+"Centuries ago, Baron Wolfgang MacLaren vanquished the Vampire Queen Carmilla in the remote Cragwich; however, before decapitating the evil vampire, she curses the locals and descendants of the baron, swearing that every woman would turn into a lesbian vampire on her 18th birthday. In the present day, clumsy, naive cuckold Jimmy is dumped again by his girlfriend Judy and misses her. His best friend Fletch is fired in his job of clown after hitting an annoying boy. The two broken friends decide to camp in the countryside to forget their problems, and Jimmy throws a dart at a map in a pub to decide where they should go. They head to Cragwich, and when they arrive in the Baron's Rest bar, they see four hot girls leaving the place in a Kombi. The innkeeper offers the guys the old Mircalla cottage in the woods, the same place the girls will lodge. Meanwhile, Lotte, Heide, Anke, and Trudi have trouble with their van, and when Jimmy and Fletch reach them in the forest, the girls offer the guys a ride to their cottage. They introduce themselves as students of folklore who they are researching the Vampire Queen Carmilla. When Fletch believes that he will have a night of beer and sex with three sexy girls and Jimmy and Lotte have a crush on each other, the cottage is surrounded by a group of lesbian vampires that vampires intend to use Jimmy and Lotte's blood to bring Carmilla back to life. They are abducted by the vampires, but Fletch escapes and meets Reverend Vicar, who tells him that Jimmy is a descendant of the baron and the only hope to stop the evil curse of Cragwich."
+]
+}
+}
+,
+{
+"_index": "movies",
+"_type": "docs",
+"_id": "by_NAIUBmFo8GYv0bngs",
+"_score": 10.04578,
 "_source": {
 "title": "Paris Is Burning",
 "year": 1990,
@@ -1335,138 +944,8 @@
 {
 "_index": "movies",
 "_type": "docs",
-"_id": "oUxi84QBEuMZ1zZ3rGJm",
-"_score": 9.920004,
-"_source": {
-"title": "Out at the Wedding",
-"year": 2007,
-"genders": [
-"Comedy"
-,
-"Drama"
-,
-"Romance"
-],
-"score": 6.1,
-"directors": [
-"Lee Friedlander"
-],
-"writers": [
-"Paula Goldberg"
-],
-"synopsis": [ ],
-"summaries": [
-"Ever have an identity crisis? Tell a little white lie here and there, just to make everyone happy? Well, Alex Houston has got you beat, hands down. After telling her fiancé, Dana, that her entire family is dead, Manhattanite Alex whisks off to her childhood home in South Carolina to serve as bridesmaid at her high-maintenance, estranged sister Jeannie's wedding. As she tries not to steal Jeannie's thunder by telling her family that a) she's engaged, and b) the man she's going to marry is a Jewish African American, things get a little mixed up. For starters, Alex's sharp-tongued, mischievous best friend Jonathan unwittingly starts a rumor at the wedding that Alex is gay and Dana is a woman. When her family reacts in a surprisingly supportive way, Alex decides to go with it. It's easier than telling the truth, right? But when Alex and Jonathan decide to hire sexy lesbian Risa to act as her lover when Jeannie comes to visit Alex in New York, things really start to get out of hand. Director Lee Friedlander follows up her award-winning 2004 film "Girl Play" with this witty, farcical romp that explores the sometimes comically bumbling way in which we come out to the people we love - whether we're gay or straight. As she becomes increasingly entangled in her web of lies, Alex struggles to come to terms with her fiancé, her family and most of all herself along the way."
-]
-}
-}
-,
-{
-"_index": "movies",
-"_type": "docs",
-"_id": "kExi84QBEuMZ1zZ3rGVn",
-"_score": 9.892426,
-"_source": {
-"title": "Vampire Killers",
-"year": 2009,
-"genders": [
-"Action"
-,
-"Comedy"
-,
-"Fantasy"
-],
-"score": 5.1,
-"directors": [
-"Phil Claydon"
-],
-"writers": [
-"Stewart Williams"
-,
-"Paul Hupfield"
-],
-"synopsis": [
-"Jimmy (Mathew Horne) and Fletch (James Corden) are two friends living in London experiencing life problems. Jimmy is dumped by his girlfriend and Fletch is fired from his job as a clown. They decide to escape their woes and hike to a remote village in Norfolk they find on an old map. As they arrive at a pub in the village, with Jimmy upset about Fletch destroying his phone, they see a number of attractive foreign female history students leaving.Hoping to find more beautiful women inside, they are greeted by a morose crowd of men and approached by a seemingly crazed vicar (Paul McGann) who believes Jimmy is a long lost descendant of a local vampire slayer. As the barman offers the two men free ale as an apology for the vicar, they learn the students they saw earlier are going to a cottage - where they are to stay the night. Jimmy and Fletch pursue the students' bus, catching up to it as the engine has broken down, and are introduced to four girls (Heidi, Lotte, Anke and Trudi). They are invited to join a party on the bus.The group arrives at their destination, only to learn that a curse rests over the village and that every female child turns into a lesbian vampire on her eighteenth birthday. There is an old legend stating that the Vampire Queen, Carmilla, descended on the village, killed its menfolk and seduced its women to her evil. When the ruler of the land, Baron Wolfgang Mclaren (Jimmy's great ancestor) returned from the Crusades, he discovered one of the women corrupted by Carmilla was his wife, Eva. The baron forged a sacred sword, then defeated Carmilla, but before dying, Carmilla cursed the village, adding that when the blood of the last of Mclaren's bloodline mixed with a virgin girl's blood, Carmilla would be resurrected.Fletch and Jimmy spend the night with the women. Heidi, Anke and Trudi are turned into vampires. After Lotte insists that the others try to find her missing friends, they witness Trudi being turned. Eva, Carmilla's mistress, tries to draw Lotte to her growing clan of lesbian vampires. The trio runs back into the cottage after killing vampires Heidi and Anke and barricade themselves in after the vampires destroy the bus. Jimmy's ex-girlfriend Judi arrives at the door and Jimmy, not ready to give up on the relationship, takes her into the bedroom. Lotte reveals to Fletch that she is a virgin and wants to sleep with Jimmy.At the church, the Vicar researches the vampire slayer who killed Carmilla before arming himself and setting off to find Jimmy. Judi reveals herself to be a vampire, and after a struggle, Fletch and Jimmy kill her. The vampires approach the cottage and Jimmy inadvertently invites them in. Eva discovers that Jimmy is the descendant of the baron who killed Carmilla and that Lotte is a virgin and kidnaps them.The Vicar saves Fletch from Trudi and tells Fletch the truth about the village and Jimmy's identity. They go after Jimmy and Lotte in the Vicar's crucifix-covered car. As the vampires prepare to sacrifice Lotte and Jimmy, Fletch and the Vicar try to recover the sword of Daeldo, the sword that killed Carmilla, from the baron's tomb. While Fletch works to open the tomb, the Vicar checks on his daughter Rebecca, but does not notice that she has been turned. Rebecca attempts to seduce Fletch, who does not know what she is. When she attacks him, she is inadvertently impaled on the sword. Fletch decides not to tell the Vicar of his daughter's death.At Carmilla's tomb, Lotte reveals her love for Jimmy. The vampires begin draining the two of their blood to resurrect Carmilla. With the sword, Fletch and the Vicar drive to Carmilla's tomb. When they enter the woods, they bring various weapons, but forget the sword. Despite not having the sword, the pair reach Jimmy and Lotte. The Vicar releases them, but not before enough blood gathers to resurrect Carmilla. The Vicar sacrifices himself so the others can get back to the car and the sword. Eva separates Lotte from the men, attacking and seducing her. Lotte fights back while Fletch and Jimmy fetch weapons. Lotte kills Eva with her cross necklace, infuriating Carmilla. Fletch tries to kill Carmilla before Lotte is turned, but is captured himself. Jimmy saves them by hurling the sword at Carmilla, piercing her heart and destroying her for good. With the curse lifted, the three survivors decide to continue ridding the world of evil.The film ends with the shot of a "Gay Werewolf" howling before the full moon."
-],
-"summaries": [
-"Their women having been enslaved by the local pack of lesbian vampires thanks to an ancient curse, the remaining menfolk of a rural town send two hapless young lads out onto the moors as a sacrifice."
-,
-"Centuries ago, Baron Wolfgang MacLaren vanquished the Vampire Queen Carmilla in the remote Cragwich; however, before decapitating the evil vampire, she curses the locals and descendants of the baron, swearing that every woman would turn into a lesbian vampire on her 18th birthday. In the present day, clumsy, naive cuckold Jimmy is dumped again by his girlfriend Judy and misses her. His best friend Fletch is fired in his job of clown after hitting an annoying boy. The two broken friends decide to camp in the countryside to forget their problems, and Jimmy throws a dart at a map in a pub to decide where they should go. They head to Cragwich, and when they arrive in the Baron's Rest bar, they see four hot girls leaving the place in a Kombi. The innkeeper offers the guys the old Mircalla cottage in the woods, the same place the girls will lodge. Meanwhile, Lotte, Heide, Anke, and Trudi have trouble with their van, and when Jimmy and Fletch reach them in the forest, the girls offer the guys a ride to their cottage. They introduce themselves as students of folklore who they are researching the Vampire Queen Carmilla. When Fletch believes that he will have a night of beer and sex with three sexy girls and Jimmy and Lotte have a crush on each other, the cottage is surrounded by a group of lesbian vampires that vampires intend to use Jimmy and Lotte's blood to bring Carmilla back to life. They are abducted by the vampires, but Fletch escapes and meets Reverend Vicar, who tells him that Jimmy is a descendant of the baron and the only hope to stop the evil curse of Cragwich."
-]
-}
-}
-,
-{
-"_index": "movies",
-"_type": "docs",
-"_id": "fCJW84QB_Hoamgc57IMP",
-"_score": 9.574596,
-"_source": {
-"title": "Saving Face",
-"year": 2004,
-"genders": [
-"Comedy"
-,
-"Drama"
-,
-"Romance"
-],
-"score": 7.4,
-"directors": [
-"Alice Wu"
-],
-"writers": [
-"Alice Wu"
-],
-"synopsis": [ ],
-"summaries": [
-"A gay Chinese-American and her traditionalist mother are reluctant to go public with secret loves that clash against cultural expectations."
-,
-"In Manhattan, the brilliant Chinese-American lesbian surgeon Wil is surprised by the arrival of her forty-eight year old widow mother to her apartment. Ma was banished from Flushing, Queens, when her father discovered that she was pregnant. The presence of Ma affects the personal life of Wil, who is in love with the daughter of her boss at the hospital, the dancer Vivian Shing. Once her grandfather has promised that her mother would only return to Flushing remarried or proving that it was an immaculate conception, Wil tries to find a Chinese bachelor to marry Ma."
-,
-"A Chinese-American surgeon, living in Manhattan, is shocked when her single mother shows up on her doorstep pregnant. To help her mom save face and avoid the taboo in the Chinese community of an unmarried woman pregnant, the doctor helps her mom find Mr. Right. Cultures clash in this film that explores culture shock."
-]
-}
-}
-,
-{
-"_index": "movies",
-"_type": "docs",
-"_id": "Qkxi84QBEuMZ1zZ3rF9k",
-"_score": 9.574596,
-"_source": {
-"title": "Saving Face",
-"year": 2004,
-"genders": [
-"Comedy"
-,
-"Drama"
-,
-"Romance"
-],
-"score": 7.4,
-"directors": [
-"Alice Wu"
-],
-"writers": [
-"Alice Wu"
-],
-"synopsis": [ ],
-"summaries": [
-"A gay Chinese-American and her traditionalist mother are reluctant to go public with secret loves that clash against cultural expectations."
-,
-"In Manhattan, the brilliant Chinese-American lesbian surgeon Wil is surprised by the arrival of her forty-eight year old widow mother to her apartment. Ma was banished from Flushing, Queens, when her father discovered that she was pregnant. The presence of Ma affects the personal life of Wil, who is in love with the daughter of her boss at the hospital, the dancer Vivian Shing. Once her grandfather has promised that her mother would only return to Flushing remarried or proving that it was an immaculate conception, Wil tries to find a Chinese bachelor to marry Ma."
-,
-"A Chinese-American surgeon, living in Manhattan, is shocked when her single mother shows up on her doorstep pregnant. To help her mom save face and avoid the taboo in the Chinese community of an unmarried woman pregnant, the doctor helps her mom find Mr. Right. Cultures clash in this film that explores culture shock."
-]
-}
-}
-,
-{
-"_index": "movies",
-"_type": "docs",
-"_id": "nkxi84QBEuMZ1zZ3rGtp",
-"_score": 9.502171,
+"_id": "jS_NAIUBmFo8GYv0bpE1",
+"_score": 10.042728,
 "_source": {
 "title": "We Are the Night",
 "year": 2010,
@@ -1502,8 +981,74 @@
 {
 "_index": "movies",
 "_type": "docs",
-"_id": "YExi84QBEuMZ1zZ3rG5q",
-"_score": 9.494726,
+"_id": "MS_NAIUBmFo8GYv0boUx",
+"_score": 9.861095,
+"_source": {
+"title": "Saving Face",
+"year": 2004,
+"genders": [
+"Comedy"
+,
+"Drama"
+,
+"Romance"
+],
+"score": 7.4,
+"directors": [
+"Alice Wu"
+],
+"writers": [
+"Alice Wu"
+],
+"synopsis": [ ],
+"summaries": [
+"A gay Chinese-American and her traditionalist mother are reluctant to go public with secret loves that clash against cultural expectations."
+,
+"In Manhattan, the brilliant Chinese-American lesbian surgeon Wil is surprised by the arrival of her forty-eight year old widow mother to her apartment. Ma was banished from Flushing, Queens, when her father discovered that she was pregnant. The presence of Ma affects the personal life of Wil, who is in love with the daughter of her boss at the hospital, the dancer Vivian Shing. Once her grandfather has promised that her mother would only return to Flushing remarried or proving that it was an immaculate conception, Wil tries to find a Chinese bachelor to marry Ma."
+,
+"A Chinese-American surgeon, living in Manhattan, is shocked when her single mother shows up on her doorstep pregnant. To help her mom save face and avoid the taboo in the Chinese community of an unmarried woman pregnant, the doctor helps her mom find Mr. Right. Cultures clash in this film that explores culture shock."
+]
+}
+}
+,
+{
+"_index": "movies",
+"_type": "docs",
+"_id": "KS_NAIUBmFo8GYv0bmwi",
+"_score": 9.573886,
+"_source": {
+"title": "The High and the Mighty",
+"year": 1954,
+"genders": [
+"Action"
+,
+"Adventure"
+,
+"Drama"
+],
+"score": 6.7,
+"directors": [
+"William A. Wellman"
+],
+"writers": [
+"Ernest K. Gann"
+],
+"synopsis": [ ],
+"summaries": [
+"When a commercial airliner develops engine problems on a trans-Pacific flight and the pilot loses his nerve, it is up to the washed-up co-pilot Dan Roman to bring the plane in safely."
+,
+"On a flight from Hawaii to California, the engine dies on the plane Dan is flying. As he prepares for a crash landing, the passengers reassess their lives. The template for disaster movies with an Oscar-winning score and a cast list that reads like a who's who of 1950s film."
+,
+"One disaster after another happens on this trans-Pacific flight. You have the pilot who loses his nerve! The washed-up co-pilot. The milquetoast flight engineer. The young hot shot second officer. And a cabin full of passengers with every range of problems and personalities there could possibly be. Here you have the Duke in a role he didn't want, and a movie with the title song that became Duke's theme. What else could any John Wayne fan want? It's all here, and then some."
+]
+}
+}
+,
+{
+"_index": "movies",
+"_type": "docs",
+"_id": "Ty_NAIUBmFo8GYv0bpQ2",
+"_score": 9.573886,
 "_source": {
 "title": "ThanksKilling 3",
 "year": 2012,
@@ -1537,32 +1082,24 @@
 {
 "_index": "movies",
 "_type": "docs",
-"_id": "dCJW84QB_Hoamgc57GoA",
-"_score": 9.300982,
+"_id": "Ly_NAIUBmFo8GYv0bnot",
+"_score": 9.048481,
 "_source": {
-"title": "The High and the Mighty",
-"year": 1954,
+"title": "Bar Girls",
+"year": 1994,
 "genders": [
-"Action"
-,
-"Adventure"
-,
 "Drama"
 ],
-"score": 6.7,
+"score": 5,
 "directors": [
-"William A. Wellman"
+"Marita Giovanni"
 ],
 "writers": [
-"Ernest K. Gann"
+"Lauran Hoffman"
 ],
 "synopsis": [ ],
 "summaries": [
-"When a commercial airliner develops engine problems on a trans-Pacific flight and the pilot loses his nerve, it is up to the washed-up co-pilot Dan Roman to bring the plane in safely."
-,
-"On a flight from Hawaii to California, the engine dies on the plane Dan is flying. As he prepares for a crash landing, the passengers reassess their lives. The template for disaster movies with an Oscar-winning score and a cast list that reads like a who's who of 1950s film."
-,
-"One disaster after another happens on this trans-Pacific flight. You have the pilot who loses his nerve! The washed-up co-pilot. The milquetoast flight engineer. The young hot shot second officer. And a cabin full of passengers with every range of problems and personalities there could possibly be. Here you have the Duke in a role he didn't want, and a movie with the title song that became Duke's theme. What else could any John Wayne fan want? It's all here, and then some."
+"Loretta is a successful lesbian writer of cartoons with problems in her romantic life with Annie. She is a habitué of a lesbian bar. One day she meets Rachel and they start a new life together. When J.R. starts flirting with Rachel, all the insecurity of Loretta rises in a jealousy situation."
 ]
 }
 }
@@ -1570,32 +1107,549 @@
 {
 "_index": "movies",
 "_type": "docs",
-"_id": "Okxi84QBEuMZ1zZ3rEZX",
-"_score": 9.300982,
+"_id": "Xi_NAIUBmFo8GYv0bnot",
+"_score": 8.8375025,
 "_source": {
-"title": "The High and the Mighty",
-"year": 1954,
+"title": "Go Fish",
+"year": 1994,
+"genders": [
+"Comedy"
+,
+"Drama"
+,
+"Romance"
+],
+"score": 5.7,
+"directors": [
+"Rose Troche"
+],
+"writers": [
+"Guinevere Turner"
+,
+"Rose Troche"
+],
+"synopsis": [ ],
+"summaries": [
+"A romantic tale about finding a soulmate. The only difference here is that both partners are women...in Chicago's lesbian community."
+,
+"Max is a trendy, pretty, young lesbian, who is having trouble finding love. A friend sets her up with Ely, whom Max likes, but Ely is frumpy, homely, and older. Nor do they have much in common. Can Max learn to look past the packaging?"
+]
+}
+}
+,
+{
+"_index": "movies",
+"_type": "docs",
+"_id": "Hy_NAIUBmFo8GYv0bpo4",
+"_score": 8.834512,
+"_source": {
+"title": "Summertime",
+"year": 2015,
+"genders": [
+"Drama"
+,
+"Romance"
+],
+"score": 6.7,
+"directors": [
+"Catherine Corsini"
+],
+"writers": [
+"Catherine Corsini"
+,
+"Laurette Polmanss"
+],
+"synopsis": [
+"Delphine Benchiessa (Izïa Higelin) is the only child of French farmers who enjoys working the land with her parents. Though her father Maurice (Jean-Henri Compère) wants her to marry, Delphine is secretly pursuing a relationship with another local girl. When she goes to a rendez-vous with her girlfriend she is informed that her girlfriend intends to marry a local boy, dismissing the relationship between her and Delphine as "not serious". Delphine then runs away to Paris (revealing here that the year is 1971).While walking down the street Delphine encounters a group of women running down the street pinching men's buttocks. When one of them attacks a woman, Delphine helps extract her and learns that her name is Carole (Cécile de France). Carole and the other women belong to a feminist group focused on women's liberation. They encourage Delphine to join and she begins to participate in their protests. When one of the group members learns that her best friend, a gay man, has been committed to a mental institution by his family and is being given electroshock therapy, the rest of the group refuses to help her extract him. Delphine on the other hand successfully argues that they should help to free him, and is part of a group of women, along with Carole, who successfully free him. The night, Delphine suddenly kisses Carole who is surprised and rejects her. The next day Carole tells Delphine that she is not a lesbian, but the two wind up in a passionate embrace and begin an affair. Carole initially believes that it is a one night stand, but quickly develops feelings for Delphine. She tells her boyfriend of the affair and the two struggle to work out their relationship even as Carole continues to see Delphine.Delphine receives a phone call from her mother Monique (Noémie Lvovsky) that her father has had a heart attack. Delphine goes to visit them and realizes that she must stay in order to help run the farm. Taking some of the lessons she has learned in the feminist collective she represents her parents' interest with the farmers. Carole goes to visit her and decides that she cannot live without her. Taking a break from her boyfriend she returns to the countryside but is surprised to learn that she and Delphine must remain discreet and closeted as they are still living with Delphine's mother who does not know her daughter is gay.Over the next several weeks, Carole initially enjoys country life and works the land with Delphine and her mother. However she finds the people confining as they mock her left-wing politics and she finds it frustrating she is unable to openly be with Delphine the way she was in Paris. She also begins to have doubts about Delphine's intentions after Antoine (Kévin Azaïs), a local boy in love with Delphine, tells her that Delphine will never leave the farm and Delphine's mother tells Carole that Antoine intends to marry Delphine. Carole begins fighting with Delphine which results in several people learning Delphine's secret including a local farmer who sees them kissing, and her mother who overhears them arguing.The following morning Delphine's mother walks in on Carole and Delphine in bed. Though she acts like everything is normal with Delphine she tells Carole to leave her home, accusing her of having perverted her daughter before attacking her. Carole tells Delphine she is leaving and Delphine decides to run away to be with Carole. Though they leave on the train together, Delphine finds herself unable to leave. She decides to miss their connecting train to Paris and returns home.Five Years Later; 1976Carole is working at a women's health clinic in Paris and is in a relationship with another woman. She receives a letter from Delphine who writes to tell her that she has finally left her parents' farm and now has one of her own in Southern France. She tells Carole that she regrets not leaving with her five years earlier but she understands that it is impossible to turn back time."
+],
+"summaries": [
+"A young woman moves from the French countryside to Paris and begins a passionate love affair with a feminist leader in this drama set in 1970s France."
+,
+"There was little chance, in the year 1971, that Carole, a Paris Spanish teacher and feminist militant, would ever meet Delphine, the daughter of a couple of Limousin farmers. But they did meet and not only did they come across each other but they fell passionately in love as well. Unfortunately, Delphine's father fell victim to a stroke, and the young woman had no other choice but to go back home to help her mother run the family farm. Carole, who was so smitten by Delphine, couldn't stand the estrangement and decided to join her lover at the farm. But could feminism and lesbianism easily be transferred to the countryside and its standards of the time...?"
+,
+"Delphine (Higelin) is a twenty-something farm girl of humble means who moves to the big city of Paris in the turbulent 1970s, searching for her independence. It's not long before she is drawn to dynamic thirty-something Carole (de France), who is actively involved in the emerging feminist movement."
+]
+}
+}
+,
+{
+"_index": "movies",
+"_type": "docs",
+"_id": "Gy_NAIUBmFo8GYv0bnwt",
+"_score": 8.79324,
+"_source": {
+"title": "She's the One",
+"year": 1996,
+"genders": [
+"Comedy"
+,
+"Drama"
+,
+"Romance"
+],
+"score": 6,
+"directors": [
+"Edward Burns"
+],
+"writers": [
+"Edward Burns"
+],
+"synopsis": [
+"The film tells the story of Irish-Catholic Fitzpatrick brothers, Mickey (Edward Burns) and Francis (Mike McGlone) and the tribulations of love, family and betrayal. Mickey is a New York City blue-collared taxi driver, unhappy over an act of infidelity committed by Heather (Cameron Diaz), his ex-fiancée. Francis is a white-collared Wall Street stock investor, who unknown to his wife, Renee (Jennifer Aniston), is having an affair.During weekends, Mickey and Francis visit their parents who live on Long Island. Their mother is never seen on screen, while they have better time interacting with their father, Frank (John Mahoney), whom is a emotionally bereft conservative man as well as an old-school sexist and a bigot whom takes them out fishing on his motorboat, but refuses to let women on board due to family tradition. Frank always gives Mickey and Francis advice to live out their lives any way they can and to always go for what drives them to succeed.While driving his cab one day, Mickey picks up Hope (Maxine Bahns), a young woman and NYU art student with whom he becomes infatuated and impulsively marries that same week despite knowing her only a few days. Mickey and Hope show up one evening at Francis and Renee's apartment to inform them of their quickie marriage. This causes consternation for his brother, largely because he was not asked to be best man at the wedding. Mickey moves in with Hope, but later becomes disillusioned with aspects of her liberal and free-spirited lifestyle, including frequent power cuts in their ramshackle apartment.Francis is also having problems in his marriage. He is concerned that he is being unfair to Heather, his mistress, the very same woman Mickey left, by continuing to stay with Renee. At the same time, Renee's family, especially her younger sister Molly (Amanda Peet) suggests the problem with Francis' lack if interest in her is that he may be gay, so she has Mickey and his father confront him about it. He denies being gay, but admits to being unfaithful.Meanwhile, Francis' arrogance leads him to take potshots at his brother for the apparent lack of forward progression in his life with his new wife, while Francis argues with Heather about her own sexual infidelity with a much older man referred to as "Papa".One day, Mickey picks up Heather in his cab and goes up to her apartment to retrieve a television that belonged to him during their relationship. Heather responds by demanding Mickey's watch, which she purchased as a gift. Mickey relents, which she implies she wants more from him, but he does not reciprocate, instead reminds her of her affair, and her previous profession. Throughout all this, Mickey and Francis' father offers more egoistical and selfish advice to them. Then Frank learns, during a fishing trip with the church's pastor, that his supposedly highly religious wife hasn't been to Church Mass in months.On a visit to his mistress's apartment, Francis learns that Mickey and Heather have recently met. Francis makes an unexpected visit to his brother's apartment and questions Mickey about his visit with Heather. They get into an argument over whether or not Mickey had sex with Heather. Later, Mickey discovers that she is the woman Francis has been having an affair with. The revelation escalates to an argument in their parents' home, during a birthday dinner for their father. In an attempt to settle the dispute, Frank takes both Francis and Mickey outside and ties boxing gloves on each, with the intent of having them fight out their differences. Mickey proves the victor.Eventually, Francis confronts Renee about his affair and files for divorce, in order to marry Heather. When Mickey finds out about the impending marriage, he informs Francis that Heather was once a prostitute during her college days. This causes Francis to get cold feet and it angers Heather. She tells Mickey that she thought that he didn't have a problem with her prior choice of employment, and Mickey says that he doesn't, but Francis may, and that he has a right to know.Meanwhile, Hope has already dropped a bomb on Mickey: she is moving to Paris very soon to attend art school and Mickey is not sure about whether or not to join her. On a visit to the bar where Hope works, Mickey has a talk with Connie (Leslie Mann), one of Hope's co-workers, who claims to have had a "special relationship" with Hope before the marriage. This troubles Mickey so much that he begins to avoid Hope. Later, Hope tells Mickey that she is unsure if he should come to Paris after all and admits to having a "semi-lesbian affair" with Connie some years back. As a result, Mickey and Hope's relationship appears to be about to break up.Due to Francis' indecision over marriage in light of the news that Heather was a prostitute, Heather decides to leave him and marry "Papa", the wealthy older man she has been seeing concurrently while she was with Francis. When Francis threatens to tell Papa that Heather was a prostitute, Heather tells Francis that Papa was "her best customer". He then calls Renee in hopes of getting back together with her. But she is already in another relationship with Scott Sherman, a overweight mutual acquaintance whom Francis had made fun of in an earlier scene.In the final scenes of the film, Mickey and Francis meet with their father at his house where the distraught Frank tells them that their mother had just left him the previous day and has run off with a dry-cleaning store owner whom she has been having an affair with for several months. Unsure about everything now, Frank finally apologizes to Mickey and Francis for giving them bad advice about life and love when his own wife was cheating on him behind his back. As a result, the three men decide to go out fishing aware that despite the failure of their love lives, they will always have each other. As they prepare the motorboat to cast off, only Mickey decides it would be better if he tried to have one last talk with Hope before she leaves America. Only their father has arranged a surprise guest - Hope. The movie ends with Hope asking to drive the boat, but Frank, aware that women are not allowed on board, says it is too soon for that."
+],
+"summaries": [
+"The love lives of two brothers, Mickey and Francis, interconnect as Francis cheats on his wife with Mickey's ex-girlfriend, while Mickey impulsively marries a stranger."
+,
+"How do siblings deal with each other in their targets? This is the question tackled in this movie. Blue-collared Mickey drives a New York taxicab since the breakup with his promiscuous ex-fiancée Heather two years ago. His younger, white-collared brother, Francis, cannot let Mickey forget the tragedy of the "hairy ass": (Mickey's image of his apartment floor of the guy having sex with Heather after walking in on them). Finding relief in driving his cab, Mickey meets an art student named Hope whom he marries after knowing her for only 24 hours. Mickey also meets his old lover Heather, and learns more about life itself as taxi fares in the course of a summer. Francis, a young Wall Street corporate raider, unhappy in his marriage to Renee and led by his infidelity, continues his shots at Mickey throughout the film, only to find himself a plot device that lends humor and lessons about marriage and brotherhood when he meets and starts an dangerous affair with Heather, despite Mickey's warnings that Heather is a gold-digging nymphomaniac who goes through sexual partners as often as a person changes clothes. Given Mickey's frame of reference on the past and his bride of 24 hours, it is no wonder that the two brothers, along with their father, an ego-eccentric and emotionally bereft bigot and a hard-core chauvinist who does not allow women aboard his fishing boat, learn about the strength of women, and their own lives."
+,
+"Two Irish-American brothers. Mickey, the older, hippie-like, lost, not knowing what he wants. The younger brother, Francis, a Wall Street power player with a beautiful wife named Renee, rich. Unfortunately, Francis is having an affair with Mickey's promiscuous ex-fiancée Heather. Mickey meets and marries a girl, named Hope he's known for 24 hours, while Francis dumps Renee to ask Heather to marry him... not realizing that Mickey was right about her."
+]
+}
+}
+,
+{
+"_index": "movies",
+"_type": "docs",
+"_id": "bC_NAIUBmFo8GYv0bpA1",
+"_score": 8.74316,
+"_source": {
+"title": "The Humbling",
+"year": 2014,
+"genders": [
+"Comedy"
+,
+"Drama"
+,
+"Romance"
+],
+"score": 5.6,
+"directors": [
+"Barry Levinson"
+],
+"writers": [
+"Buck Henry"
+,
+"Michal Zebede"
+,
+"Philip Roth"
+],
+"synopsis": [ ],
+"summaries": [
+"A stage actor who is slowly losing his mind engages in a relationship with a sexually confused younger woman."
+,
+"Simon is an aging actor who suffers from bouts of dementia. He is institutionalized after an incident during a Broadway play, then returns home, where he contemplates suicide in Hemingway style. When he embarks upon an affair with an ex-girlfriend's amoral bisexual daughter, Pegeen, his world starts to fall apart. It ends on stage, with even Axler's audience and fellow actors unsure what's real and what's not."
+]
+}
+}
+,
+{
+"_index": "movies",
+"_type": "docs",
+"_id": "NC_NAIUBmFo8GYv0bnEp",
+"_score": 8.717695,
+"_source": {
+"title": "Heat",
+"year": 1972,
+"genders": [
+"Comedy"
+,
+"Drama"
+,
+"Romance"
+],
+"score": 6.1,
+"directors": [
+"Paul Morrissey"
+],
+"writers": [
+"John Hallowell"
+,
+"Paul Morrissey"
+],
+"synopsis": [ ],
+"summaries": [
+"Spoof of the casual sexual adventures of a one-time child actor in Hollywood. It also involves a bratty on-again, off-again lesbian character."
+,
+"Joey, an unemployed ex-child actor, uses sex to get his landlady, Lydia, to reduce his rent, and then tries to exert his influence on Sally, who is now washed-up and wasn't even more than slightly important at the height of her career. She tries to help him, until he realizes that she just isn't well-connected enough to be of any service to him. The affair is complicated by Sally's psychotic, maybe-lesbian-or-maybe-not daughter Jessica, who tries to muscle in on her mother's relationship with Joey."
+,
+"Spoof of the casual sexual adventures of a one-time child actor in Hollywood. Also involves a bratty on-again, off-again lesbian character."
+]
+}
+}
+,
+{
+"_index": "movies",
+"_type": "docs",
+"_id": "HS_NAIUBmFo8GYv0boIw",
+"_score": 8.568279,
+"_source": {
+"title": "Chance",
+"year": 2002,
+"genders": [
+"Comedy"
+,
+"Drama"
+],
+"score": 6.8,
+"directors": [
+"Amber Benson"
+],
+"writers": [
+"Amber Benson"
+],
+"synopsis": [
+"Chance (Amber Benson) is a twentysomething slacker living in Los Angeles, who relies on a trust fund for finances. Narrating her own life story, Chance introduces her friend and room mate Simon (James Marsters), a not very successful telemarketer who is self-conscious about his body odor, has been sleeping on her couch. One day, Simon comes home from the grocery store to find a woman in Chance's bed who won't wake up.Earlier.... Chance is annoyed when Rory (Rayder Woods), a struggling actor with whom Chance had a one-night stand, appears at her door and becomes emotional trying to convince her that they have a connection beyond just sex because they really talked afterward. Chance and Simon spin a story about meeting in a mental institution, which makes Rory uncomfortable enough to stop crying and to leave.Simon tricks Chance into answering a phone call from her mother by telling her that it's a man named Jack (Andy Hallet) whom she was immediately attracted to when she met at a nightclub and tried to pick up. Her overbearing mother, Desiree (Christina Esterbrook), is calling to tell her that she is coming to visit. Trying to escape spending time with her mother, Chance persuades Simon to switch roles with her for the weekend and Simon spends time with Desiree pretending to be Chance until Desiree tells Simon that she needs to talk to Chance about something in particular. Desiree tells Chance that she is divorcing Chance's father, Malcolm (Jeff Ricketts), because he is in a relationship with a young woman, named Heidi (Lara Boyd Rhodes).Upset, Chance tells Simon about her parents' divorce and reveals that Desiree wants to stay with them for a while. Chance is suspicious when Simon tries to offer some comfort, and he begs again for $200 to pay off some unpaid parking tickets. Though hesitant to loan anyone money because of a bad experience with her first serious boyfriend Guy (Shamus Murphy), a man who romanced Chance a year earlier while she was living alone. In a flashback, Guy asked Chance if he could borrow some money to pay off some friends of his. Chance gave Guy the money he needed, only to see him literaly run over by a carload of angry thugs for not paying up on time. In the present, Chance agrees to give Simon the money for playing along with her charade for her mother.Uncomfortable with the idea of her mother living with her, Chance arranges for Desiree and her to have dinner with Malcolm and Heidi aboart Malcolm's sailboat in a marina. Chance also invites Rory and, as Chance had hoped, Heidi is immediately smitten with him because she watches the soap opera in which he stars. When Rory manages to get Heidi out of the room, Chance asks her parents about the divorce. Malcolm reveals that Desiree had suggested that they experiment sexually with Heidi, and Desiree felt rejected when Heidi preferred him. Desiree insists that he seduced her, but Malcolm denies it. Malcolm says that while attractions may come and go he loves her.Chance goes out to a club one night and meets a woman from England named Sara (Tressa Di Figlia), who makes sexual advances on her. The bi-curious Chance brings Sara home with her, and after spending a day in bed together making out, Sara suggests that they take some drugs. Chance refuses and takes the drugs away. Chance leaves her apartment the next morning, and when she returns she finds Simon in her bedroom with Sara, who has apparently overdosed. Chance initially tries to comfort Simon, but soon she herself begins to freak out when she realizes that she has a dead woman in her bed. Overcome with emotion, Simon kisses Chance and they have sex. Afterward, the two quickly begin to fight about the significance of the sex and Simon leaves the apartment. Chance drags Sara's body off her bed to the living room couch where she covers the body with a blanket and retires back to her bedroom to go to sleep for the night.The next morning, Chance awakes to find Sara, alive, sitting at the kitchen table. Sara tells her that she wasn't dead, just "resting." She thanks Chance for the place to sleep and then leaves. Chance then realizes that Simon never came home.On a park bench where Simon has apparently slept all night, he has run in with Jack, who recognizes him from the nightclub. The two make small talk until Simon realizes that Jack is hitting on him. Simon begins laughing and at Jack's confusion tells him that Chance has a huge crush on him and thinks that he is straight. Simon then tells Jack about what had happened the night before and about his frustration and attraction to Chance. Jack tells Simon that, even though he is gay, he sometimes has sex with women because he needs the contact with human beings, and Simon realizes that he needs that human contact too. Simon returns to Chance's apartment, and Chance is happy to see him, greeting him with a hug. They apologize for their actions and both admit that they are ready to try a relationship."
+],
+"summaries": [
+"A young woman tries to find the right man to be with while dealing with her own life and family problems."
+,
+"'Chance' is a black comedy about how hard it is to find "the one". Mostly told from the point-of-view of a young, sexually aggressive woman, named Chance, whom according to her: "we're all out there looking for true love", which turns out to be a very elusive thing indeed, and Chance is no exception. She's desperately on the prowl for a man, but since she's more mouse than cat, she get's herself into scrape after scrape in her screwball pursuit of love. Surrounded by a bevy of adoring but completely wrong-for-her men (and one dead girl from Manchester, England), Chance has to pick her way through her messy life in order to figure out which guy is "it"."
+,
+"Chance is a single, neurotic, 20-something woman living in Los Angeles trying to get by any way she can (waitressing, acting, etc.) Her one true goal in life, as her frequent narration to the viewers, are to find her 'Mr. Right'. The people in Chance's life are Simon, her slacker roommate and telemarketer whom has a crush on her, but is too much in denial to admit it to her or even himself; Rory, a struggling actor and Chance's ex-boyfriend with massive crush on her, but he's too boring for her to be interested; Milton is her creepy voyeuristic neighborhood whom lusts after her; Jack is a struggling singer whom Chance finds attractive, but unaware that he's gay; Guy is another person in Chance's life whose romance is cut short by an accident; Sara is a young and outgoing bisexual woman from Manchester, England whom after a one-night stand with Chance, ends up dead from a drug OD, or does she? And then there's Chance's mother Desiree who's even more crazy than Chance, and distraught over her husband Malcolm divorcing her to be with his personal secretary."
+]
+}
+}
+,
+{
+"_index": "movies",
+"_type": "docs",
+"_id": "tC_NAIUBmFo8GYv0bn4u",
+"_score": 8.564432,
+"_source": {
+"title": "My Own Country",
+"year": 1998,
+"genders": [
+"Drama"
+],
+"score": 6.8,
+"directors": [
+"Mira Nair"
+],
+"writers": [
+"Abraham Verghese"
+,
+"Jim Leonard"
+,
+"Sooni Taraporevala"
+],
+"synopsis": [ ],
+"summaries": [
+""My Own Country" tells the story of an East Indian doctor who settles in Johnson City, Tennessee. The doctor's name is Abraham Verghese, and he specializes in infectious diseases. It's 1985, and AIDS is spreading from the big cities to the rural areas. Abraham takes AIDS as his personal crusade and is soon well-known for his compassion and non-judgmental treatment. He soon becomes overwhelmed with patients from the surrounding states, which strains his marriage."
+,
+"After obtaining his medical degree from Madras Medical College, Dr. Abraham Verghese decides to re-locate to Johnson City, Tennessee. He eventually gets married to Rajani, who is an accomplished dancer, and has a boy, Steven. Since Abraham specializes in infectious diseases, he takes special interest in patients suffering from Acquired Immune Deficiency Syndrome(AIDS), and presents his work at the local gay/lesbian hang-outs and clubs, creating a public awareness of AIDS. Soon he has as many as 82 patients in his care at the local hospital. He gets engrossed in his work to the extent thathe starts neglecting his very heavily pregnant wife Rajani, who eventually gives birth to Jacob. She threatens him with marriage counseling, while fearing that her husband may acquire AIDS through contact with his patients, while he himself has to deal with hospital administration who are concerned about funds and resources being utilized on patients who may never recover."
+]
+}
+}
+,
+{
+"_index": "movies",
+"_type": "docs",
+"_id": "8S_NAIUBmFo8GYv0bnIq",
+"_score": 8.523558,
+"_source": {
+"title": "Herbie Goes to Monte Carlo",
+"year": 1977,
 "genders": [
 "Action"
 ,
 "Adventure"
 ,
-"Drama"
+"Comedy"
 ],
-"score": 6.7,
+"score": 5.6,
 "directors": [
-"William A. Wellman"
+"Vincent McEveety"
 ],
 "writers": [
-"Ernest K. Gann"
+"Arthur Alsberg"
+,
+"Don Nelson"
+,
+"Gordon Buford"
+],
+"synopsis": [
+"Herbie, the living #53 Volkswagen Beetle automobile with a human personality, arrives in Le Havre, France with Herbie's owner and driver, Jim Douglas (Dean Jones), and mechanic, Wheely Applegate (Don Knots). They drive to Paris for the Trans France Race Exposition, where Herbie is dismissed by the crowd and ridiculed by rival driver Bruno von Stickle (Eric Breaden). Wheely, however, is confident that they can win despite Herbie not having raced in 12 years.Meanwhile, Monsieur Ribeaux places a $6 million diamond on display at a nearby museum. It is protected by a security system, but two thieves, Max (Bernard Fox) and Quincey (Roy Kinnear), hide in the museum and contrive to steal the diamond. The museum's alarm sounds and the thieves escape into the crowd at the exposition, where Max slips the diamond into Herbie's fuel tank and plans to retrieve it later. Inspector Bouchet (Jacques Marin) and his assistant, Det. Fontenoy, interview Ribeaux and check the scene for clues.Later, during a qualification heat at a racetrack, Herbie acts strangely after falling in love with another car, a Lancia named Giselle. Giselle's driver, Diane Darcy (Julie Sommers), takes an instant dislike to Jim and thinks he has a bias against female race car drivers. After the qualifying runs, the cars are put on display in a building on the Avenue Champs-Élysées.During a presentation, Max and Quincey turn off the lights to retrieve the diamond, but Herbie, having spotted Giselle outside, slips away undetected. In front of a café, Herbie flirts with Giselle, causing a waiter to think he is seeing things. Herbie catches a glimpse of himself in a mirror and notices that he is covered in oil, so he takes a shower in a fountain, picks a bouquet of flowers for Giselle and leads her to frolic in a park and along the Seine River. Diane is incensed to discover that her car has disappeared and is not surprised to find that Herbie is involved. Diane, Jim, and Wheely find Herbie and Giselle taking a romantic cruise on the river.Back at their hotel, Jim and Wheely are questioned by Bouchet and Fontenoy. Outside, Max and Quincey attempt to retrieve the diamond, but Herbie eludes them. The next day at the racetrack, during the second round of qualifying, Herbie can only focus on Giselle. However, in showing off, the Volkswagen sets a course record and qualifies for the Trans France race. Giselle also wins her heat and ties Herbie's record.Afterward, Jim tries to explain to Diane that the cars have fallen in love, but she thinks he is crazy. Later, on the highway, Max and Quincey attempt to pull Herbie over at gunpoint, resulting in a chase through a gypsy camp. Herbie escapes, but Wheely and Jim suspect Diane and accuse her of hiring thugs to knock them out of the race. When confronted at her hotel, she reacts by hurling a vase at Jim's head. Max calls his boss, Double-X, who is actually Inspector Bouchet, to tell him that they have encountered complications and lost Herbie. However, Jim and Wheely walk into Bouchet's office during the call and ask that Herbie be protected for the night. Bouchet volunteers to personally look after Herbie, but the enthusiastic Fontenoy drives off in the car, promising to hide it where no one can find it.The next day, as the race from Paris to Monte Carlo, Monaco, is about to begin, Fontenoy and Herbie have still not arrived. As they wait for the start, Diane and Jim trade apologies and wish one another luck. When Giselle refuses to start because she misses Herbie, Wheely and Jim tell her that the Volkswagen is a cad and she should forget about him; when the race begins, the Lancia joins the other cars.Shortly after, Fontenoy arrives with Herbie, secured in an armored truck. Max and Quincey, posing as fuel attendants, wait for Herbie to fill up his tank so they can recover the diamond. However, Fontenoy filled him up earlier and Herbie is ready to belatedly join the race. To get him started, Wheely tells him that Giselle has jilted him and the little car takes off in a huff, quickly making up ground. Fontenoy senses something is wrong and suggests that Bouchet should search Herbie, but the inspector tells him they will have to wait until the end of the race. Bouchet instructs Max and Quincey to get the diamond in Monte Carlo. Fontenoy, thinking he is helping, spoils the plan by asking the officials in Monte Carlo to search Herbie upon arrival.Back in the race, Herbie catches Bruno von Stickle, who runs him off the road and into a pond, but Herbie battles back and causes Von Stickle to spin out. As the racers reach the Alps, Max and Quincey take a helicopter into the mountains and alter a road sign so that Herbie takes a wrong turn down a dirt road. Lost, Jim stops to consult a map and Wheely yodels for help triggering an avalanche. As they outrun the rocks, Max and Quincey await, armed with guns. Herbie squirts them with windshield wiper fluid and Wheely yodels, causing another avalanche and allowing the Volkswagen to escape to the race. Herbie makes up lost ground and catches Von Stickle, but has engine trouble and the team is forced to pull over. Wheely reaches into the fuel tank and discovers the diamond. Max and Quincey arrive by helicopter and demand he hand over the jewel. A fistfight ensues and Jim and Wheely tie up their assailants with rope.Back in the race, Herbie passes every car except Giselle, who has swerved off the road into a lake. Jim wants to stop, but Wheely and Herbie wish to continue until Jim confesses that Wheely lied about Giselle jilting Herbie; the Volkswagen makes a u-turn and pulls Giselle and Diane from the lake. Herbie does not want to leave Giselle, but Diane convinces him to return to the race. As the team leaves the mountains and enters Monte Carlo, Herbie catches the lead cars and passes them one by one through the winding streets. In the final tunnel, Herbie passes Von Stickle by driving upside-down on the ceiling. Herbie, Jim and Wheely cross the finish line and celebrate their victory. Bouchet arrives to congratulate them, but before Jim can hand over the diamond, Fontenoy inadvertently unravels the caper, revealing that Inspector Bouchet was the mastermind, Double-X. Bouchet pulls a gun and seizes the diamond, but Herbie apprehends him by rolling onto his foot.That night, Jim and Diane leave the Trans France Race gala, only to find Herbie has been "stolen" by Giselle. Jim asks a taxicab driver to take them to the most romantic spot in Monte Carlo. At the waterfront, Jim and Diane join Herbie and Giselle, along with Wheely and a female admirer, as they enjoy a fireworks show."
+],
+"summaries": [
+"Herbie, the Volkswagen Beetle with a mind of its own, is racing in the Monte Carlo Rally. Unbeknownst to Herbie's driver, thieves have hidden a cache of stolen diamonds in Herbie's gas tank, and are now trying to get them back."
+,
+"Race car driver, Jim Douglas goes to Monte Carlo to enter his car, Herbie, in the Monte Carlo rally. When they get there, Herbie falls for another driver's car and Jim falls for the driver Diane, who thinks he's weird. But what they don't know is that a pair of thieves who stole a very valuable diamond, hid it in Herbie's gas tank. And the thieves try to get it back."
+]
+}
+}
+,
+{
+"_index": "movies",
+"_type": "docs",
+"_id": "by_NAIUBmFo8GYv0bocx",
+"_score": 8.460446,
+"_source": {
+"title": "29th & Gay",
+"year": 2005,
+"genders": [
+"Comedy"
+],
+"score": 5.1,
+"directors": [
+"Carrie Preston"
+],
+"writers": [
+"James Vasquez"
 ],
 "synopsis": [ ],
 "summaries": [
-"When a commercial airliner develops engine problems on a trans-Pacific flight and the pilot loses his nerve, it is up to the washed-up co-pilot Dan Roman to bring the plane in safely."
+"'29th and Gay' is the movie for the gay everyman. Following a year in the life of James Sanchez, it's a story about a guy rapidly approaching 30 who doesn't have a six-pack, full head of hair or boyfriend. While his best friend, actress-turned-activist Roxy, struggles with showing him that there's life beyond the glitz of the disco ball, his other friend Brandon, comfortable in his own gay skin, works on getting him to at least talk to a guy. Feeling out of place in the world of circuit boys and caught between his Hispanic-American heritage and his gayness, he finds his true place in the world as he realizes that life is the journey, not the destination."
+]
+}
+}
 ,
-"On a flight from Hawaii to California, the engine dies on the plane Dan is flying. As he prepares for a crash landing, the passengers reassess their lives. The template for disaster movies with an Oscar-winning score and a cast list that reads like a who's who of 1950s film."
+{
+"_index": "movies",
+"_type": "docs",
+"_id": "ay_NAIUBmFo8GYv0bo00",
+"_score": 8.425999,
+"_source": {
+"title": "In the Loop",
+"year": 2009,
+"genders": [
+"Comedy"
+],
+"score": 7.4,
+"directors": [
+"Armando Iannucci"
+],
+"writers": [
+"Jesse Armstrong"
 ,
-"One disaster after another happens on this trans-Pacific flight. You have the pilot who loses his nerve! The washed-up co-pilot. The milquetoast flight engineer. The young hot shot second officer. And a cabin full of passengers with every range of problems and personalities there could possibly be. Here you have the Duke in a role he didn't want, and a movie with the title song that became Duke's theme. What else could any John Wayne fan want? It's all here, and then some."
+"Simon Blackwell"
+,
+"Armando Iannucci"
+],
+"synopsis": [
+"IN THE LOOP is a foul-mouthed comedy that draws on non-specific events to create a world that is terrifyingly familiar: The US President and UK Prime Minister fancy a war, but not everyone agrees that war is a good thing. US General Miller (James Gandolfini The Sopranos, The Taking Of Pelham 123) certainly doesn't think so and neither does the British Secretary of State for International Development, Simon Foster (Tom Hollander Pirates of the Caribbean, Pride and Prejudice). But when the mild-mannered minister inadvertently appears to back the war on prime-time television, he immediately attracts the attention of the PMs venomously aggressive communications chief Malcolm Tucker (reprised from The Thick of It by Peter Capaldi), who latches onto him like a hawk. Soon, the Brits are in Washington, where diplomatic relations collide with trans-Atlantic spin doctors and Fosters off-hand remark quickly spirals into an insurmountable mountain of conflict. [D-Man2010]"
+],
+"summaries": [
+"A political satire about a group of skeptical American and British operatives attempting to prevent a war between two countries."
+,
+"The US President and UK Prime Minister fancy a war. But not everyone agrees that war is a good thing. The US General Miller doesn't think so and neither does the British Secretary of State for International Development, Simon Foster. But, after Simon accidentally backs military action on TV, he suddenly has a lot of friends in Washington, DC. If Simon can get in with the right DC people, if his entourage of one can sleep with the right intern, and if they can both stop the Prime Minister's chief spin-doctor Malcolm Tucker rigging the vote at the UN, they can halt the war. If they don't... well, they can always sack their Director of Communications Judy, who they never liked anyway and who's back home dealing with voters with blocked drains and a man who's angry about a collapsing wall."
+,
+"With tensions rising in the Middle East the bumbling UK Minister for International Development, Simon Foster, says in a radio interview that war is "unforeseeable". The media leap on this as a sign that the UK government is in favour of going to war with the country in question. This also brings Foster to the attention of hawks and doves in the US government with both sides wanting to use him to justify their agenda. Foster sets off for Washington, watched closely by the UK Prime Minister's fire-breathing Director of Communications, the irascible, uber-intense, expletive-spewing Malcolm Tucker."
+,
+"The British Prime Minister and the US President infer that they want to embark on a war in the Middle East. Simon Foster, the British Minister for International Development, states off the cuff in a radio interview that "war is unforeseeable". He later tries to recant this statement to a hoard of news reporters with another statement: "to walk the road of peace, sometimes we need to be ready to climb the mountain of conflict". Both these remarks start a series of manoeuvrings on both sides of the Atlantic by both the pro- and anti-war factions in both governments. On the British side, Malcolm Tucker, the foul-mouthed communications manager, sends Foster back to deal with the mundane details of constituent complaints, a process at which he is equally inept. On the US side, US Assistant Secretary for Diplomacy Karen Clarke and US Lieutenant General George Miller lead the anti-war faction, against chief warmonger Linton Barwick, the US Assistant Secretary for Policy. Each, with his/her entourage of staff, some of whom do not agree with their political master, will do whatever he or she needs to to achieve the desired end goal. This includes having fake meetings, having fake committees, spinning information, leaking information and documents, and doctoring documents. These manoeuvrings are most important in the lead up to the UN vote on the issue."
+]
+}
+}
+,
+{
+"_index": "movies",
+"_type": "docs",
+"_id": "VC_NAIUBmFo8GYv0bnEp",
+"_score": 8.318151,
+"_source": {
+"title": "Four Times That Night",
+"year": 1971,
+"genders": [
+"Comedy"
+,
+"Romance"
+],
+"score": 5.7,
+"directors": [
+"Mario Bava"
+],
+"writers": [
+"Mario Moroni"
+,
+"Charles Ross"
+,
+"Guido Leoni"
+],
+"synopsis": [
+"John (Brett Halsey) is a young playboy who is driving his silver sports car though Rome when he catches sight of Tina (Daniela Giordano) on the street, so he begins to follow her. She acts disinterested, but he refuses to give up. After finally catching up to her in a nearby park, John asks her out on the date, and she finally agrees.Later that afternoon, John arrives at Tina's apartment to pick her up. He is greeted by her severe, old-fashioned mother (Valeria Sabel) and is warned not to keep Tina out too late. Though John seems disappointed in her assertion that "Tina's a good girl", he takes her out to a swinging nightclub where they have a great time dancing.At 2:00 a.m., Tina arrives back at her apartment and her mother, who waited up for her, is furious for staying out so late. Her anger escalates when she sees that Tina's dress, 'a Paris original', has been badly torn. Tina tells her mother that John attempted to rape her and then recalls the night's events: after leaving the nightclub, John took her back to his large, spacious apartment, where he kept her prisoner and tried to force himself on her. Tina is adamant that she rejected his advances, even going as far as to scratch his forehead in retaliation. She then explains that she managed to escape after locking the sex-mad swinger in his large, ultra-mod bathroom, and then made her escape. Having finished telling the story, Tina's mother wants to phone the police, but Tina stops her by saying: "they'll never believe me."Meanwhile at the nightclub, John arrives at the nearly deserted place for a nightcap where he is noticed by a few friends of his who note some deep scratches on his forehead. Having seen him with Tina earlier, the friends ask him jokes if he "did it" with the girl. John is offended by the suggestion and offers his version of the events. In John's version of the story, it was Tina who came onto HIM in the park, and it was her idea that they go out. John says that he could sense danger from the start after arriving at Tina's apartment and meeting her mother, both of whom vied for his affection. After this farcical incident, he and Tina went to the nightclub as planed. John took her back to his apartment where they engaged in a veritable string of sexual encounters. He finishes the story by explaining that the scratches on his forehead were the result of over-zealous lovemaking on Tina's part, and that she used up so much of his energy that he had to stop for a drink after taking her home.The following morning, the sleazy doorman (Dick Randall) at John's apartment building has his own version of the events of the previous night to share with his friend the milkman (Rainer Basedow). The doorman explains that John is really a homosexual who lures pretty girls to his apartment for the benefit of his lesbian friend Esmeralda (Pascale Petit). Thus, when John retuned from the nightclub with Tina, he phoned Esmeralda, and his gay lover, George (Michael Hinz), and asked them to come over. Once they arrived, John went off with George leaving Tina with Esmeralda, who drugged the girl's drink and tried to take advantage of her. When the doorman, spying on them from the building rooftop, left to tend to the front door of the building, he returned when Tina was waking up. She tried to escape, John attempted to restrain her and ended up having his forehead scratched. The milkman is skeptical to the doorman's claims, but the doorman responds that he saw the whole thing with his own eyes.At this point, a German-speaking psychologist (Calisto Calisti) interrupts the movie to offer the viewers the "true sequence of events" which he gathered from police reports and various other sources. The real explanation he claims is much more innocent: John and Tina were both struck by love at first sight when they first met in the park on that day. After a pleasant first date at the nightclub, they did return to John's apartment for a make-out session. By mutual consent, they decided to wait a while before consummating their romance. But John's efforts to take her home are thwarted when the front gate to his apartment building refuses to open. With the doorman nowhere to be found (he is actually on the building rooftop spying on another couple in the same manner he described), John tried to give Tina a boost over the gate, and she tore her dress by accident on the pike top of the iron gate, and accidentally scratched his forehead when she fell onto him. Knowing full well that nobody will believe such a crazy explanation, they both decided to make up their own stories to tell to whoever might be interested.Which of these four stories is the true one? You decide."
+],
+"summaries": [
+"A night of attempted seduction is recalled from the perspectives of the woman, the man, a lecherous doorman and a psychoanalyst."
+,
+"While walking in the park with her dog in Castel Fusano, Tina flirts with Gianni, a playboy in a fancy sport car. They schedule a date for that evening, and she wears her most elegant and expensive dress. They go to a night club, where they meet some of Gianni's friends: Duccio, Sergio and Pino. Gianni tries to abuse her, but she manages to escape, returns home and tells her version of the facts to her mother, Sofia who is more worried about how she has torn the expensive and elegant dress than for her daughter. Gianni returns to the restaurant with some suspicious scratches on his forehead, he claims to have conquered the girl who had to leave first. The doorman of Gianni's palace tells a completely different version stating that the two entered at night bringing with them two friends named Giorgio and Esmeralda, finally even a psychoanalyst exposes his version of the facts. But the truth is revealed at the end."
+,
+"While walking in the park with her dog, Tina Brandt is flirted with by the Gianni Prada, a playboy in a fancy sport car. They schedule a date for that evening, and Tina wears her most elegant and expensive dress. They go to a night club to dance and Tina returns home late. Her mother Sofia sees Tina sneaking in, her dress torn apart, and Tina tells her mother that Gianni tried to rape her. The next morning, Gianni tells a different story to his friend. Later, the doorman tells another version of the story. Last but not the least, the possible truth is disclosed."
+]
+}
+}
+,
+{
+"_index": "movies",
+"_type": "docs",
+"_id": "DC_NAIUBmFo8GYv0bnQr",
+"_score": 8.159142,
+"_source": {
+"title": "The Hunter",
+"year": 1980,
+"genders": [
+"Action"
+,
+"Biography"
+,
+"Comedy"
+],
+"score": 6.2,
+"directors": [
+"Buzz Kulik"
+],
+"writers": [
+"Ted Leighton"
+,
+"Peter Hyams"
+,
+"Christopher Keane"
+],
+"synopsis": [
+"Ralph "Papa" Thorson (Steve McQueen) is a modern day bounty hunter who hunts down and captures criminals who have skipped on their bail to bring them back for a 20% of the reward to his bailbondsman employer. It is revealed in the opening text that Thorson has has apprehended more than 5,000 criminals and bail jumpers and life is just getting complicated for him.In the opening scene, Thorson arrives in a small, African American town in Texas where despite being a terrible driver of cars (a running joke used throughout the film), he captures fugitive Tommy Price (LaVar Burton) for fleeing on his bail. Next, Thorson drives to another small Texas town where he is to bring in a dangerous punk, named Billie Joe, whose kinfolk include Sheriff Strong, a redneck lawman who warns Thorson not to get involved. Papa ignores him and ends up in a violent fight with the fugitive, who is so huge, even a Taser barely stops him.Thorson drives both Tommy Price and Billie Joe back to Los Angeles where he collect his $1,800 reward for bringing them back. However, Thorson vouches for Price, and thus soon after becomes one of his many acquaintances who hang out at Thorson's house.At home, Thorson is revealed to be an old-fashioned guy who has a love of antiques and classical music, drives a 1950s convertible and keeps an antique gasoline pump in his house. His schoolteacher girlfriend Dotty (Kathryn Harrold) is pregnant and would like "Papa" to be there for her when the baby is born, but his work continually keeps him on the road.Thorson works for elderly and veteran bailbondsman Ritchie Blumenthal (Eli Wallace) who sends him out on dangerous assignments to chase down fugitives in all parts of the USA. However, Throson himself is pursued by a psychotic killer who was one of Thorson's former convicts, Rocco Mason (Tracey Walter) who begins stalking Thorson at his home and begins following Dotty around as well.Thorson's adventures continue when he is sent to rural Nebraska to bring back two fugitives, called the Branch Brothers. He flies out to Nebraska, rents a fancy 1979 Pontiac Trans Am car and drives to the Branch farmhouse where the two psycho brothers steal his car and try to kill him with dynamite. Thorson commandeers a crop cutter machine and chases after the two Branch Brothers through a cornfield which ends when a stick of dynamite dropped by them blows up their car, but they both survives. Thorson arrives back at the local airport to deliver back the destroyed Trans Am and bring the Branch Brothers on the plane back to L.A.Meanwhile, Rocco Mason begins terrorizing Dotty at her workplace which leads Thorson to try to protect her, but she instead tries to make him give up his bounty hunter way of life and to take her to a Lamaze class. Thorson grows tired of it and Dotty threatens to leave him due to his uncertain feelings towards being there for her.When Thorson's police friend Captain Spota (Richard Venture) commits suicide after he is investigated for illegal use of police funds and embezzlement, Thorson goes into a further decline.Blumenthal next sends Thorson to Chicago to pick up fugitive Bernardo (Tom Rosales) a dangerous ex-con which leads to a long chase sequence as Thorson and Bernardo exchange gunfire with each other at an apartment building. Thorson chases Bernardo on foot through the streets and to an elevated train where Thorson is forced to climb on the roof of the train to avoid getting shot at. The chase leads to a high-rise tower where the both steal cars and chase each other to the top level the parking garage, where the psychotic fugitive drives off the edge and plunges several stories into a river to his apparent doom.After returning to Los Angeles that evening, Thorson learns from Price that Dotty has been kidnapped by Rocco Mason and is holding her at the high school where she teaches. Thorson arrives when Mason attempts to kill him with an M-16 assault rifle. Unarmed after being deprived of his weapon, Thorson lures Mason into one classroom where he floods the room with flammable gas where once Mason opens fire, the sparks ignites the gas and blows up the room with Mason in it.Having delt with Mason, Thorson immediately needs to rush Dotty to the hospital when she begins to go into labor. Despite being a terrible driver, he manages to get to the hospital where he collapses exhausted in the lobby area. He comes to in the final scene to walk back outside where Dotty has given birth and he holds his new baby."
+],
+"summaries": [
+"Bounty hunter Ralph "Papa" Thorson is receiving death threats from a criminal he helped put away. This while his girlfriend is about to give birth, an event he isn't looking forward to."
+,
+"In order to track down bail jumpers, Ralph 'Papa' Thorson goes on a series of routine and not-so-routine searches. Sometimes he takes down his quarry easily. At other times, he's forced to extreme measures which result in the injury or death of a lawbreaker. And then again, there are other moments when his own life is on the line. It's all enough to make Thorson question what he has done with his life."
+,
+"Bounty hunter Ralph "Papa" Thorson is receiving death threats from a criminal he helped put away. This while his girlfriend is about to give birth, an event he isn't looking forward to. Meanwhile, he has his job to do and this involves bringing in some tough characters."
+,
+"Biography depicting real-life bounty hunter Ralph "Papa" Thorson and his exploits of bringing criminals to jail who jumped bail. He also has a pregnant girlfriend who's expecting a child soon. Subplot involves an old enemy seeking revenge at Thorson for bringing him to jail."
+]
+}
+}
+,
+{
+"_index": "movies",
+"_type": "docs",
+"_id": "Uy_NAIUBmFo8GYv0bnUr",
+"_score": 8.159142,
+"_source": {
+"title": "Smokey and the Bandit Part 3",
+"year": 1983,
+"genders": [
+"Action"
+,
+"Comedy"
+,
+"Crime"
+],
+"score": 3.5,
+"directors": [
+"Dick Lowry"
+],
+"writers": [
+"Stuart Birnbaum"
+,
+"David Dashev"
+,
+"Jackie Gleason"
+],
+"synopsis": [
+"As is the case with the two preceding 'Smokey and the Bandit' films, Smokey and the Bandit Part 3 begins with Big Enos (Pat McCormick) and Little Enos (Paul Williams) offering a sizeable wager on one's ability to transport a shipment a large distance in a short period of time. Offering a slight twist, however, the offer is this time made to a retiring Sheriff Buford T. Justice (Jackie Gleason), betting $250,000 against his badge on his ability to transport a large stuffed fish from an eatery in Florida to Texas.Unlike the two earlier films, Big and Little Enos this time seem to be quite active in their desire to see Buford fail in his goal. After Buford dodges their many traps (especially after he destroyed their milk truck, which drenched them and disabled their engine), they then go so far as to actually attempt to hire the Bandit (as a distraction) to stop him. Deciding that the Bandit is too egotistical and hard to manage, they hire Cledus "Snowman" Snow (Jerry Reed) as his replacement. Accepting the offer, Cledus parks his Peterbilt 359 and climbs behind the wheel of a black and gold 1983 Pontiac Trans Am.He later picks up Dusty (Colleen Camp), who quits her job as a "bookkeeper" for a used car dealership, but not before attempting to wreck her boss' business (a seedy used car dealership) by badmouthing him in the middle of broadcasting a live TV commercial.The scene of Cledus picking up Dusty in the middle of the road is almost an exact repeat of how Bo picked up Frog in the 1977 film. Cledus manages to catch up with Buford on an interstate, where he then lassoes Buford's fish off of the Justices' police cruiser; Buford needs the fish to retrieve his $250,000. Buford then begins a hot pursuit of Cledus, with another local officer who attempts to take charge of the situation. Not long after the local officer is disabled, Buford becomes disabled as well when sand is dumped on his squad car.The pursuit quickly resumes as Buford catches up to the duo after Cledus and Dusty stop at a redneck bar to pick up some food. The chase resumes as they enter a local town, where mass chaos comes with their entry. Cledus escapes when an 18 wheeler blocks the alleyway where Cletus run through. While trying to get the truck out, Buford's car is hitched to a tow-truck. After unsuccessfully pleading with the traffic officer to release his car, he sends his son Junior (Mike Henry) out to unhook it. Unable to wait, he angrily reverses the car and escapes. The tow truck operator chases him in pursuit, with Junior dangling on the hook, spinning freely. Eventually, Buford manages to make the truck flip over, sending the truck and Junior flying. A number of cars continue to crash into the pile-up. The next scene comes sudden as the Bandit and Justice are in the Mississippi fairgrounds. Buford continues to pursue on two wheels after driving on an incline with Cledus letting the fame get to his head.Cledus and Dusty decide to stop at a hotel for the night, which contains people who are involved in "sexual" acts, several of which are quite deviant. Buford finds the Bandit's Trans Am and decides to make a search of the building to find the fish, which he eventually does. While searching in the steamroom, Buford handcuffs himself to a muscular nymphomaniac female who will not take no for an answer.The next final scenes show Buford getting his tires blown by the "Enos Devil Darts." Cledus quickly arrives and retakes the fish. Cledus and Justice then start a final pursuit with Buford on two tires, first through a bunch of cattle, then to boats, then finally through a field where the Enoses set off a series of explosives, one of which destroys all of the bodywork, leaving the engine, seats, and police light bar (being held by Junior above his head). Cledus decides to surrender the fish to let Buford win. Just after cashing in on the $250,000, Buford finds Cledus and begins to apprehend him, but Buford then imagines Cledus to be the "Real" Bandit (in a cameo appearance by Burt Reynolds) who sweet talks him to letting him go and starting a new pursuit. Similar to the ending of the 1977 movie, Buford is again chasing the Bandit in the hulk of his police cruiser (the muscular female has taken Junior's place riding shotgun this time), while Junior chases after "Daddy" for miles on end, dropping the reward money as he goes."
+],
+"summaries": [
+"Big and Little Enos are opening a sea food restaurant. They bet Sheriff Buford T. Justice that he cannot drive from Miami to the Enos ranch in Texas in a given amount of time. If Buford loses he has to give up his badge."
+,
+"Big Enos and Little Enos have opened a seafood restaurant and want to promote it in their usual fashion. The Bandit is unavailable this time, though, so they enlist Buford. "Trigger" is brought out of mothballs, a large fish is strapped to the roof of the car, and the new Bandit is on his way on another wild cross-country run. But where there is the Bandit, there is Sheriff Buford T. Justice."
+]
+}
+}
+,
+{
+"_index": "movies",
+"_type": "docs",
+"_id": "ES_NAIUBmFo8GYv0boky",
+"_score": 8.154881,
+"_source": {
+"title": "Eastern Promises",
+"year": 2007,
+"genders": [
+"Crime"
+,
+"Drama"
+,
+"Thriller"
+],
+"score": 7.6,
+"directors": [
+"David Cronenberg"
+],
+"writers": [
+"Steven Knight"
+],
+"synopsis": [
+"The film begins on a rainy night in London. A young Turkish youth named Ekrem (Josef Altin) walks into Azim's barber shop, where Azim (Mina E. Mina) is cutting the hair of Soyka (Aleksandar Mikic) a Russian man. Ekrem locks the door, closes the shades, and changes the sign from open to closed. He is Azim's nephew and is introduced to Soyka, but he gets extremely nervous. Azim gives his nephew a razor blade, and urges him to follow through on their plan. Soyka realizes whats going on, and tries to leave but is held down. Ekrem slits Soyka's throat, causing him to suffer painfully before he dies.Elsewhere, a dazed young Russian girl named Tatiana (Sarah-Jeanne Labrosse) walks barefoot into a convenience store and asks for help. The clerk assumes that she's a drug seeker, and then blood starts to flow down her legs. Tatiana collapses, and is taken to the hospital. The doctors see that she's pregnant, and perform surgery to save the baby. Tatiana dies, while the baby lives. A nurse, Anna (Naomi Watts), announces the death and looks after the baby. Anna goes home and gets some sleep. She lives with her mother Helen (Sinead Cusack) and her Russian uncle Stepan (Jerzy Skolimowski).On Christmas day, Helen wakes up Anna for breakfast. Stepan is reading a diary in the dining room, and asks her where she got it. Anna says that she took it off of the dead girl. He says that she's stealing from the dead, and that the dead girl's secrets should be buried with her. She wants him to translate the diary, since its in Russian, but he refuses. While skimming through the pages, Anna comes across a business card for a Trans-Siberian restaurant.Anna rides her motorcycle to the restaurant, and parks in front. Nikolai (Viggo Mortensen) and Kirill (Vincent Cassel) walk through an alley, joking around, when they see Anna securing her (Russian) Ural motorcycle. They both eye her, and then Kirill orders Nikolai to retrieve Azim and his wife, and bring them to the restaurant. Nikolai drives off, and Kirill enters the restaurant. Anna knocks on the door, and its answered by the manager Semyon (Armin Mueller-Stahl), who's also Kirill's father. Semyon tells Anna that the restaurant is closed, but she tells him that she's a midwife and wants to speak to him about Tatiana. He allows her to enter after she tells him her last name, and they walk through the restaurant while Anna notices that all the workers are getting ready for a big party (while also noticing Kirill drinking at the bar). Semyon notices a couple of little girls playing the violin, but he tells them to be better and shows them by playing a tune. Anna shows Semyon the business card, and he tells her that it's an old one, and that he doesn't know Tatiana. She might have just eaten there once and liked the food, which Semyon has Anna taste. Anna wishes to find out where Tatiana's family lived, but he claims he doesn't know. He's sorry that he couldn't be of more help, and she tells him that she'll probably find out more when she gets her diary translated. Semyon volunteers to translate the diary himself, and tells her to bring it to him tomorrow night. Before she leaves, Semyon makes sure he knows where she works.Outside, Nikolai pulls up to the restaurant with Azim and his wife. He stays outside by his car, which is parked right next to Anna's motorcycle. Anna comes out and he compliments her on the motorcycle. She says that it belonged to her father, and he asks if she'd be interested in selling it. She says that it holds sentimental value to her, and then he asks if she's going to stay for the party. She says no, and since Nikolai is not allowed inside because he's just a driver, he asks her if she wants to go get a drink. She speeds off without answering him.That evening, Anna is back home and eats dinner with Helen and Stepan. Stepan gets a bit drunk, and asks how long she's going to stay with them. Helen gets after him, and tells Anna that she can stay as long as she likes. Anna just broke up with her boyfriend, which is why she's living with them. Stepan voices his disdain for her boyfriend, since he's black, and says that interracial couples shouldn't be together. He then says that's probably why Anna's baby died inside her, which greatly upsets her as well as angers Helen.Meanwhile, back at the restaurant, everyone is enjoying themselves and drinking when Kirill gets a phone call. He moves to a quieter place to talk, and asks if the coast is clear. The caller tells him that it is, and Kirill signals to Azim that everything's fine. Nikolai drives Kirill and Azim to the barber shop, and Azim wants Nikolai to wait outside. Kirill refuses, since Nikolai works for him and is helpful for the job. They walk inside and are startled by Ekrem, who's ecstatic that he got tickets to a big soccer game. Azim sends him on his way, and assures them that he won't speak about their presence. They go to a freezer, where Soyka's body is. Kirill eats some peanuts and jokes about the frozen corpse, also saying that the man was like a brother to him. Azim tells him to show some respect, but he pulls out an envelope full of cash and says that money is respect (he gives Azim the envelope). Since the body is so stiff, Nikolai asks for a hair dryer. He places the corpse on a table and uses the dryer to thaw the body. He pulls out Soyka's wallet and gives it to Azim. He then has Azim and Kirill leave, since it's going to get a bit nasty. Nikolai puts out his cigarette on his tongue, and then cuts off all the fingers and removes the teeth from the corpse. Nikolai and Kirill drive out to a waterfront, and they throw Soyka's wrapped up body into the river, where it sinks.Anna gets ready for work when Stepan and Helen walk into her room. Stepan tells her to be careful with the diary, since he's read the words rape, prostitute, and needle.Elsewhere, the police have found Soyka's body. The lead inspector goes into a tent to view the body. He sees that Soyka was part of the vory v zakone, a brotherhood of criminals. Each member is tattooed while in Russian prison, with each tattoo having significance. Upon seeing his tattoos, the inspector deduces that he was a captain of the vory v zakone, and that he knelt to no one. Another curious thing that catches his eye is a note inside of Soyka's jacket.Anna goes to Semyon's restaurant, and he's surprised by her coming early. She apologizes, and he welcomes her inside. She has photocopied Tatiana's diary, and gives the pages to Semyon to translate. He asks her where the original diary is, and she tells him that she wants to give it to Tatiana's baby when she's old enough. Semyon says that he broke his own rule; he drank vodka, and so since he's not sober he will translate the diary tomorrow. He asks her where she lives, but she says that she can come by again for the translation. As she leaves, Nikolai pulls up with a very drunk Kirill. Semyon closes the door on them, and Nikolai opens it using Kirill's key. Kirill is so drunk that he can't even stand up, and so he falls on the floor and rests his head on Nikolai's foot. Semyon, disappointed, walks over to Kirill and kicks him a couple of times. Nikolai tries to stand up for him, but Semyon puts him in his place. Nikolai goes outside and hears Anna in the alley, trying to start up her motorcycle. He tries to help her, but finds that the motorcycle is dead. He offers to drive her home, since it's raining outside and Semyon would get after him if he let her walk home.While he drives, Anna asks him if he knew Tatiana. He says that he knows a lot of girls named Tatiana, but no pregnant ones. She then asks if Kirill knew her, and he tells her that he's just the driver. When they pull up to her home, she asks him what he wants in return. Nikolai says that the ride has been a Christmas present, and then leaves.Nikolai and Kirill go to a whorehouse to party. A lot of the girls look underage, but none of the customers care. Kirill is drunk, and licks a girl who's dancing on a pole. He then sits on Nikolai's lap, who's making out with a prostitute. He asks him which one hes going to sleep with, but Nikolai tells him that he'll pick when he's ready. He continues to make out with the prostitute but is interrupted again when Kirill smashes the stereo with a bottle. Kirill wants to make sure that Nikolai's not gay, and says that he's going to watch him have sex with one of the whores. Forced to pick, Nikolai chooses a prostitute named Kirilenko. He has sex with her while Kirill watches, and then when he's done Kirill claps. Nikolai tells him to go away while he changes. Kirilenko sings to herself, and Nikolai asks her what her full name is and where she's from. He gives her a wad of cash and tells her to live longer.While at work at the hospital, Anna watches over the baby, who she has named Christine, and gets emotional thinking about her own dead baby. Semyon surprises her, and when she asks how he got in he says that there are always open doors. She tries to get him to leave, but he says that he has translated the diary. He is most disturbed that Kirill is mentioned several times, including details about some illegal activities he has done. He asks that Anna not go to the police with the diary, claiming that Kirill is a good boy and that he will deal with him on his own. Before he leaves, he looks after Christine and remarks on how perfect she is.Anna goes home, and sees that Stepan is reading the diary out-loud while Helen writes it down in English. The passage details that Kirill threw Tatiana down the stairs and beat her. He tried to rape her, but when he found that he couldn't he wound up beating her some more. Semyon then proceeded to rape her and gave her a bunch of pills afterwards. Semyon is Christine's father. Anna tells them that Semyon translated the diary, and threatened the baby. In return for handing over the diary, Semyon promises to give Anna the address of Tatiana's family. Stepan gets after her for being so foolish, and since the baby is being threatened Helen and Anna agree to make the deal with Semyon.At the restaurant, Nikolai and Kirill receive a shipment of old alcohol in a truck. Nikolai asks where it came from, and Kirill says that if his father agrees, they'll let Nikolai deeper into their family and their business. Semyon appears and gets after Kirill for Soyka's death. Kirill denies having any involvement, but Nikolai tells Semyon the truth (that Kirill paid to have him murdered, and they got rid of the body). Semyon says that if anyone is to be killed, he doesn't want to be the last one to find out. He also mentions that Soyka's brothers might come looking for revenge, but Nikolai says that he will protect Kirill.Meanwhile, Anna, Helen, and Stepan go to a restaurant and drink some coffee. Nikolai walks in and sits down at their table. Stepan says that he used to be with the KGB, and knows how to deal with scum like Semyon. When things cool down, Nikolai asks for the diary (he's been sent by Semyon). Anna slides it across the table, and Nikolai puts it in his jacket. When she asks for Tatiana's address, Nikolai ignores her and walks outside. Anna runs out and demands to know the address. He tells her to forget any of this ever happened, to stay away from people like him, and to go back inside with the good people. Helen comes outside and brings Anna back inside the restaurant. Stepan spits in Nikolai's face, and Nikolai gestures that he's going to kill him via sticking his fingers underneath his throat and pointing at him.Nikolai goes back to Semyon's restaurant, and reads Tatiana's diary. Semyon is happy that he has retrieved it, but is concerned since Stepan has already read the diary, and orders Nikolai to kill him. It's also revealed that Soyka was killed because he was spreading rumors of Kirill being queer (homosexual). Semyon douses the diary with vodka and burns it while Nikolai looks on.Nikolai goes to the hospital and waits for Anna to get off of work. He reveals that he read the diary, and she asks him how he can still do what he's doing and be okay with it. He changes the subject and gives her the address of where Tatiana's family is. He says that its not a good place for a little girl to grow up in, and suggests that Anna just take care of Christine herself.The next day, Ekrem goes to the soccer game and his team loses. While walking down the street with a mob of fans, he stops in a graveyard and pisses on a grave. Two men approach him, one of whom is Soyka's brother, and slit his throat in broad daylight.In back of the restaurant, Semyon meets with Azim, who tells him that Soyka's brother has killed Ekrem. The brother has decided to spare Azim, but in return he must give up Kirill (who ordered the hit on Soyka). Semyon is not pleased with this, but tells Azim to inform the brother that he will do as he is told.A little later, Nikolai stalks Stepan to his home and follows him inside, where it's implied that he kills him.That night, Anna waits outside the restaurant when Nikolai and Kirill pull up. Kirill orders her to go away, and orders Nikolai to stop seeing her. She tells them that Tatiana was just 14-years-old, but Kirill will hear none of it and goes inside. Nikolai tells Anna to go away and not get further involved with trying to learn more about Tatiana. Nikolai then enters the restaurant.As Nikolai and Kirill walk through the kitchen, Kirill mentions that the police raided the whorehouse, and asked for Kirilenko by name. They meet up with Semyon, who tells Kirill to go away while he talks with Nikolai on his own. Kirill, a bit hurt, storms off downstairs to get drunk. Nikolai tells Semyon that he killed Stepan, which pleases him. Afterwards, Nikolai goes downstairs and has a drink with Kirill. He says that Semyon offered him the opportunity to get his star tattoos, and he accepted. Kirill embraces him, and asserts that it was his idea for Nikolai to get the stars (though it's obvious he didn't know until he was told).Later on, several members of the vory v zakone arrive at the restaurant and are greeted by Semyon. Nikolai is seated in front of them wearing nothing but his underwear. The members inspect the tattoos he received while in prison, and review Nikolai's criminal and family history. Nikolai renounces his parents, and is then given the star tattoos on his shoulders and knees.The next day, Azim meets with Nikolai at a bathhouse to discuss some business. He says that it's a preferred meeting place, since everyone can see the tattoos they have. Azim and Nikolai undress and wear towels. Azim excuses himself to use the restroom, and instead starts to get dressed again. Two thugs come in, and Azim tells them that Nikolai is Kirill (they don't know what he looks like). They spare Azim and walk into the sauna, where Nikolai is naked except for the towel on his head. A thug pulls out a knife and slashes his chest. Nikolai beats him up and wrestles for control over the blade. After that fails, he tries to crawl away but the other thug is waiting for him and slashes his body with another knife. Nikolai makes one of the thugs stab the other in the chest, and then brutally brawls with him on the floor. He gets his hand on a knife, places it underneath the goon's head, and smashes his head onto the blade. Nikolai, beaten and bloodied, starts to weakly crawl away. It turns out the other thug isn't dead yet, and he starts to choke Nikolai with his bare hands. The thug rips out the knife from his chest and tries to use it on Nikolai, but Nikolai gets the upper hand and stabs the thug through the eye.A little later at the hospital, Anna sees the extremely wounded Nikolai being carted down the hall. She enters his room and asks him if he knows where Stepan is. If he doesn't turn up soon, she'll get the authorities involved. Nikolai reveals that he was sent by Semyon to kill Stepan, but he didn't. Instead, he sent him to Edinburgh and set him up in a hotel.The police inspector who found Soyka's body arrives at the hospital and privately talks with Nikolai. It's revealed here that Nikolai is really an undercover MI5 agent hired to infiltrate the vory v zakone. The note he put in Soyka's jacket was a progress report, and he called in the raid on the whorehouse to help out Kirilenko. The inspector says that Scotland Yard and the KGB/FSB are not happy with Nikolai's job handling, and when he sees his star tattoos he is worried that he has perhaps gone too far undercover. Nikolai reassures him that everything's fine, and that he can even become head of the vory v zakone in London. The inspector balks at the idea, but Nikolai tells him that all they have to do is arrest Semyon. When he asks for what charges, Nikolai tells him that the charges will be the rape of the 14-year-old Tatiana. Since she's dead, she can't testify, but they can prove Semyon is the father of the baby through blood tests.Meanwhile, Kirill is inflating balloons for another party when he notices a little girl staring at him. She asks him if he fought with Semyon last night, because she could hear shouting and banging. Kirill says that it's not a fight if one of them doesn't fight back, and says he was upset upon learning about Nikolai's attack (orchestrated by Semyon). Kirill then sees several policemen arriving outside the restaurant via security monitor, and tells the girl to go upstairs. After the cops leave, Kirill asks Semyon what the cops wanted with him. They took a blood sample from his arm, and Kirill asks him why they would want that.As Anna gets off of work, she sees Kirill in a closing elevator holding a gym bag. She rushes to the baby ward and finds flowers in place of Christine. Anna bumps into Nikolai again and harshly demands to know where Kirill took the baby. He honestly doesn't know, and so they both head out in search of Kirill, who goes back to the waterfront where Soyka's body was dumped. He picks up the gym bag, which has Christine inside, and sits by the water. He cries, and asks for forgiveness. He's about to throw Christine in the river when Nikolai and Anna arrive. Nikolai tells Kirill that Semyon has gone too far, and they don't kill babies. He then forces Kirill to choose between him and Semyon. Kirill embraces Nikolai and says that he didn't know that Semyon set him up at the bathhouse. Nikolai says that he understands, and gives Christine to Anna. Nikolai then tells Kirill that his time to control the family is now, and they can be partners with Semyon out of the way. Kirill becomes cheerful again, and tells Nikolai that they should go out to celebrate, since it's New Year's Eve. Kirill walks off and waits for Nikolai. Anna demands to know who he is and why he helped them, but Nikolai simply replies that he couldn't be king if the king is still in place. They briefly kiss each other, and then Nikolai walks off with Kirill.Some time later, we see Helen and Stepan fixing lunch while Anna plays with Christine (she adopted her). Semyon is presumed to be in prison for Tatiana's rape. The final shot shows Nikolai sitting alone in the restaurant, leaving his future unclear."
+],
+"summaries": [
+"A teenager who dies during childbirth leaves clues in her journal that could tie her child to a rape involving a violent Russian mob family."
+,
+"THIS SUMMARY CONTAINS SPOILERS. In London, pregnant Russian teenager Tatiana arrives bleeding to a hospital, and the doctors save her baby only. Russian-descendant midwife Anna Khitrova finds Tatiana's diary written in Russian language in her belongings and, deciding to find her family and bring them the baby, she brings the diary home and asks her uncle Stepan to translate the document. Stepan refuses, but Anna finds a card of a restaurant owned by the Russian Semyon inside the diary and visits the old man trying to find a lead to contact Tatiana's family. When she mentions the existence of the diary, Semyon immediately offers to translate the document. However, Stepan translates part of the diary and Anna discovers that Semyon and his sick son Kirill had raped Tatiana when she was 14 and forced her to work as a prostitute in their brothel. Further, Semyon is the dangerous boss of the Russian mafia "Vory v Zakone", jeopardizing the safety of Anna and her family. Meanwhile, Semyon's driver Nikolai Luzhin gets close to Kirill and Semyon, climbing positions in the criminal organization, but he helps Anna, her family, and the baby."
+,
+"Anna Khitrova, a Brit of Russian descent, works as a midwife at a London hospital. On one of Anna's regular shifts, a pregnant 14-year-old Russian junkie, Tatiana, bursts into the hospital in distress. Tatiana delivers a healthy baby girl, then dies on the table. Anna is determined to find Tatiana's family so that the baby will have a biological family home, as opposed to being caught in the foster-care system. All Anna has to go on is Tatiana's Russian-written diary which was on her person, with a business card for the Trans-Siberian Restaurant inserted among its pages. Anna's old-school Russian Uncle Stepan is reluctant to do the translation, believing that Anna desecrated Tatiana's memory by even taking the diary. So Anna is grateful when the owner/operator of the Trans-Siberian, an elderly Russian named Semyon, volunteers to translate the diary for her. It isn't until after she gives Semyon a photocopy of the diary that Anna learns that he is the head of a Russian mob organization, and that Tatiana was probably caught unwillingly in his prostitution ring and was injected with illicit drugs to control her further. Beyond Semyon, the criminal names and faces that Anna encounters within his organization are his volatile son Kirill and Kirill's driver, Nikolai Luzhin, who also works as the organization's cleaner, making sure there are no loose ends in the organization's crimes. This situation also gives Anna a better picture of the probable biological father. Anna, the baby, and Anna's family, which also includes her mother Helen, are placed at greater risk because of the situation, not only at the hands of Semyon and those around him, but being potentially caught in the crossfire with other criminal organizations associated with Semyon. The wild card in the mix may be Nikolai, as the non-family member with inside knowledge of what's going on regardless."
+,
+"The mysterious and charismatic Russian-born Nikolai Luzhin is a driver for one of London's most notorious organized crime families of Eastern European origin. The family itself is part of the Vory V Zakone criminal brotherhood. Headed by Semyon, whose courtly charm as the welcoming proprietor of the plush Trans-Siberian restaurant impeccably masks a cold and brutal core, the family's fortunes are tested by Semyon's volatile son and enforcer, Kirill, who is more tightly bound to Nikolai than to his own father. But Nikolai's carefully maintained existence is jarred once he crosses paths at Christmastime with Anna Khitrova, a midwife at a North London hospital. Anna is deeply affected by the desperate situation of a young teenager who dies while giving birth to a baby. Anna resolves to try to trace the baby's lineage and relatives. The girl's personal diary also survives her; it is written in Russian, and Anna seeks answers in it. Anna's mother Helen does not discourage her, but Anna's irascible Russian-born uncle Stepan urges caution. He is right to do so; by delving into the diary, Anna has accidentally unleashed the full fury of the Vory. With Semyon and Kirill closing ranks and Anna pressing her inquiries, Nikolai unexpectedly finds his loyalties divided. The family tightens its grip on him; who can, or should, he trust? Several lives - including his own - hang in the balance as a harrowing chain of murder, deceit, and retribution reverberates through the darkest corners of both the family and London itself."
+]
+}
+}
+,
+{
+"_index": "movies",
+"_type": "docs",
+"_id": "Fi_NAIUBmFo8GYv0bocx",
+"_score": 8.075595,
+"_source": {
+"title": "Moving McAllister",
+"year": 2007,
+"genders": [
+"Adventure"
+,
+"Comedy"
+,
+"Romance"
+],
+"score": 5.2,
+"directors": [
+"Andrew Black"
+],
+"writers": [
+"Benjamin Gourley"
+],
+"synopsis": [
+"Rick has a thankless job in corporate America. He is given, what he believes to be an upwardly mobile opportunity to advance his career. His boss, McAllister asks him to move his hot niece from Florida to California. Rick is supposed to take the Florida bar exam in three days. Hijinx ensue, and of course, Rick learns some valuable life lessons that cannot be learned from a book. Jon Heder appears in the second half of the film, and is funny, as always. I'd give this movie a thumbs up, but alas it has been done before. Save this one for cable, or if your under 20 (not an insult, might be fresh to the younger generation) go ahead and rent it. Oh, and Mila Kunis is well-acted and very charming as the hot niece."
+],
+"summaries": [
+"Law intern Rick aims for the top. He tells his boss he'll do anything - incl. drive the cute wild niece Miami to LA. Back well prepared for bar exam 3 days later?"
+,
+"Rick Robinson (Benjamin Gourley) is a ladder-climbing law intern from Miami with four days until the Bar Exam. Desperate to score points with his boss, Maxwell McAllister (Rutger Hauer), he commits to a favor he can't afford. He ends up in a rundown truck headed to Los Angeles, California with his boss' possessions, his Hollywood-bound niece, Michelle (Mila Kunis), and her pet pig. Amidst hitchhikers, breakdowns, and assorted local yokels, Rick finds love, life, and maybe himself in this trans-American road trip from Hell."
+]
+}
+}
+,
+{
+"_index": "movies",
+"_type": "docs",
+"_id": "ui_NAIUBmFo8GYv0boMw",
+"_score": 8.005365,
+"_source": {
+"title": "9 Dead Gay Guys",
+"year": 2002,
+"genders": [
+"Comedy"
+,
+"Crime"
+],
+"score": 6.2,
+"directors": [
+"Lab Ky Mo"
+],
+"writers": [
+"Lab Ky Mo"
+],
+"synopsis": [ ],
+"summaries": [
+"Two Irish lads stumble through London's gay scene."
+,
+"The story of two lads from Belfast as they stumble their way through the London gay underworld in search of 'gainful employment,' this being the offering of sexual favors to older gay men in order to subsidize their respective giros. However, when one of the lads accidentally shags a punter to death, they are forced to look for 'work' elsewhere. It is then that they discover the myth of 'The Bread in the Bed': a huge bed full of money. 'Nine Dead Gay Guys' is the result of the ensuing caper as the lads begin the search for the elusive bed."
 ]
 }
 }
@@ -1604,136 +1658,116 @@
 "aggregations": {
 "year_duplicate": {
 "doc_count_error_upper_bound": 0,
-"sum_other_doc_count": 21,
+"sum_other_doc_count": 16,
 "buckets": [
 {
 "key": 2009,
-"doc_count": 39
+"doc_count": 25
 }
 ,
 {
 "key": 2007,
-"doc_count": 32
-}
-,
-{
-"key": 2006,
-"doc_count": 27
-}
-,
-{
-"key": 2011,
-"doc_count": 26
-}
-,
-{
-"key": 2012,
 "doc_count": 24
 }
 ,
 {
+"key": 2006,
+"doc_count": 17
+}
+,
+{
+"key": 2011,
+"doc_count": 16
+}
+,
+{
+"key": 2012,
+"doc_count": 15
+}
+,
+{
 "key": 2005,
-"doc_count": 22
-}
-,
-{
-"key": 2014,
-"doc_count": 22
-}
-,
-{
-"key": 2001,
-"doc_count": 21
-}
-,
-{
-"key": 1999,
-"doc_count": 19
-}
-,
-{
-"key": 2004,
-"doc_count": 17
-}
-,
-{
-"key": 2008,
-"doc_count": 17
-}
-,
-{
-"key": 1998,
-"doc_count": 16
-}
-,
-{
-"key": 2013,
-"doc_count": 16
-}
-,
-{
-"key": 1996,
-"doc_count": 15
-}
-,
-{
-"key": 2010,
-"doc_count": 15
-}
-,
-{
-"key": 2015,
-"doc_count": 15
-}
-,
-{
-"key": 1968,
 "doc_count": 14
 }
 ,
 {
-"key": 1995,
+"key": 2014,
+"doc_count": 14
+}
+,
+{
+"key": 2001,
 "doc_count": 13
 }
 ,
 {
-"key": 2002,
+"key": 2004,
+"doc_count": 13
+}
+,
+{
+"key": 1999,
 "doc_count": 12
 }
 ,
 {
-"key": 1980,
+"key": 2013,
+"doc_count": 12
+}
+,
+{
+"key": 1996,
 "doc_count": 11
 }
 ,
 {
-"key": 2000,
+"key": 1998,
+"doc_count": 11
+}
+,
+{
+"key": 2010,
+"doc_count": 11
+}
+,
+{
+"key": 2015,
+"doc_count": 11
+}
+,
+{
+"key": 1968,
 "doc_count": 10
 }
 ,
 {
+"key": 2008,
+"doc_count": 10
+}
+,
+{
+"key": 1995,
+"doc_count": 9
+}
+,
+{
+"key": 2002,
+"doc_count": 9
+}
+,
+{
+"key": 1980,
+"doc_count": 8
+}
+,
+{
+"key": 2000,
+"doc_count": 7
+}
+,
+{
 "key": 1970,
-"doc_count": 8
-}
-,
-{
-"key": 1984,
-"doc_count": 8
-}
-,
-{
-"key": 2003,
-"doc_count": 8
-}
-,
-{
-"key": 1971,
-"doc_count": 7
-}
-,
-{
-"key": 1976,
-"doc_count": 7
+"doc_count": 6
 }
 ,
 {
@@ -1742,57 +1776,37 @@
 }
 ,
 {
-"key": 1994,
-"doc_count": 6
+"key": 1971,
+"doc_count": 5
+}
+,
+{
+"key": 1976,
+"doc_count": 5
+}
+,
+{
+"key": 1984,
+"doc_count": 5
+}
+,
+{
+"key": 2003,
+"doc_count": 5
 }
 ,
 {
 "key": 1972,
-"doc_count": 5
-}
-,
-{
-"key": 1979,
-"doc_count": 5
-}
-,
-{
-"key": 1981,
-"doc_count": 5
-}
-,
-{
-"key": 1989,
-"doc_count": 5
+"doc_count": 4
 }
 ,
 {
 "key": 1992,
-"doc_count": 5
+"doc_count": 4
 }
 ,
 {
 "key": 1997,
-"doc_count": 5
-}
-,
-{
-"key": 1945,
-"doc_count": 4
-}
-,
-{
-"key": 1947,
-"doc_count": 4
-}
-,
-{
-"key": 1967,
-"doc_count": 4
-}
-,
-{
-"key": 1982,
 "doc_count": 4
 }
 ,
@@ -1802,58 +1816,98 @@
 }
 ,
 {
-"key": 1966,
-"doc_count": 3
-}
-,
-{
-"key": 1969,
-"doc_count": 3
-}
-,
-{
 "key": 1977,
 "doc_count": 3
 }
 ,
 {
-"key": 1978,
+"key": 1979,
 "doc_count": 3
+}
+,
+{
+"key": 1981,
+"doc_count": 3
+}
+,
+{
+"key": 1982,
+"doc_count": 3
+}
+,
+{
+"key": 1989,
+"doc_count": 3
+}
+,
+{
+"key": 1994,
+"doc_count": 3
+}
+,
+{
+"key": 1945,
+"doc_count": 2
+}
+,
+{
+"key": 1947,
+"doc_count": 2
+}
+,
+{
+"key": 1964,
+"doc_count": 2
+}
+,
+{
+"key": 1966,
+"doc_count": 2
+}
+,
+{
+"key": 1967,
+"doc_count": 2
+}
+,
+{
+"key": 1969,
+"doc_count": 2
+}
+,
+{
+"key": 1978,
+"doc_count": 2
 }
 ,
 {
 "key": 1987,
-"doc_count": 3
+"doc_count": 2
+}
+,
+{
+"key": 1990,
+"doc_count": 2
 }
 ,
 {
 "key": 1991,
-"doc_count": 3
+"doc_count": 2
 }
 ,
 {
 "key": 1993,
-"doc_count": 3
+"doc_count": 2
+}
+,
+{
+"key": 1903,
+"doc_count": 1
 }
 ,
 {
 "key": 1930,
-"doc_count": 2
-}
-,
-{
-"key": 1932,
-"doc_count": 2
-}
-,
-{
-"key": 1939,
-"doc_count": 2
-}
-,
-{
-"key": 1949,
-"doc_count": 2
+"doc_count": 1
 }
 ]
 }
