@@ -1,11 +1,9 @@
 Consulta 1: Películas sobre la Segunda Guerra Mundial producidas desde el año 1980 en adelante.
 
-synopsis:World War II AND year:>=1980
-
 {
 	"query": {
 		"query_string": {
-			"query": "\"World War II\" \"WW II\" \"WWII\" AND year:>=1980"
+			"query": "(\"World War II\" OR \"WW II\" OR \"WWII\" OR \"Second World War\") AND year:>=1980"
 		}
 	},
 	"size": 50,
