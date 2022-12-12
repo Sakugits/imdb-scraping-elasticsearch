@@ -1,5 +1,5 @@
 {
-"took": 74,
+"took": 50,
 "timed_out": false,
 "_shards": {
 "total": 2,
@@ -9,7 +9,7 @@
 },
 "hits": {
 "total": {
-"value": 378,
+"value": 355,
 "relation": "eq"
 },
 "max_score": 21.138378,
@@ -229,37 +229,6 @@
 "Soon after the disparate yet compatible Naoya and Katsuhiro start to settle into a relationship, a slightly unhinged young woman named Asako asks Katsuhiro to father her child."
 ,
 "While the couple navigates the implications of this unexpected proposal, they are forced to confront their conflicting understandings of what it means to be gay and in a committed relationship. A landmark work of LGBTQ Japanese cinema by pioneering director Ryosuke Hashiguchi, Hush. humorously and poignantly upends the traditional Japanese genre of the family drama to offer a deeply human story about three people doing their best to be true to themselves."
-]
-}
-}
-,
-{
-"_index": "movies",
-"_type": "docs",
-"_id": "6y_NAIUBmFo8GYv0bnYs",
-"_score": 14.037614,
-"_source": {
-"title": "Law of Desire",
-"year": 1987,
-"genders": [
-"Comedy"
-,
-"Drama"
-,
-"Thriller"
-],
-"score": 7.1,
-"directors": [
-"Pedro Almodóvar"
-],
-"writers": [
-"Pedro Almodóvar"
-],
-"synopsis": [ ],
-"summaries": [
-"A gay filmmaker becomes involved with an obsessive fan while still pining for his absent true love. Meanwhile, he shares a close but complex relationship with his trans sister, an actress."
-,
-"Pablo and Tina have complicated sexual lives. Pablo writes and directs plays and films; he's gay and deeply in love with Juan, a young man who won't reply to Pablo's affection or letters. Pablo's sibling Tina is a transsexual, angry at men, raising Ada, and trying to make it as an actress. Pablo takes up with Antonio, a youth who becomes jealous of Pablo's love for Juan. Antonio seeks out Juan, and violence leads to Pablo's grief and a temporary loss of memory. When memory returns, he learns that Antonio has taken up with Tina. In horror, he hurries to Tina's rescue and must face Antonio and his desire."
 ]
 }
 }
@@ -622,68 +591,6 @@
 {
 "_index": "movies",
 "_type": "docs",
-"_id": "Ni_NAIUBmFo8GYv0bnEp",
-"_score": 11.125076,
-"_source": {
-"title": "Horror Express",
-"year": 1972,
-"genders": [
-"Adventure"
-,
-"Horror"
-,
-"Sci-Fi"
-],
-"score": 6.5,
-"directors": [
-"Eugenio Martín"
-],
-"writers": [
-"Arnaud d'Usseau"
-,
-"Julian Zimet"
-],
-"synopsis": [
-"In 1906 Shanghai, anthropologist Professor Sir Alexander Saxton (Christopher Lee) is returning home to England via the Trans-Siberian Railway to Moscow. He brings with him a large crate containing the prize from his expedition in the mountains of Manchuria: the frozen remains of a primitive humanoid creature, which Saxton is sure is the missing link in the evolutionary chain. Also on board is Dr. Wells (Peter Cushing), a colleague of Saxton's from the Geological Society of London.Mysterious deaths occur even before the train sets out. A known thief is found dead on the platform after having looked into the crate. His corpse is discovered bleeding from the eyes, which have turned blank and white. A slightly unbalanced, Rasputin-esque monk named Pujardov (Alberto de Mendoza) claims that the contents of the crate is evil. Pujardov is the spiritual adviser for Count Maryan Petrovski (George Rigaud) and his wife, Irina (Silvia Tortosa), and he tries to demonstrate to them that the crate is an omen of evil: in a bizarre rationalization, he claims that where there is evil, there is no place for the sign of the cross, and a piece of chalk fails to make the marking of the cross on the side of the crate. Saxton dismisses it as a trick and discredits the monk.Saxton is eager to keep his find a secret from everyone, especially Dr. Wells, but Wells pays the baggage man (Víctor Israel) to look into the crate when everyone is gone and tell him what's inside. Later, the man does this and is also killed by the creature, which possesses a glowing red eye. After gazing at the red eye, the man's eyes begin to bleed and turn white until he falls down dead. The ape-man quickly picks the lock of the crate just like the Chinese thief did back at the beginning of the train's voyage. The creature leaves the crate and places the baggage man's corpse inside instead; the others discover it later and Saxton is forced to come clean about his discovery. Inspector Mirov (Julio Peña) represents authority on the train, and he tries to keep the news of the death quiet among the passengers, while simultaneously searching for the creature.A beautiful woman insinuates herself into Dr. Wells' compartment; she is Natasha (Helga Liné), and she uses her feminine charm to convince Wells that she is a lady in distress. In reality, Natasha is a spy intent on pilfering a block of steel belonging to the Count - who knows the formula for its creation - from the train's safe. She is recognized by Yevtushenko (Ángel del Pozo), a prominent engineer who knows he has seen her before. Wells dines with the both of them in the dining car, but Mirov summons him and his assistant, Miss Jones (Alice Reinheart) to perform an autopsy on the baggage man. When they remove the top of his skull, they find that his brain is strangely smooth; Wells concludes that the brain has somehow been "drained" of all knowledge and memory. Later, when he sees a boiled fish with a white eye, he decides that this is the reason the eyes of the victims turn white; the memories and information are absorbed through the eyes, causing this reaction.The fossil continues to haunt the train and kills two guards, eventually overcoming Natasha when she sneaks into the baggage compartment and attempts to remove the steel block from the safe. Wells happens upon the murder scene and the fossil tries to attack him, but it is gunned down by Inspector Mirov, who stares at the creature and then collapses into unconsciousness.In a strange experiment, Saxton, Wells and Jones discover images embedded in liquid inside the eye of the fossil, images that reveal a prehistoric Earth, as well as a view of the Earth from outer space. They deduce that the real threat is a formless alien creature that was simply inhabiting the body of the fossil, and that it has now transferred itself to someone else on board the train. These fears are confirmed when Jones is found dead in the baggage compartment, attacked by the Inspector and drained of her brain, her eyes white and bleeding. The monk senses the evil presence inside of the Inspector and pledges allegiance to it, declaring it to be Satan. Yevtushenko becomes a victim, too, when the creature learns that he has studied the laws of physics and theories of space travel.When news of the murders on the train is wired to Siberian authorities, the train is stopped and an intimidating Cossack named Captain Kazan (Telly Savalas) boards with a small group of his men. Mirov is discovered to be the creature and is shot and stabbed, but not before the alien presence transfers itself to the monk. The passengers all evacuate to the caboose, while the monk murders Kazan and his men by draining them of their brains.The creature attacks the Count to absorb his knowledge about steel; using the combined knowledge of the minds it has absorbed, the creature intends to build a vehicle that will allow it to escape Earth. When it threatens the Countess, Saxton arrives and confronts it with a shotgun and a powerful light, which renders its deadly red eyes temporarily ineffective. Playing for time, the creature tempts Saxton by revealing that it is a formless energy that came to Earth millions of years ago from another galaxy, and was accidentally left behind by its own kind; it has survived by transferring itself to each form of life that has evolved over time. As such, it possesses all of the knowledge that Saxton so desperately wants - including, it claims, the knowledge to cure disease and end hunger. Saxton, however, decides that the alien is too dangerous to be left alive. Realizing that Saxton cannot be bargained with, it resurrects all of its victims as white-eyed zombies. Saxton and the Countess fight through the zombies back to the caboose, where the others are waiting. As Saxton and Wells desperately work to detach the caboose from the rest of the train, Kazan's superiors in Moscow send a telegraph to the next station ahead, ordering them to divert the train to a siding overlooking a precarious cliff. The operators follow this order, speculating that a war has broken out. Just as Saxton and Wells uncouple themselves from the rest of the train, it crashes over the cliff and explodes into a fireball as it hits the ravine below. The caboose rolls to a safe stop precariously near the edge, where the survivors watch the fire consume the train and the unearthly inhabitants within it."
-],
-"summaries": [
-"While travelling on the Trans-Siberian Express, an anthropologist and his rival must contain the threat posed by the former's cargo: a prehistoric ape which is the host for a lifeform that is absorbing the minds of the passengers and crew."
-,
-"An English anthropologist has discovered a frozen monster in the frozen wastes of Manchuria which he believes may be the Missing Link. He brings the creature back to Europe aboard a trans-Siberian express, but during the trip the monster thaws out and starts to butcher the passengers one by one."
-,
-"In 1906, in China, Professor Alexander Saxton discovers an ancient frozen fossil in the remote Province of Szechuan. He brings the remains of the being in a box to Shanghai and boards a trans-Siberian train, where he meets his acquaintance Dr. Wells. During the trip, a life force trapped in the frozen creature is released, killing and stealing the memories of the passengers."
-]
-}
-}
-,
-{
-"_index": "movies",
-"_type": "docs",
-"_id": "yS_NAIUBmFo8GYv0bpk4",
-"_score": 10.702101,
-"_source": {
-"title": "Break Free",
-"year": 2014,
-"genders": [
-"Short"
-],
-"score": 7.4,
-"directors": [
-"Phillip Lopez"
-],
-"writers": [
-"Ruby Rose"
-],
-"synopsis": [ ],
-"summaries": [
-"A short film about gender roles, Trans, and what it is like to have an identity that deviates from the status quo."
-]
-}
-}
-,
-{
-"_index": "movies",
-"_type": "docs",
 "_id": "gC_NAIUBmFo8GYv0bpA1",
 "_score": 10.511123,
 "_source": {
@@ -713,43 +620,6 @@
 {
 "_index": "movies",
 "_type": "docs",
-"_id": "AC_NAIUBmFo8GYv0bnYr",
-"_score": 10.488936,
-"_source": {
-"title": "Kiss of the Spider Woman",
-"year": 1985,
-"genders": [
-"Drama"
-],
-"score": 7.3,
-"directors": [
-"Hector Babenco"
-],
-"writers": [
-"Manuel Puig"
-,
-"Leonard Schrader"
-],
-"synopsis": [
-"In a Latin American prison somewhere in Brazil, an effeminate window dresser named Luis Molina (William Hurt) recites the story of his favorite movie to his cellmate, Valentin Arregui (Raul Julia), a bold and austere political prisoner. Molina embellishes the romance to escape the brutality of prison life, describing a torrid World War II love affair between a French chanteuse, Leni Lamaison (Sonia Braga), and a German captain named Werner (Herson Capr). As Molina describes Leni's conflict between passion and conscience, Arregui protests that the film is Nazi propaganda. Molina's homosexuality, and his sentimental interpretation of fascist cinema, are repulsive to Arregui, but the two begin to develop an unlikely friendship. Arregui admits his concern that the warden has stopped his interrogation, and fears officials will go after his girl friend for intelligence. Molina reveals that he was imprisoned for seducing a minor (a little boy), and longs for a world in which he is free to love without persecution.One day, Molina is called to the warden (José Lewgoy), and reports back to Arregui that his mother is ill with a weak heart. He fears his transgression has caused her to suffer, and may precipitate her death. When the men are provided food trays with disproportionate servings, Arregui insists that Molina take the larger portion. As he reluctantly eats, Molina encourages his cellmate to write a letter to his girl friend, but Arregui does not wish to expose her to the government, and refuses to mention her name.Referring to the brutality of his captors, Arregui questions why they have kept him alive, and believes they are developing sinister new tactics to induce his confession. Impressed by Arregui's dedication to his girl friend, Molina cries about his failure to find love, and remembers a waiter with whom he was infatuated.One day, Molina becomes violently ill, and convalesces in the infirmary. When he returns to the cell, Arregui suffers the same symptoms and realizes the food has been poisoned. Molina insists on calling the guards for help, but Arregui protests, knowing that he will be drugged to reveal the identities of his fellow revolutionaries. In his delirium, Arregui utters the name "Marta," and Molina returns to narrating his favorite movie, hoping it will assuage his pain.As Arregui awakens, he soils himself with diarrhea, and Molina cleans the mess. Grateful for Molina's care, Arregui lets down his guard and allows him to read a letter from his girl friend, whom he now identifies as Lidia. However, Molina inquires about the mysterious Marta. Shocked by Molina's knowledge of her name, Arregui admits he is still entranced by his former lover, Marta (also Sonia Braga), even though she is from an upper-class family, and his association with the bourgeoisie makes him a hypocrite to the revolution. Marta asked him to leave the rebels, but his friends were being abducted, and he agreed to a mission in which he gave his passport to an elderly dissident, code-named "Dr. Americo." After the transaction, Arregui was arrested and tortured, but he did not succumb to the inquisition. He admits he does not want to die, and begs Molina to protect him.Sometime later, Molina is called back to meet with the warden and his henchman, Pedro (Milton Gonçalves), who have promised to reduce Molina's sentence if he spies on his cellmate. They demand to know the name of Arregui's girl friend, and the identity of the prison's new inmate, but Molina remains mum, pointing out that the captive's face has been concealed by a hood. Molina, who knew all along about the poisoned food, insists he is ignorant about Arregui's revolution, and is relieved to learn that his mother's health has improved. He arranges to bring groceries back to the cell, claiming the gift will help maintain the charade that he is being visited by his mother. Molina hopes the delicacies will restore Arregui's health.After the feast, Molina finishes telling the story of the movie, and Arregui hears the new prisoner's moans. Looking through the bars of their cell, he sees that the inmate's shroud has been removed, and identifies the captive as Dr. Americo, the man who received his passport. The next morning, Arregui is enraged to learn that Americo was killed, and lashes out at Molina. Later, Molina returns to the cell with more groceries, and Arregui apologizes.In another visit to the warden, Molina insists he is making progress, but continues to conceal the names Arregui provided. Hoping to secure his own emancipation, Molina argues that Arregui will reveal his secrets if he knows they will part ways, and the warden grants him parole in 24 hours.Back in the cell, Molina despairs his release, claiming that he will remain spiritually imprisoned in a society that castigates his sexual orientation. Arregui consoles his friend, and asks to hear the story of another movie. Molina narrates the cinematic tale of a woman (Sonia Braga in her third role) who is trapped on a desert island, entangled by a spider web that grows from her body. One day, a man washes ashore, and she nurses him back to life. Explaining that the heroine is anguished by desire, Molina admits his love for Arregui. The revolutionary wishes to express gratitude for Molina's compassion, and fulfills his longing to make love.The next day, Molina does not want to leave, but Arregui sees his liberation as an opportunity to communicate with the revolution, and asks him to deliver a telephone message. Molina refuses, and requests a parting token of tenderness that they did not share the night before: A kiss. Arregui begs Molina to stand up for himself in the outside world, and to never submit to degradation. Molina vows to make the call, and they kiss. As Molina bids his beloved farewell, Arregui whispers a telephone number and message in his ear.Molina returns home and visits his mother (Miriam Pires) who is happy to see him home. Over the next few days, Molina makes a tepid reentry into civilian life, unaware that he is being followed by Pedro, the warden's henchman. A few days later, Molina makes the phone call, and is ordered by the unseen person over the phone to meet the revolutionaries in person. He hesitantly agrees, despite the danger, and plans to disappear afterward. Molina clears his bank account, and asks a friend to deliver the package of cash to his mother.In a crowded city plaza, Molina heads to the meeting place and realizes he is being trailed by Pedro. As he approaches the revolutionaries' car, a young woman (Ana Maria Braga) introduces herself as Arregui's girl friend, Lidia. However, she sees Pedro and incorrectly suspects Molina of being an informant. Lidia shoots Molina in the chest. While the rebels speed away, Pedro and his men pull Molina into his vehicle and holds him at gunpoint, ordering him to reveal the telephone number, but Molina dies before he can say anything. Molina's dead body is unceremoniously dumped in a back alley trash heap.Back in prison, Arregui is tortured but he continues to refuse to talk. A medic takes pity and secretly injects him with a painkiller. As Arregui loses consciousness and seemingly dies, he is visited by Marta the Spider Woman. She guides him out of the prison, and leads him to the desert island in Molina's imaginary movie."
-],
-"summaries": [
-"A gay man and a political prisoner are together in a prison. The gay man narrates the stories of two fake movies and his own life."
-,
-"Luis Molina and Valentin Arregui are cell mates in a South American prison. Luis, a trans individual, is found guilty of immoral behavior and Valentin is a political prisoner. To escape reality Luis invents romantic movies, while Valentin tries to keep his mind on the situation he's in. During the time they spend together, the two men come to understand and respect one another."
-,
-"Valentin Arregui and Luis Molina are unlikely cell mates in a Latin American prison. Valentin, a journalist, is a political prisoner who was working for a leftist anti-government revolutionary group. While in prison, he is frequently tortured in order to cough up information on those with whom he is working. That includes the new prisoner in the cell across the block from his. Valentin has yet to provide the authorities with any useful information. Molina, a stereotypically gay window dresser, is imprisoned on morals charges: having homosexual sex with a minor. He states that he has no political affiliations. To pass the time, Molina recounts aloud story-lines from his favorite movies, usually those of a romantic nature. The current movie of which he is telling is a wartime romantic thriller, which in reality is a World War II Nazi propaganda film, about which he doesn't care as he focuses on the romance part of the story. Because of the reason for his imprisonment, Valentin doesn't much like that Molina is telling a story produced by a repressive regime, but gets caught up in Molina's story-telling regardless. The unlikely cell mates form an equally unlikely friendship based on their mutual support for each other. Molina later admits that he has fallen in love with Valentin. What Valentin does not know is that Molina has been co-opted by the prison warden and the secret police to befriend Valentin so that he can get information on and report back to them about the leftist group with which Valentin is working. Molina's reward is early parole. The question becomes on whose side is Molina really supporting if either."
-,
-"A gay and a political prisoner are in a prison. Gay narrates the story of an imaginary movie to the other, in spite his bad interest. He narrates the stories of two different movies mixed with his own life story. The story narration soon becomes a medicine for their loneliness, sadness and pain.A gay and a political prisoner are in a prison. Gay narrates the story of an imaginary movie to the other, in spite his bad interest. He narrates the stories of two different movies mixed with his own life story. The story narration soon becomes a medicine for their loneliness, sadness and pain."
-,
-"In a prison cell somewhere in Latin America, two very different men warily confront each other. Molina is first seen wrapping his head in a towel, in the shape of a turban, while Valentin, bearded and classically macho in appearance, watches with a mixture of fascination and revulsion. During the time spent together, the two men come to understand and respect each other."
-]
-}
-}
-,
-{
-"_index": "movies",
-"_type": "docs",
 "_id": "kC_NAIUBmFo8GYv0bogy",
 "_score": 10.222271,
 "_source": {
@@ -772,39 +642,6 @@
 "synopsis": [ ],
 "summaries": [
 "Ever have an identity crisis? Tell a little white lie here and there, just to make everyone happy? Well, Alex Houston has got you beat, hands down. After telling her fiancé, Dana, that her entire family is dead, Manhattanite Alex whisks off to her childhood home in South Carolina to serve as bridesmaid at her high-maintenance, estranged sister Jeannie's wedding. As she tries not to steal Jeannie's thunder by telling her family that a) she's engaged, and b) the man she's going to marry is a Jewish African American, things get a little mixed up. For starters, Alex's sharp-tongued, mischievous best friend Jonathan unwittingly starts a rumor at the wedding that Alex is gay and Dana is a woman. When her family reacts in a surprisingly supportive way, Alex decides to go with it. It's easier than telling the truth, right? But when Alex and Jonathan decide to hire sexy lesbian Risa to act as her lover when Jeannie comes to visit Alex in New York, things really start to get out of hand. Director Lee Friedlander follows up her award-winning 2004 film "Girl Play" with this witty, farcical romp that explores the sometimes comically bumbling way in which we come out to the people we love - whether we're gay or straight. As she becomes increasingly entangled in her web of lies, Alex struggles to come to terms with her fiancé, her family and most of all herself along the way."
-]
-}
-}
-,
-{
-"_index": "movies",
-"_type": "docs",
-"_id": "hC_NAIUBmFo8GYv0bnIq",
-"_score": 10.183567,
-"_source": {
-"title": "Cannonball",
-"year": 1976,
-"genders": [
-"Action"
-,
-"Comedy"
-,
-"Crime"
-],
-"score": 5.5,
-"directors": [
-"Paul Bartel"
-],
-"writers": [
-"Paul Bartel"
-,
-"Don Simpson"
-],
-"synopsis": [
-"Coy "Cannonball" Buckman is a race driver-turned parolee, who signs on to compete in the Trans-Continental Road Race, a cross-country journey starting at the Santa Monica Pier and ending at a garage in New York City. This does not sit well with Coy's parole officer girlfriend Linda Maxwell, who is legally responsible for him and he could go back to prison for violating his parole. Fixing up Coy's red Pontiac Trans Am is his loyal pal Zippo Friedman, who decides to enter the race himself in a identical Trans Am and even dressing up like Coy to fool the cops. Coy's rival is Cade Redman, an embittered fellow racer, who is also tasked to take no-talent country singer Perman Waters and his mother Sharma Capri to New York to jump-start Perman's stalled career.Other participants in the race is eccentric European racing champ Wolfe Messer, driving a yellow DeTomaso Pantera, Jim and Maryann Crandell, a surfer couple racing in a silver Corvette owned by her father. Terry McMillan, who sheepishly uses sneak tactics to make it to New York without driving his orange Chevorlet Blazer, Beutell Morris, who uses the race as a ruse to help a rich couple deliver their Lincoln Continental to New York without a single scratch, and Sandy, driving a custom blue van with her two waitress friends, Judy and Ginny. What Coy does not know is that his gambler brother Bennie made a deal with mob boss Lester Marks to make sure Coy wins the race as Bennie is in heavy debt to them.Linda has no choice but to accompany Coy in the race, but eventually decides to leave her in Zippo's company, when Redman starts trying to run him off the road. Not long after, the dirty tricks begin to come into play: Bennie, with the help of his prison escapee friend Sharpe, secretly planted a bomb under Messer's Pantera, which explodes during a police pursuit in the desert and Redman shoots out a tire in Coy's Trans Am. He later beats up Sharpe, posing as a motorcycle cop pretending to stop Coy on a routine traffic stop, and confronts Redman at a roadside grocery store, where they wreck the entire establishment. Redman escapes the melee and shatters the headlights on Coy's car before taking off. That night, Coy notices the broken headlights and winds up totaling his car on a winding mountain road, but not after being loaned a green Ford Mustang by a pair of rural auto mechanics, who are big fans of him.Redman gets word that Coy is still in the race and is forced to call in more reinforcements to stop him. They mistake Zippo as Coy and beat him to a pulp, with Linda defeating most of the men with judo and karate moves. Coy shows up and learns from Linda that Zippo was actually driving the car that night when a young girl died, resulting in Coy's prosecution. Coy tells Linda that he took the fall for it because Zippo would have never survived in prison. Linda wants to ride with Coy again, for fear of her safety, but Coy says the race is almost over and they will be together soon. Other sub-plots include Jim's Corvette suffering from a damaged fan belt and after unsuccessful attempts to repair it, they try to steal one from a supermarket parking lot, only to be chased away by a suspicious cop and Sandy and her friends duping a pair of handsome patrolmen by having sex with them to avoid a speeding ticket.At this point, a half-crazed Redman notices Coy driving into the construction site of an unfinished bridge. He dumps Perman and Sharma out of the car and speeds after him. Coy manages to jump the bridge to the other side, but Redman's brakes give out and pummels down to a fiery death. Meanwhile, Sharpe plans to assassinate Coy using a sniper rifle, not knowing it is actually Zippo driving the car. Sharpe shoots Zippo through the head and loses control of the Trans Am, ejecting Linda in the process, and explodes. Beutell, distracted by the explosion, accidentally knocks down the car Sharpe was laying under, fatally crushing him. Jim and Maryann spot Linda lying on the road and to take her to a nearby hospital, but not after unintentionally causing a multi-car pile-up. At the hospital, the doctor tells them she will be okay and Jim thinks they should forget about the race and go home, but Maryann still wants to push forward, even though they might not win first place.Terry and his girlfriend Louisa are the first ones to arrive at the finish line, but are disqualified when she blabs that they left their celebratory champagne on the plane. The second one to arrive is Coy, who is greeted by Bennie, but the victory is cut short when a TV cameraman tells Coy about the pile-up, the other red Trans Am destroyed in the explosion, and that Linda was taken to the hospital. Coy learns the truth about the plan Bennie had all along, rips up his race ticket, and heads for the hospital, as a disappointed Lester and his bodyguard escort a doomed Bennie to Lester's limo, as Jim and Maryann arrive and end up the official winners of the race. At the hospital, Coy rushes to Linda's room and is relieved to see her alive, but badly injured, and the two lovingly embrace, as Beutell eventually delivers the now-wrecked Lincoln to the couple standing outside a downtown hotel."
-],
-"summaries": [
-"Racing across the country from L.A. to New York, a plethora of exotic cars carry contestants hoping to win a very large sum."
 ]
 }
 }
@@ -1007,39 +844,6 @@
 "In Manhattan, the brilliant Chinese-American lesbian surgeon Wil is surprised by the arrival of her forty-eight year old widow mother to her apartment. Ma was banished from Flushing, Queens, when her father discovered that she was pregnant. The presence of Ma affects the personal life of Wil, who is in love with the daughter of her boss at the hospital, the dancer Vivian Shing. Once her grandfather has promised that her mother would only return to Flushing remarried or proving that it was an immaculate conception, Wil tries to find a Chinese bachelor to marry Ma."
 ,
 "A Chinese-American surgeon, living in Manhattan, is shocked when her single mother shows up on her doorstep pregnant. To help her mom save face and avoid the taboo in the Chinese community of an unmarried woman pregnant, the doctor helps her mom find Mr. Right. Cultures clash in this film that explores culture shock."
-]
-}
-}
-,
-{
-"_index": "movies",
-"_type": "docs",
-"_id": "KS_NAIUBmFo8GYv0bmwi",
-"_score": 9.573886,
-"_source": {
-"title": "The High and the Mighty",
-"year": 1954,
-"genders": [
-"Action"
-,
-"Adventure"
-,
-"Drama"
-],
-"score": 6.7,
-"directors": [
-"William A. Wellman"
-],
-"writers": [
-"Ernest K. Gann"
-],
-"synopsis": [ ],
-"summaries": [
-"When a commercial airliner develops engine problems on a trans-Pacific flight and the pilot loses his nerve, it is up to the washed-up co-pilot Dan Roman to bring the plane in safely."
-,
-"On a flight from Hawaii to California, the engine dies on the plane Dan is flying. As he prepares for a crash landing, the passengers reassess their lives. The template for disaster movies with an Oscar-winning score and a cast list that reads like a who's who of 1950s film."
-,
-"One disaster after another happens on this trans-Pacific flight. You have the pilot who loses his nerve! The washed-up co-pilot. The milquetoast flight engineer. The young hot shot second officer. And a cabin full of passengers with every range of problems and personalities there could possibly be. Here you have the Duke in a role he didn't want, and a movie with the title song that became Duke's theme. What else could any John Wayne fan want? It's all here, and then some."
 ]
 }
 }
@@ -1344,43 +1148,6 @@
 {
 "_index": "movies",
 "_type": "docs",
-"_id": "8S_NAIUBmFo8GYv0bnIq",
-"_score": 8.523558,
-"_source": {
-"title": "Herbie Goes to Monte Carlo",
-"year": 1977,
-"genders": [
-"Action"
-,
-"Adventure"
-,
-"Comedy"
-],
-"score": 5.6,
-"directors": [
-"Vincent McEveety"
-],
-"writers": [
-"Arthur Alsberg"
-,
-"Don Nelson"
-,
-"Gordon Buford"
-],
-"synopsis": [
-"Herbie, the living #53 Volkswagen Beetle automobile with a human personality, arrives in Le Havre, France with Herbie's owner and driver, Jim Douglas (Dean Jones), and mechanic, Wheely Applegate (Don Knots). They drive to Paris for the Trans France Race Exposition, where Herbie is dismissed by the crowd and ridiculed by rival driver Bruno von Stickle (Eric Breaden). Wheely, however, is confident that they can win despite Herbie not having raced in 12 years.Meanwhile, Monsieur Ribeaux places a $6 million diamond on display at a nearby museum. It is protected by a security system, but two thieves, Max (Bernard Fox) and Quincey (Roy Kinnear), hide in the museum and contrive to steal the diamond. The museum's alarm sounds and the thieves escape into the crowd at the exposition, where Max slips the diamond into Herbie's fuel tank and plans to retrieve it later. Inspector Bouchet (Jacques Marin) and his assistant, Det. Fontenoy, interview Ribeaux and check the scene for clues.Later, during a qualification heat at a racetrack, Herbie acts strangely after falling in love with another car, a Lancia named Giselle. Giselle's driver, Diane Darcy (Julie Sommers), takes an instant dislike to Jim and thinks he has a bias against female race car drivers. After the qualifying runs, the cars are put on display in a building on the Avenue Champs-Élysées.During a presentation, Max and Quincey turn off the lights to retrieve the diamond, but Herbie, having spotted Giselle outside, slips away undetected. In front of a café, Herbie flirts with Giselle, causing a waiter to think he is seeing things. Herbie catches a glimpse of himself in a mirror and notices that he is covered in oil, so he takes a shower in a fountain, picks a bouquet of flowers for Giselle and leads her to frolic in a park and along the Seine River. Diane is incensed to discover that her car has disappeared and is not surprised to find that Herbie is involved. Diane, Jim, and Wheely find Herbie and Giselle taking a romantic cruise on the river.Back at their hotel, Jim and Wheely are questioned by Bouchet and Fontenoy. Outside, Max and Quincey attempt to retrieve the diamond, but Herbie eludes them. The next day at the racetrack, during the second round of qualifying, Herbie can only focus on Giselle. However, in showing off, the Volkswagen sets a course record and qualifies for the Trans France race. Giselle also wins her heat and ties Herbie's record.Afterward, Jim tries to explain to Diane that the cars have fallen in love, but she thinks he is crazy. Later, on the highway, Max and Quincey attempt to pull Herbie over at gunpoint, resulting in a chase through a gypsy camp. Herbie escapes, but Wheely and Jim suspect Diane and accuse her of hiring thugs to knock them out of the race. When confronted at her hotel, she reacts by hurling a vase at Jim's head. Max calls his boss, Double-X, who is actually Inspector Bouchet, to tell him that they have encountered complications and lost Herbie. However, Jim and Wheely walk into Bouchet's office during the call and ask that Herbie be protected for the night. Bouchet volunteers to personally look after Herbie, but the enthusiastic Fontenoy drives off in the car, promising to hide it where no one can find it.The next day, as the race from Paris to Monte Carlo, Monaco, is about to begin, Fontenoy and Herbie have still not arrived. As they wait for the start, Diane and Jim trade apologies and wish one another luck. When Giselle refuses to start because she misses Herbie, Wheely and Jim tell her that the Volkswagen is a cad and she should forget about him; when the race begins, the Lancia joins the other cars.Shortly after, Fontenoy arrives with Herbie, secured in an armored truck. Max and Quincey, posing as fuel attendants, wait for Herbie to fill up his tank so they can recover the diamond. However, Fontenoy filled him up earlier and Herbie is ready to belatedly join the race. To get him started, Wheely tells him that Giselle has jilted him and the little car takes off in a huff, quickly making up ground. Fontenoy senses something is wrong and suggests that Bouchet should search Herbie, but the inspector tells him they will have to wait until the end of the race. Bouchet instructs Max and Quincey to get the diamond in Monte Carlo. Fontenoy, thinking he is helping, spoils the plan by asking the officials in Monte Carlo to search Herbie upon arrival.Back in the race, Herbie catches Bruno von Stickle, who runs him off the road and into a pond, but Herbie battles back and causes Von Stickle to spin out. As the racers reach the Alps, Max and Quincey take a helicopter into the mountains and alter a road sign so that Herbie takes a wrong turn down a dirt road. Lost, Jim stops to consult a map and Wheely yodels for help triggering an avalanche. As they outrun the rocks, Max and Quincey await, armed with guns. Herbie squirts them with windshield wiper fluid and Wheely yodels, causing another avalanche and allowing the Volkswagen to escape to the race. Herbie makes up lost ground and catches Von Stickle, but has engine trouble and the team is forced to pull over. Wheely reaches into the fuel tank and discovers the diamond. Max and Quincey arrive by helicopter and demand he hand over the jewel. A fistfight ensues and Jim and Wheely tie up their assailants with rope.Back in the race, Herbie passes every car except Giselle, who has swerved off the road into a lake. Jim wants to stop, but Wheely and Herbie wish to continue until Jim confesses that Wheely lied about Giselle jilting Herbie; the Volkswagen makes a u-turn and pulls Giselle and Diane from the lake. Herbie does not want to leave Giselle, but Diane convinces him to return to the race. As the team leaves the mountains and enters Monte Carlo, Herbie catches the lead cars and passes them one by one through the winding streets. In the final tunnel, Herbie passes Von Stickle by driving upside-down on the ceiling. Herbie, Jim and Wheely cross the finish line and celebrate their victory. Bouchet arrives to congratulate them, but before Jim can hand over the diamond, Fontenoy inadvertently unravels the caper, revealing that Inspector Bouchet was the mastermind, Double-X. Bouchet pulls a gun and seizes the diamond, but Herbie apprehends him by rolling onto his foot.That night, Jim and Diane leave the Trans France Race gala, only to find Herbie has been "stolen" by Giselle. Jim asks a taxicab driver to take them to the most romantic spot in Monte Carlo. At the waterfront, Jim and Diane join Herbie and Giselle, along with Wheely and a female admirer, as they enjoy a fireworks show."
-],
-"summaries": [
-"Herbie, the Volkswagen Beetle with a mind of its own, is racing in the Monte Carlo Rally. Unbeknownst to Herbie's driver, thieves have hidden a cache of stolen diamonds in Herbie's gas tank, and are now trying to get them back."
-,
-"Race car driver, Jim Douglas goes to Monte Carlo to enter his car, Herbie, in the Monte Carlo rally. When they get there, Herbie falls for another driver's car and Jim falls for the driver Diane, who thinks he's weird. But what they don't know is that a pair of thieves who stole a very valuable diamond, hid it in Herbie's gas tank. And the thieves try to get it back."
-]
-}
-}
-,
-{
-"_index": "movies",
-"_type": "docs",
 "_id": "by_NAIUBmFo8GYv0bocx",
 "_score": 8.460446,
 "_source": {
@@ -1399,43 +1166,6 @@
 "synopsis": [ ],
 "summaries": [
 "'29th and Gay' is the movie for the gay everyman. Following a year in the life of James Sanchez, it's a story about a guy rapidly approaching 30 who doesn't have a six-pack, full head of hair or boyfriend. While his best friend, actress-turned-activist Roxy, struggles with showing him that there's life beyond the glitz of the disco ball, his other friend Brandon, comfortable in his own gay skin, works on getting him to at least talk to a guy. Feeling out of place in the world of circuit boys and caught between his Hispanic-American heritage and his gayness, he finds his true place in the world as he realizes that life is the journey, not the destination."
-]
-}
-}
-,
-{
-"_index": "movies",
-"_type": "docs",
-"_id": "ay_NAIUBmFo8GYv0bo00",
-"_score": 8.425999,
-"_source": {
-"title": "In the Loop",
-"year": 2009,
-"genders": [
-"Comedy"
-],
-"score": 7.4,
-"directors": [
-"Armando Iannucci"
-],
-"writers": [
-"Jesse Armstrong"
-,
-"Simon Blackwell"
-,
-"Armando Iannucci"
-],
-"synopsis": [
-"IN THE LOOP is a foul-mouthed comedy that draws on non-specific events to create a world that is terrifyingly familiar: The US President and UK Prime Minister fancy a war, but not everyone agrees that war is a good thing. US General Miller (James Gandolfini The Sopranos, The Taking Of Pelham 123) certainly doesn't think so and neither does the British Secretary of State for International Development, Simon Foster (Tom Hollander Pirates of the Caribbean, Pride and Prejudice). But when the mild-mannered minister inadvertently appears to back the war on prime-time television, he immediately attracts the attention of the PMs venomously aggressive communications chief Malcolm Tucker (reprised from The Thick of It by Peter Capaldi), who latches onto him like a hawk. Soon, the Brits are in Washington, where diplomatic relations collide with trans-Atlantic spin doctors and Fosters off-hand remark quickly spirals into an insurmountable mountain of conflict. [D-Man2010]"
-],
-"summaries": [
-"A political satire about a group of skeptical American and British operatives attempting to prevent a war between two countries."
-,
-"The US President and UK Prime Minister fancy a war. But not everyone agrees that war is a good thing. The US General Miller doesn't think so and neither does the British Secretary of State for International Development, Simon Foster. But, after Simon accidentally backs military action on TV, he suddenly has a lot of friends in Washington, DC. If Simon can get in with the right DC people, if his entourage of one can sleep with the right intern, and if they can both stop the Prime Minister's chief spin-doctor Malcolm Tucker rigging the vote at the UN, they can halt the war. If they don't... well, they can always sack their Director of Communications Judy, who they never liked anyway and who's back home dealing with voters with blocked drains and a man who's angry about a collapsing wall."
-,
-"With tensions rising in the Middle East the bumbling UK Minister for International Development, Simon Foster, says in a radio interview that war is "unforeseeable". The media leap on this as a sign that the UK government is in favour of going to war with the country in question. This also brings Foster to the attention of hawks and doves in the US government with both sides wanting to use him to justify their agenda. Foster sets off for Washington, watched closely by the UK Prime Minister's fire-breathing Director of Communications, the irascible, uber-intense, expletive-spewing Malcolm Tucker."
-,
-"The British Prime Minister and the US President infer that they want to embark on a war in the Middle East. Simon Foster, the British Minister for International Development, states off the cuff in a radio interview that "war is unforeseeable". He later tries to recant this statement to a hoard of news reporters with another statement: "to walk the road of peace, sometimes we need to be ready to climb the mountain of conflict". Both these remarks start a series of manoeuvrings on both sides of the Atlantic by both the pro- and anti-war factions in both governments. On the British side, Malcolm Tucker, the foul-mouthed communications manager, sends Foster back to deal with the mundane details of constituent complaints, a process at which he is equally inept. On the US side, US Assistant Secretary for Diplomacy Karen Clarke and US Lieutenant General George Miller lead the anti-war faction, against chief warmonger Linton Barwick, the US Assistant Secretary for Policy. Each, with his/her entourage of staff, some of whom do not agree with their political master, will do whatever he or she needs to to achieve the desired end goal. This includes having fake meetings, having fake committees, spinning information, leaking information and documents, and doctoring documents. These manoeuvrings are most important in the lead up to the UN vote on the issue."
 ]
 }
 }
@@ -1480,154 +1210,6 @@
 {
 "_index": "movies",
 "_type": "docs",
-"_id": "DC_NAIUBmFo8GYv0bnQr",
-"_score": 8.159142,
-"_source": {
-"title": "The Hunter",
-"year": 1980,
-"genders": [
-"Action"
-,
-"Biography"
-,
-"Comedy"
-],
-"score": 6.2,
-"directors": [
-"Buzz Kulik"
-],
-"writers": [
-"Ted Leighton"
-,
-"Peter Hyams"
-,
-"Christopher Keane"
-],
-"synopsis": [
-"Ralph "Papa" Thorson (Steve McQueen) is a modern day bounty hunter who hunts down and captures criminals who have skipped on their bail to bring them back for a 20% of the reward to his bailbondsman employer. It is revealed in the opening text that Thorson has has apprehended more than 5,000 criminals and bail jumpers and life is just getting complicated for him.In the opening scene, Thorson arrives in a small, African American town in Texas where despite being a terrible driver of cars (a running joke used throughout the film), he captures fugitive Tommy Price (LaVar Burton) for fleeing on his bail. Next, Thorson drives to another small Texas town where he is to bring in a dangerous punk, named Billie Joe, whose kinfolk include Sheriff Strong, a redneck lawman who warns Thorson not to get involved. Papa ignores him and ends up in a violent fight with the fugitive, who is so huge, even a Taser barely stops him.Thorson drives both Tommy Price and Billie Joe back to Los Angeles where he collect his $1,800 reward for bringing them back. However, Thorson vouches for Price, and thus soon after becomes one of his many acquaintances who hang out at Thorson's house.At home, Thorson is revealed to be an old-fashioned guy who has a love of antiques and classical music, drives a 1950s convertible and keeps an antique gasoline pump in his house. His schoolteacher girlfriend Dotty (Kathryn Harrold) is pregnant and would like "Papa" to be there for her when the baby is born, but his work continually keeps him on the road.Thorson works for elderly and veteran bailbondsman Ritchie Blumenthal (Eli Wallace) who sends him out on dangerous assignments to chase down fugitives in all parts of the USA. However, Throson himself is pursued by a psychotic killer who was one of Thorson's former convicts, Rocco Mason (Tracey Walter) who begins stalking Thorson at his home and begins following Dotty around as well.Thorson's adventures continue when he is sent to rural Nebraska to bring back two fugitives, called the Branch Brothers. He flies out to Nebraska, rents a fancy 1979 Pontiac Trans Am car and drives to the Branch farmhouse where the two psycho brothers steal his car and try to kill him with dynamite. Thorson commandeers a crop cutter machine and chases after the two Branch Brothers through a cornfield which ends when a stick of dynamite dropped by them blows up their car, but they both survives. Thorson arrives back at the local airport to deliver back the destroyed Trans Am and bring the Branch Brothers on the plane back to L.A.Meanwhile, Rocco Mason begins terrorizing Dotty at her workplace which leads Thorson to try to protect her, but she instead tries to make him give up his bounty hunter way of life and to take her to a Lamaze class. Thorson grows tired of it and Dotty threatens to leave him due to his uncertain feelings towards being there for her.When Thorson's police friend Captain Spota (Richard Venture) commits suicide after he is investigated for illegal use of police funds and embezzlement, Thorson goes into a further decline.Blumenthal next sends Thorson to Chicago to pick up fugitive Bernardo (Tom Rosales) a dangerous ex-con which leads to a long chase sequence as Thorson and Bernardo exchange gunfire with each other at an apartment building. Thorson chases Bernardo on foot through the streets and to an elevated train where Thorson is forced to climb on the roof of the train to avoid getting shot at. The chase leads to a high-rise tower where the both steal cars and chase each other to the top level the parking garage, where the psychotic fugitive drives off the edge and plunges several stories into a river to his apparent doom.After returning to Los Angeles that evening, Thorson learns from Price that Dotty has been kidnapped by Rocco Mason and is holding her at the high school where she teaches. Thorson arrives when Mason attempts to kill him with an M-16 assault rifle. Unarmed after being deprived of his weapon, Thorson lures Mason into one classroom where he floods the room with flammable gas where once Mason opens fire, the sparks ignites the gas and blows up the room with Mason in it.Having delt with Mason, Thorson immediately needs to rush Dotty to the hospital when she begins to go into labor. Despite being a terrible driver, he manages to get to the hospital where he collapses exhausted in the lobby area. He comes to in the final scene to walk back outside where Dotty has given birth and he holds his new baby."
-],
-"summaries": [
-"Bounty hunter Ralph "Papa" Thorson is receiving death threats from a criminal he helped put away. This while his girlfriend is about to give birth, an event he isn't looking forward to."
-,
-"In order to track down bail jumpers, Ralph 'Papa' Thorson goes on a series of routine and not-so-routine searches. Sometimes he takes down his quarry easily. At other times, he's forced to extreme measures which result in the injury or death of a lawbreaker. And then again, there are other moments when his own life is on the line. It's all enough to make Thorson question what he has done with his life."
-,
-"Bounty hunter Ralph "Papa" Thorson is receiving death threats from a criminal he helped put away. This while his girlfriend is about to give birth, an event he isn't looking forward to. Meanwhile, he has his job to do and this involves bringing in some tough characters."
-,
-"Biography depicting real-life bounty hunter Ralph "Papa" Thorson and his exploits of bringing criminals to jail who jumped bail. He also has a pregnant girlfriend who's expecting a child soon. Subplot involves an old enemy seeking revenge at Thorson for bringing him to jail."
-]
-}
-}
-,
-{
-"_index": "movies",
-"_type": "docs",
-"_id": "Uy_NAIUBmFo8GYv0bnUr",
-"_score": 8.159142,
-"_source": {
-"title": "Smokey and the Bandit Part 3",
-"year": 1983,
-"genders": [
-"Action"
-,
-"Comedy"
-,
-"Crime"
-],
-"score": 3.5,
-"directors": [
-"Dick Lowry"
-],
-"writers": [
-"Stuart Birnbaum"
-,
-"David Dashev"
-,
-"Jackie Gleason"
-],
-"synopsis": [
-"As is the case with the two preceding 'Smokey and the Bandit' films, Smokey and the Bandit Part 3 begins with Big Enos (Pat McCormick) and Little Enos (Paul Williams) offering a sizeable wager on one's ability to transport a shipment a large distance in a short period of time. Offering a slight twist, however, the offer is this time made to a retiring Sheriff Buford T. Justice (Jackie Gleason), betting $250,000 against his badge on his ability to transport a large stuffed fish from an eatery in Florida to Texas.Unlike the two earlier films, Big and Little Enos this time seem to be quite active in their desire to see Buford fail in his goal. After Buford dodges their many traps (especially after he destroyed their milk truck, which drenched them and disabled their engine), they then go so far as to actually attempt to hire the Bandit (as a distraction) to stop him. Deciding that the Bandit is too egotistical and hard to manage, they hire Cledus "Snowman" Snow (Jerry Reed) as his replacement. Accepting the offer, Cledus parks his Peterbilt 359 and climbs behind the wheel of a black and gold 1983 Pontiac Trans Am.He later picks up Dusty (Colleen Camp), who quits her job as a "bookkeeper" for a used car dealership, but not before attempting to wreck her boss' business (a seedy used car dealership) by badmouthing him in the middle of broadcasting a live TV commercial.The scene of Cledus picking up Dusty in the middle of the road is almost an exact repeat of how Bo picked up Frog in the 1977 film. Cledus manages to catch up with Buford on an interstate, where he then lassoes Buford's fish off of the Justices' police cruiser; Buford needs the fish to retrieve his $250,000. Buford then begins a hot pursuit of Cledus, with another local officer who attempts to take charge of the situation. Not long after the local officer is disabled, Buford becomes disabled as well when sand is dumped on his squad car.The pursuit quickly resumes as Buford catches up to the duo after Cledus and Dusty stop at a redneck bar to pick up some food. The chase resumes as they enter a local town, where mass chaos comes with their entry. Cledus escapes when an 18 wheeler blocks the alleyway where Cletus run through. While trying to get the truck out, Buford's car is hitched to a tow-truck. After unsuccessfully pleading with the traffic officer to release his car, he sends his son Junior (Mike Henry) out to unhook it. Unable to wait, he angrily reverses the car and escapes. The tow truck operator chases him in pursuit, with Junior dangling on the hook, spinning freely. Eventually, Buford manages to make the truck flip over, sending the truck and Junior flying. A number of cars continue to crash into the pile-up. The next scene comes sudden as the Bandit and Justice are in the Mississippi fairgrounds. Buford continues to pursue on two wheels after driving on an incline with Cledus letting the fame get to his head.Cledus and Dusty decide to stop at a hotel for the night, which contains people who are involved in "sexual" acts, several of which are quite deviant. Buford finds the Bandit's Trans Am and decides to make a search of the building to find the fish, which he eventually does. While searching in the steamroom, Buford handcuffs himself to a muscular nymphomaniac female who will not take no for an answer.The next final scenes show Buford getting his tires blown by the "Enos Devil Darts." Cledus quickly arrives and retakes the fish. Cledus and Justice then start a final pursuit with Buford on two tires, first through a bunch of cattle, then to boats, then finally through a field where the Enoses set off a series of explosives, one of which destroys all of the bodywork, leaving the engine, seats, and police light bar (being held by Junior above his head). Cledus decides to surrender the fish to let Buford win. Just after cashing in on the $250,000, Buford finds Cledus and begins to apprehend him, but Buford then imagines Cledus to be the "Real" Bandit (in a cameo appearance by Burt Reynolds) who sweet talks him to letting him go and starting a new pursuit. Similar to the ending of the 1977 movie, Buford is again chasing the Bandit in the hulk of his police cruiser (the muscular female has taken Junior's place riding shotgun this time), while Junior chases after "Daddy" for miles on end, dropping the reward money as he goes."
-],
-"summaries": [
-"Big and Little Enos are opening a sea food restaurant. They bet Sheriff Buford T. Justice that he cannot drive from Miami to the Enos ranch in Texas in a given amount of time. If Buford loses he has to give up his badge."
-,
-"Big Enos and Little Enos have opened a seafood restaurant and want to promote it in their usual fashion. The Bandit is unavailable this time, though, so they enlist Buford. "Trigger" is brought out of mothballs, a large fish is strapped to the roof of the car, and the new Bandit is on his way on another wild cross-country run. But where there is the Bandit, there is Sheriff Buford T. Justice."
-]
-}
-}
-,
-{
-"_index": "movies",
-"_type": "docs",
-"_id": "ES_NAIUBmFo8GYv0boky",
-"_score": 8.154881,
-"_source": {
-"title": "Eastern Promises",
-"year": 2007,
-"genders": [
-"Crime"
-,
-"Drama"
-,
-"Thriller"
-],
-"score": 7.6,
-"directors": [
-"David Cronenberg"
-],
-"writers": [
-"Steven Knight"
-],
-"synopsis": [
-"The film begins on a rainy night in London. A young Turkish youth named Ekrem (Josef Altin) walks into Azim's barber shop, where Azim (Mina E. Mina) is cutting the hair of Soyka (Aleksandar Mikic) a Russian man. Ekrem locks the door, closes the shades, and changes the sign from open to closed. He is Azim's nephew and is introduced to Soyka, but he gets extremely nervous. Azim gives his nephew a razor blade, and urges him to follow through on their plan. Soyka realizes whats going on, and tries to leave but is held down. Ekrem slits Soyka's throat, causing him to suffer painfully before he dies.Elsewhere, a dazed young Russian girl named Tatiana (Sarah-Jeanne Labrosse) walks barefoot into a convenience store and asks for help. The clerk assumes that she's a drug seeker, and then blood starts to flow down her legs. Tatiana collapses, and is taken to the hospital. The doctors see that she's pregnant, and perform surgery to save the baby. Tatiana dies, while the baby lives. A nurse, Anna (Naomi Watts), announces the death and looks after the baby. Anna goes home and gets some sleep. She lives with her mother Helen (Sinead Cusack) and her Russian uncle Stepan (Jerzy Skolimowski).On Christmas day, Helen wakes up Anna for breakfast. Stepan is reading a diary in the dining room, and asks her where she got it. Anna says that she took it off of the dead girl. He says that she's stealing from the dead, and that the dead girl's secrets should be buried with her. She wants him to translate the diary, since its in Russian, but he refuses. While skimming through the pages, Anna comes across a business card for a Trans-Siberian restaurant.Anna rides her motorcycle to the restaurant, and parks in front. Nikolai (Viggo Mortensen) and Kirill (Vincent Cassel) walk through an alley, joking around, when they see Anna securing her (Russian) Ural motorcycle. They both eye her, and then Kirill orders Nikolai to retrieve Azim and his wife, and bring them to the restaurant. Nikolai drives off, and Kirill enters the restaurant. Anna knocks on the door, and its answered by the manager Semyon (Armin Mueller-Stahl), who's also Kirill's father. Semyon tells Anna that the restaurant is closed, but she tells him that she's a midwife and wants to speak to him about Tatiana. He allows her to enter after she tells him her last name, and they walk through the restaurant while Anna notices that all the workers are getting ready for a big party (while also noticing Kirill drinking at the bar). Semyon notices a couple of little girls playing the violin, but he tells them to be better and shows them by playing a tune. Anna shows Semyon the business card, and he tells her that it's an old one, and that he doesn't know Tatiana. She might have just eaten there once and liked the food, which Semyon has Anna taste. Anna wishes to find out where Tatiana's family lived, but he claims he doesn't know. He's sorry that he couldn't be of more help, and she tells him that she'll probably find out more when she gets her diary translated. Semyon volunteers to translate the diary himself, and tells her to bring it to him tomorrow night. Before she leaves, Semyon makes sure he knows where she works.Outside, Nikolai pulls up to the restaurant with Azim and his wife. He stays outside by his car, which is parked right next to Anna's motorcycle. Anna comes out and he compliments her on the motorcycle. She says that it belonged to her father, and he asks if she'd be interested in selling it. She says that it holds sentimental value to her, and then he asks if she's going to stay for the party. She says no, and since Nikolai is not allowed inside because he's just a driver, he asks her if she wants to go get a drink. She speeds off without answering him.That evening, Anna is back home and eats dinner with Helen and Stepan. Stepan gets a bit drunk, and asks how long she's going to stay with them. Helen gets after him, and tells Anna that she can stay as long as she likes. Anna just broke up with her boyfriend, which is why she's living with them. Stepan voices his disdain for her boyfriend, since he's black, and says that interracial couples shouldn't be together. He then says that's probably why Anna's baby died inside her, which greatly upsets her as well as angers Helen.Meanwhile, back at the restaurant, everyone is enjoying themselves and drinking when Kirill gets a phone call. He moves to a quieter place to talk, and asks if the coast is clear. The caller tells him that it is, and Kirill signals to Azim that everything's fine. Nikolai drives Kirill and Azim to the barber shop, and Azim wants Nikolai to wait outside. Kirill refuses, since Nikolai works for him and is helpful for the job. They walk inside and are startled by Ekrem, who's ecstatic that he got tickets to a big soccer game. Azim sends him on his way, and assures them that he won't speak about their presence. They go to a freezer, where Soyka's body is. Kirill eats some peanuts and jokes about the frozen corpse, also saying that the man was like a brother to him. Azim tells him to show some respect, but he pulls out an envelope full of cash and says that money is respect (he gives Azim the envelope). Since the body is so stiff, Nikolai asks for a hair dryer. He places the corpse on a table and uses the dryer to thaw the body. He pulls out Soyka's wallet and gives it to Azim. He then has Azim and Kirill leave, since it's going to get a bit nasty. Nikolai puts out his cigarette on his tongue, and then cuts off all the fingers and removes the teeth from the corpse. Nikolai and Kirill drive out to a waterfront, and they throw Soyka's wrapped up body into the river, where it sinks.Anna gets ready for work when Stepan and Helen walk into her room. Stepan tells her to be careful with the diary, since he's read the words rape, prostitute, and needle.Elsewhere, the police have found Soyka's body. The lead inspector goes into a tent to view the body. He sees that Soyka was part of the vory v zakone, a brotherhood of criminals. Each member is tattooed while in Russian prison, with each tattoo having significance. Upon seeing his tattoos, the inspector deduces that he was a captain of the vory v zakone, and that he knelt to no one. Another curious thing that catches his eye is a note inside of Soyka's jacket.Anna goes to Semyon's restaurant, and he's surprised by her coming early. She apologizes, and he welcomes her inside. She has photocopied Tatiana's diary, and gives the pages to Semyon to translate. He asks her where the original diary is, and she tells him that she wants to give it to Tatiana's baby when she's old enough. Semyon says that he broke his own rule; he drank vodka, and so since he's not sober he will translate the diary tomorrow. He asks her where she lives, but she says that she can come by again for the translation. As she leaves, Nikolai pulls up with a very drunk Kirill. Semyon closes the door on them, and Nikolai opens it using Kirill's key. Kirill is so drunk that he can't even stand up, and so he falls on the floor and rests his head on Nikolai's foot. Semyon, disappointed, walks over to Kirill and kicks him a couple of times. Nikolai tries to stand up for him, but Semyon puts him in his place. Nikolai goes outside and hears Anna in the alley, trying to start up her motorcycle. He tries to help her, but finds that the motorcycle is dead. He offers to drive her home, since it's raining outside and Semyon would get after him if he let her walk home.While he drives, Anna asks him if he knew Tatiana. He says that he knows a lot of girls named Tatiana, but no pregnant ones. She then asks if Kirill knew her, and he tells her that he's just the driver. When they pull up to her home, she asks him what he wants in return. Nikolai says that the ride has been a Christmas present, and then leaves.Nikolai and Kirill go to a whorehouse to party. A lot of the girls look underage, but none of the customers care. Kirill is drunk, and licks a girl who's dancing on a pole. He then sits on Nikolai's lap, who's making out with a prostitute. He asks him which one hes going to sleep with, but Nikolai tells him that he'll pick when he's ready. He continues to make out with the prostitute but is interrupted again when Kirill smashes the stereo with a bottle. Kirill wants to make sure that Nikolai's not gay, and says that he's going to watch him have sex with one of the whores. Forced to pick, Nikolai chooses a prostitute named Kirilenko. He has sex with her while Kirill watches, and then when he's done Kirill claps. Nikolai tells him to go away while he changes. Kirilenko sings to herself, and Nikolai asks her what her full name is and where she's from. He gives her a wad of cash and tells her to live longer.While at work at the hospital, Anna watches over the baby, who she has named Christine, and gets emotional thinking about her own dead baby. Semyon surprises her, and when she asks how he got in he says that there are always open doors. She tries to get him to leave, but he says that he has translated the diary. He is most disturbed that Kirill is mentioned several times, including details about some illegal activities he has done. He asks that Anna not go to the police with the diary, claiming that Kirill is a good boy and that he will deal with him on his own. Before he leaves, he looks after Christine and remarks on how perfect she is.Anna goes home, and sees that Stepan is reading the diary out-loud while Helen writes it down in English. The passage details that Kirill threw Tatiana down the stairs and beat her. He tried to rape her, but when he found that he couldn't he wound up beating her some more. Semyon then proceeded to rape her and gave her a bunch of pills afterwards. Semyon is Christine's father. Anna tells them that Semyon translated the diary, and threatened the baby. In return for handing over the diary, Semyon promises to give Anna the address of Tatiana's family. Stepan gets after her for being so foolish, and since the baby is being threatened Helen and Anna agree to make the deal with Semyon.At the restaurant, Nikolai and Kirill receive a shipment of old alcohol in a truck. Nikolai asks where it came from, and Kirill says that if his father agrees, they'll let Nikolai deeper into their family and their business. Semyon appears and gets after Kirill for Soyka's death. Kirill denies having any involvement, but Nikolai tells Semyon the truth (that Kirill paid to have him murdered, and they got rid of the body). Semyon says that if anyone is to be killed, he doesn't want to be the last one to find out. He also mentions that Soyka's brothers might come looking for revenge, but Nikolai says that he will protect Kirill.Meanwhile, Anna, Helen, and Stepan go to a restaurant and drink some coffee. Nikolai walks in and sits down at their table. Stepan says that he used to be with the KGB, and knows how to deal with scum like Semyon. When things cool down, Nikolai asks for the diary (he's been sent by Semyon). Anna slides it across the table, and Nikolai puts it in his jacket. When she asks for Tatiana's address, Nikolai ignores her and walks outside. Anna runs out and demands to know the address. He tells her to forget any of this ever happened, to stay away from people like him, and to go back inside with the good people. Helen comes outside and brings Anna back inside the restaurant. Stepan spits in Nikolai's face, and Nikolai gestures that he's going to kill him via sticking his fingers underneath his throat and pointing at him.Nikolai goes back to Semyon's restaurant, and reads Tatiana's diary. Semyon is happy that he has retrieved it, but is concerned since Stepan has already read the diary, and orders Nikolai to kill him. It's also revealed that Soyka was killed because he was spreading rumors of Kirill being queer (homosexual). Semyon douses the diary with vodka and burns it while Nikolai looks on.Nikolai goes to the hospital and waits for Anna to get off of work. He reveals that he read the diary, and she asks him how he can still do what he's doing and be okay with it. He changes the subject and gives her the address of where Tatiana's family is. He says that its not a good place for a little girl to grow up in, and suggests that Anna just take care of Christine herself.The next day, Ekrem goes to the soccer game and his team loses. While walking down the street with a mob of fans, he stops in a graveyard and pisses on a grave. Two men approach him, one of whom is Soyka's brother, and slit his throat in broad daylight.In back of the restaurant, Semyon meets with Azim, who tells him that Soyka's brother has killed Ekrem. The brother has decided to spare Azim, but in return he must give up Kirill (who ordered the hit on Soyka). Semyon is not pleased with this, but tells Azim to inform the brother that he will do as he is told.A little later, Nikolai stalks Stepan to his home and follows him inside, where it's implied that he kills him.That night, Anna waits outside the restaurant when Nikolai and Kirill pull up. Kirill orders her to go away, and orders Nikolai to stop seeing her. She tells them that Tatiana was just 14-years-old, but Kirill will hear none of it and goes inside. Nikolai tells Anna to go away and not get further involved with trying to learn more about Tatiana. Nikolai then enters the restaurant.As Nikolai and Kirill walk through the kitchen, Kirill mentions that the police raided the whorehouse, and asked for Kirilenko by name. They meet up with Semyon, who tells Kirill to go away while he talks with Nikolai on his own. Kirill, a bit hurt, storms off downstairs to get drunk. Nikolai tells Semyon that he killed Stepan, which pleases him. Afterwards, Nikolai goes downstairs and has a drink with Kirill. He says that Semyon offered him the opportunity to get his star tattoos, and he accepted. Kirill embraces him, and asserts that it was his idea for Nikolai to get the stars (though it's obvious he didn't know until he was told).Later on, several members of the vory v zakone arrive at the restaurant and are greeted by Semyon. Nikolai is seated in front of them wearing nothing but his underwear. The members inspect the tattoos he received while in prison, and review Nikolai's criminal and family history. Nikolai renounces his parents, and is then given the star tattoos on his shoulders and knees.The next day, Azim meets with Nikolai at a bathhouse to discuss some business. He says that it's a preferred meeting place, since everyone can see the tattoos they have. Azim and Nikolai undress and wear towels. Azim excuses himself to use the restroom, and instead starts to get dressed again. Two thugs come in, and Azim tells them that Nikolai is Kirill (they don't know what he looks like). They spare Azim and walk into the sauna, where Nikolai is naked except for the towel on his head. A thug pulls out a knife and slashes his chest. Nikolai beats him up and wrestles for control over the blade. After that fails, he tries to crawl away but the other thug is waiting for him and slashes his body with another knife. Nikolai makes one of the thugs stab the other in the chest, and then brutally brawls with him on the floor. He gets his hand on a knife, places it underneath the goon's head, and smashes his head onto the blade. Nikolai, beaten and bloodied, starts to weakly crawl away. It turns out the other thug isn't dead yet, and he starts to choke Nikolai with his bare hands. The thug rips out the knife from his chest and tries to use it on Nikolai, but Nikolai gets the upper hand and stabs the thug through the eye.A little later at the hospital, Anna sees the extremely wounded Nikolai being carted down the hall. She enters his room and asks him if he knows where Stepan is. If he doesn't turn up soon, she'll get the authorities involved. Nikolai reveals that he was sent by Semyon to kill Stepan, but he didn't. Instead, he sent him to Edinburgh and set him up in a hotel.The police inspector who found Soyka's body arrives at the hospital and privately talks with Nikolai. It's revealed here that Nikolai is really an undercover MI5 agent hired to infiltrate the vory v zakone. The note he put in Soyka's jacket was a progress report, and he called in the raid on the whorehouse to help out Kirilenko. The inspector says that Scotland Yard and the KGB/FSB are not happy with Nikolai's job handling, and when he sees his star tattoos he is worried that he has perhaps gone too far undercover. Nikolai reassures him that everything's fine, and that he can even become head of the vory v zakone in London. The inspector balks at the idea, but Nikolai tells him that all they have to do is arrest Semyon. When he asks for what charges, Nikolai tells him that the charges will be the rape of the 14-year-old Tatiana. Since she's dead, she can't testify, but they can prove Semyon is the father of the baby through blood tests.Meanwhile, Kirill is inflating balloons for another party when he notices a little girl staring at him. She asks him if he fought with Semyon last night, because she could hear shouting and banging. Kirill says that it's not a fight if one of them doesn't fight back, and says he was upset upon learning about Nikolai's attack (orchestrated by Semyon). Kirill then sees several policemen arriving outside the restaurant via security monitor, and tells the girl to go upstairs. After the cops leave, Kirill asks Semyon what the cops wanted with him. They took a blood sample from his arm, and Kirill asks him why they would want that.As Anna gets off of work, she sees Kirill in a closing elevator holding a gym bag. She rushes to the baby ward and finds flowers in place of Christine. Anna bumps into Nikolai again and harshly demands to know where Kirill took the baby. He honestly doesn't know, and so they both head out in search of Kirill, who goes back to the waterfront where Soyka's body was dumped. He picks up the gym bag, which has Christine inside, and sits by the water. He cries, and asks for forgiveness. He's about to throw Christine in the river when Nikolai and Anna arrive. Nikolai tells Kirill that Semyon has gone too far, and they don't kill babies. He then forces Kirill to choose between him and Semyon. Kirill embraces Nikolai and says that he didn't know that Semyon set him up at the bathhouse. Nikolai says that he understands, and gives Christine to Anna. Nikolai then tells Kirill that his time to control the family is now, and they can be partners with Semyon out of the way. Kirill becomes cheerful again, and tells Nikolai that they should go out to celebrate, since it's New Year's Eve. Kirill walks off and waits for Nikolai. Anna demands to know who he is and why he helped them, but Nikolai simply replies that he couldn't be king if the king is still in place. They briefly kiss each other, and then Nikolai walks off with Kirill.Some time later, we see Helen and Stepan fixing lunch while Anna plays with Christine (she adopted her). Semyon is presumed to be in prison for Tatiana's rape. The final shot shows Nikolai sitting alone in the restaurant, leaving his future unclear."
-],
-"summaries": [
-"A teenager who dies during childbirth leaves clues in her journal that could tie her child to a rape involving a violent Russian mob family."
-,
-"THIS SUMMARY CONTAINS SPOILERS. In London, pregnant Russian teenager Tatiana arrives bleeding to a hospital, and the doctors save her baby only. Russian-descendant midwife Anna Khitrova finds Tatiana's diary written in Russian language in her belongings and, deciding to find her family and bring them the baby, she brings the diary home and asks her uncle Stepan to translate the document. Stepan refuses, but Anna finds a card of a restaurant owned by the Russian Semyon inside the diary and visits the old man trying to find a lead to contact Tatiana's family. When she mentions the existence of the diary, Semyon immediately offers to translate the document. However, Stepan translates part of the diary and Anna discovers that Semyon and his sick son Kirill had raped Tatiana when she was 14 and forced her to work as a prostitute in their brothel. Further, Semyon is the dangerous boss of the Russian mafia "Vory v Zakone", jeopardizing the safety of Anna and her family. Meanwhile, Semyon's driver Nikolai Luzhin gets close to Kirill and Semyon, climbing positions in the criminal organization, but he helps Anna, her family, and the baby."
-,
-"Anna Khitrova, a Brit of Russian descent, works as a midwife at a London hospital. On one of Anna's regular shifts, a pregnant 14-year-old Russian junkie, Tatiana, bursts into the hospital in distress. Tatiana delivers a healthy baby girl, then dies on the table. Anna is determined to find Tatiana's family so that the baby will have a biological family home, as opposed to being caught in the foster-care system. All Anna has to go on is Tatiana's Russian-written diary which was on her person, with a business card for the Trans-Siberian Restaurant inserted among its pages. Anna's old-school Russian Uncle Stepan is reluctant to do the translation, believing that Anna desecrated Tatiana's memory by even taking the diary. So Anna is grateful when the owner/operator of the Trans-Siberian, an elderly Russian named Semyon, volunteers to translate the diary for her. It isn't until after she gives Semyon a photocopy of the diary that Anna learns that he is the head of a Russian mob organization, and that Tatiana was probably caught unwillingly in his prostitution ring and was injected with illicit drugs to control her further. Beyond Semyon, the criminal names and faces that Anna encounters within his organization are his volatile son Kirill and Kirill's driver, Nikolai Luzhin, who also works as the organization's cleaner, making sure there are no loose ends in the organization's crimes. This situation also gives Anna a better picture of the probable biological father. Anna, the baby, and Anna's family, which also includes her mother Helen, are placed at greater risk because of the situation, not only at the hands of Semyon and those around him, but being potentially caught in the crossfire with other criminal organizations associated with Semyon. The wild card in the mix may be Nikolai, as the non-family member with inside knowledge of what's going on regardless."
-,
-"The mysterious and charismatic Russian-born Nikolai Luzhin is a driver for one of London's most notorious organized crime families of Eastern European origin. The family itself is part of the Vory V Zakone criminal brotherhood. Headed by Semyon, whose courtly charm as the welcoming proprietor of the plush Trans-Siberian restaurant impeccably masks a cold and brutal core, the family's fortunes are tested by Semyon's volatile son and enforcer, Kirill, who is more tightly bound to Nikolai than to his own father. But Nikolai's carefully maintained existence is jarred once he crosses paths at Christmastime with Anna Khitrova, a midwife at a North London hospital. Anna is deeply affected by the desperate situation of a young teenager who dies while giving birth to a baby. Anna resolves to try to trace the baby's lineage and relatives. The girl's personal diary also survives her; it is written in Russian, and Anna seeks answers in it. Anna's mother Helen does not discourage her, but Anna's irascible Russian-born uncle Stepan urges caution. He is right to do so; by delving into the diary, Anna has accidentally unleashed the full fury of the Vory. With Semyon and Kirill closing ranks and Anna pressing her inquiries, Nikolai unexpectedly finds his loyalties divided. The family tightens its grip on him; who can, or should, he trust? Several lives - including his own - hang in the balance as a harrowing chain of murder, deceit, and retribution reverberates through the darkest corners of both the family and London itself."
-]
-}
-}
-,
-{
-"_index": "movies",
-"_type": "docs",
-"_id": "Fi_NAIUBmFo8GYv0bocx",
-"_score": 8.075595,
-"_source": {
-"title": "Moving McAllister",
-"year": 2007,
-"genders": [
-"Adventure"
-,
-"Comedy"
-,
-"Romance"
-],
-"score": 5.2,
-"directors": [
-"Andrew Black"
-],
-"writers": [
-"Benjamin Gourley"
-],
-"synopsis": [
-"Rick has a thankless job in corporate America. He is given, what he believes to be an upwardly mobile opportunity to advance his career. His boss, McAllister asks him to move his hot niece from Florida to California. Rick is supposed to take the Florida bar exam in three days. Hijinx ensue, and of course, Rick learns some valuable life lessons that cannot be learned from a book. Jon Heder appears in the second half of the film, and is funny, as always. I'd give this movie a thumbs up, but alas it has been done before. Save this one for cable, or if your under 20 (not an insult, might be fresh to the younger generation) go ahead and rent it. Oh, and Mila Kunis is well-acted and very charming as the hot niece."
-],
-"summaries": [
-"Law intern Rick aims for the top. He tells his boss he'll do anything - incl. drive the cute wild niece Miami to LA. Back well prepared for bar exam 3 days later?"
-,
-"Rick Robinson (Benjamin Gourley) is a ladder-climbing law intern from Miami with four days until the Bar Exam. Desperate to score points with his boss, Maxwell McAllister (Rutger Hauer), he commits to a favor he can't afford. He ends up in a rundown truck headed to Los Angeles, California with his boss' possessions, his Hollywood-bound niece, Michelle (Mila Kunis), and her pet pig. Amidst hitchhikers, breakdowns, and assorted local yokels, Rick finds love, life, and maybe himself in this trans-American road trip from Hell."
-]
-}
-}
-,
-{
-"_index": "movies",
-"_type": "docs",
 "_id": "ui_NAIUBmFo8GYv0boMw",
 "_score": 8.005365,
 "_source": {
@@ -1653,21 +1235,415 @@
 ]
 }
 }
+,
+{
+"_index": "movies",
+"_type": "docs",
+"_id": "sS_NAIUBmFo8GYv0bn0u",
+"_score": 7.959358,
+"_source": {
+"title": "Oscenità",
+"year": 1980,
+"genders": [
+"Adult"
+,
+"Drama"
+],
+"score": 4.5,
+"directors": [
+"Renato Polselli"
+],
+"writers": [
+"Renato Polselli"
+],
+"synopsis": [ ],
+"summaries": [
+"A group of people come up with provocative or downright nasty sexual scenarios like rape, bestiality, tree branch masturbation, candle masturbation, corncob masturbation, whipping, lesbian orgies, toe masturbation, and bathtub assault."
+]
+}
+}
+,
+{
+"_index": "movies",
+"_type": "docs",
+"_id": "Jy_NAIUBmFo8GYv0bn4u",
+"_score": 7.9452944,
+"_source": {
+"title": "Three to Tango",
+"year": 1999,
+"genders": [
+"Comedy"
+,
+"Romance"
+],
+"score": 6,
+"directors": [
+"Damon Santostefano"
+],
+"writers": [
+"Rodney Patrick Vaccaro"
+,
+"Aline Brosh McKenna"
+],
+"synopsis": [ ],
+"summaries": [
+"A rich businessman's assumption that his new colleague is gay leads him to ask the man to keep an eye on his mistress. However, the man is not gay, and begins to fall for the woman himself."
+,
+"A rich businessman, Dylan McDermott, mistakenly believes that Matthew Perry, who is bidding on a $90 million restoration contract, is gay and asks him to keep tabs on his mistress, Neve Campbell. Perry, who is not gay, falls for Neve in a big way but she thinks he's gay."
+,
+"Oscar Novak is an idealistic, young architect on the rise. Boyishly handsome and funny, Oscar and his business partner, Peter Steinberg, have just landed a career-making opportunity-Chicago tycoon Charles Newman has chosen them to compete for the design of a multi-million dollar cultural center. In a ploy for publicity, Newman has pitched Oscar and Peter in a neck-and-neck competition with their arch rivals and former colleagues, the hugely successful (and equally ruthless) Decker and Strauss. Impressed with Oscar's feverish dedication to winning the job, Charles assigns him the additional task of spying on his mistress, Amy, a woman who Charles guards as jealously as he guards his investments. Oscar's bumbling attempts at surveillance fail, but he does develop a crush on Amy, a beautiful and headstrong artist, who begins to return his growing affection. Much to his chagrin, Oscar may have finally found the woman of his dreams. But Oscar's dream is short-lived when he discovers that the jealous Charles has assigned him this special job only because he (mistakenly) believes that Oscar is gay. Oscar's frustration compounds when he realizes that Amy also believes him to be gay. In short order, Oscar's friends, his family, even strangers on the street believe that he is gay. The very heterosexual Oscar Novak becomes the most famous gay man in Chicago and his entire life is turned upside-down. When he is honored as Chicago's Gay Professional of the Year, Oscar has to make a decision-will he continue the lie and hold on to the job of a lifetime and a warm but frustrating friendship with the girl he loves, or is it time to face the consequences of coming out of the closet and telling the whole world that he is secretly - straight?"
+,
+"Oscar is an architect, he and his partner, Peter are competing with another pair for a restoration job. Charles Newman, the pompous businessman, who will decide who among them will do the job. He instructs them to build a model of their proposals, he will decide then which one will get the job and they have to pay for it themselves. Now Oscar and Peter are struggling but Peter decides to mortgage his apartment so they can get the job. Now Peter who is gay and after being caught in a "compromising" position with him, Oscar is disbelieved to be gay. Now Charles who has a mistress, Amy. Now she is surround by several male friends, Charles is a little insecure; when he learns that Oscar is gay, he "asks" him to keep an eye on her. Oscar is taken with her but when he learns that they think he is gay and knowing that it could jeopardize the job allows them to continue thinking that. But things go out of hand when a newspaper reporter outs him. And Oscar, who has fallen for Amy and who disapproves of her relationship with Charles, is uncertain of what to do."
+]
+}
+}
+,
+{
+"_index": "movies",
+"_type": "docs",
+"_id": "DC_NAIUBmFo8GYv0bnst",
+"_score": 7.9091854,
+"_source": {
+"title": "French Twist",
+"year": 1995,
+"genders": [
+"Comedy"
+,
+"Drama"
+,
+"Romance"
+],
+"score": 6.4,
+"directors": [
+"Josiane Balasko"
+],
+"writers": [
+"Josiane Balasko"
+,
+"Telsche Boorman"
+,
+"Patrick Aubrée"
+],
+"synopsis": [ ],
+"summaries": [
+"After learning of her husband's infidelities, a housewife invites an itinerant lesbian to move in with them. None of their lives will ever be the same again."
+,
+"Undoubtedly, the smug real estate agent, family man, and father of one, Laurent, is a shameless philanderer. Under the nose of his beautiful but unhappy wife, Loli, the incurable womaniser never misses an opportunity to cheat on her, until one day, the cigarillo-smoking and very lesbian plumber, Marijo, sets foot in their house. Now, the stage looks set for the perfect revenge, and nothing can stand in the way of a woman scorned. Can Loli and Laurent survive the complications of having a stranger in their bedroom?"
+,
+"Laurent is the local estate agent, a job that offers easy opportunties for his womanising. His wife beautiful wife Loli looks after his home and two children unaware of his many affairs. However, their world is turned upside down by the arrival of Marijo, an itinerant lesbian whose minivan breaks down nearby. The neglected Loli is drawn to the sensitive Marijo and when she learns of Laurent's infidelities, invites Marijo to move in with them. The arrangement takes an emotional toll on each of them, exacerbated by the arrival of a figure from Marijo's past. As they struggle with the situation and each other, all of their lives are changed forever."
+]
+}
+}
+,
+{
+"_index": "movies",
+"_type": "docs",
+"_id": "mi_NAIUBmFo8GYv0boUx",
+"_score": 7.872293,
+"_source": {
+"title": "Dorian Blues",
+"year": 2004,
+"genders": [
+"Comedy"
+,
+"Drama"
+,
+"Romance"
+],
+"score": 6.7,
+"directors": [
+"Tennyson Bardwell"
+],
+"writers": [
+"Tennyson Bardwell"
+],
+"synopsis": [ ],
+"summaries": [
+"High school senior Dorian begins a gay man's odyssey when he determines that he's gay and decides to come out. Chief among concerns is the reaction of his father, who has never liked him."
+,
+"Coming-of-age. A small-town young man realizes why he's such a misfit - he's gay! Adolescence is proving a pain for the always-thinking Dorian. He's an outcast and the butt of classmates' fag jokes at high school. He's different and understands why when he reaches the conclusion that he's a "stereotypical gay." He soon announces this discovery to his homophobic, Nixon-loving dad. As Dad throws him out of the house, Dorian's off to NYU to encounter a new world of coffee houses, sophisticates and handsome men."
+]
+}
+}
+,
+{
+"_index": "movies",
+"_type": "docs",
+"_id": "Iy_NAIUBmFo8GYv0bo80",
+"_score": 7.872293,
+"_source": {
+"title": "Making the Boys",
+"year": 2011,
+"genders": [
+"Documentary"
+,
+"Biography"
+,
+"Romance"
+],
+"score": 7.4,
+"directors": [
+"Crayton Robey"
+],
+"writers": [
+"Edward Albee"
+,
+"Joe Allen"
+,
+"Matt Baney"
+],
+"synopsis": [ ],
+"summaries": [
+"On the eve of the 40th anniversary of the Gay Rights Movement, the film explores the drama, struggle and enduring legacy of the first-ever gay play and subsequent Hollywood movie to successfully reach a mainstream audience. Beloved by some for breaking new ground, and condemned by others for reinforcing gay stereotypes, The Boys in the Band sparked heated controversy that still exists four decades later."
+,
+"Admired by some as groundbreaking, hated by others as furthering stereotypes, The Boys in the Band was the first widely released gay film. This is the story of it's history and impact. Interviews with heavyweights from Edward Albee to Tony Kushner, plus rich archival footage from the 50s to today, illustrates the continuing legacy of The Boys."
+]
+}
+}
+,
+{
+"_index": "movies",
+"_type": "docs",
+"_id": "Oi_NAIUBmFo8GYv0bnwt",
+"_score": 7.860065,
+"_source": {
+"title": "The Watermelon Woman",
+"year": 1996,
+"genders": [
+"Comedy"
+,
+"Drama"
+,
+"Romance"
+],
+"score": 7.1,
+"directors": [
+"Cheryl Dunye"
+],
+"writers": [
+"Cheryl Dunye"
+,
+"Douglas McKeown"
+],
+"synopsis": [
+"Cheryl is a young, African American lesbian who works in a video rental store in Philadelphia with her friend Tamara. They earn extra money by making professional home videos for people. Cheryl becomes interested in films from the 1930s and 40s which feature black actresses. She notices that these actresses are often not credited. She watches a film called Plantation Memories with a black actress who is credited simply as "The Watermelon Woman". Cheryl decides to make a documentary about the Watermelon Woman and find out more about her life.Tamara tries to set Cheryl up with her friend Yvette, but Cheryl is not interested. Cheryl meets a white woman in the store called Diana who, to Tamara's annoyance, flirts with Cheryl.Cheryl starts interviewing members of the public, asking them if they have heard of the Watermelon Woman. She interviews her mother who does not remember the name, but recognises a photograph of her. She tells Cheryl that she used to hear the Watermelon Woman singing in clubs in Philadelphia. Tamara's mother tells Cheryl to get in contact with Lee Edwards a man who has done a lot of research into black films. Cheryl and Tamara go to see Lee, and he tells them about 1920s and 30s black culture in Philadelphia. He explains to them that in those days, black women usually played domestic servants.Cheryl meets her mother's friend Shirley, who turns out to be a lesbian. Shirley tells her that the Watermelon Woman's name was Fae Richards, that she was a lesbian too, and that she used to sing in clubs "for all us stone butches". She says that Fae was always with Martha Page, the white director of Plantation Memories, and that Martha was a mean and ugly woman.When Cheryl and Tamara get caught ordering video tapes under Diana's name, Diana takes the tapes and tells Cheryl that she will have to come to her home to collect them. Cheryl goes to Diana's house, stays for dinner, and watches some of the tapes with her, telling her about her project. They have sex, and Cheryl decides that although Diana is not her usual type of woman, she likes being with her.Cheryl meets cultural critic Camille Paglia who tells her about the Mammy archetype, saying that it represented a goddess figure. Cheryl goes to the C.L.I.T. archive of lesbian material, and finds photographs of Fae Richards, including one given by Fae to a June Walker. With Diana's help, Cheryl manages to contact Martha Page's sister who denies that Martha was a lesbian.As Cheryl and Diana grow closer, Tamara makes it clear that she dislikes Diana and disapproves of their relationship. She accuses Cheryl of wanting to be white, and Diana of having a fetish for black people.Cheryl telephones June Walker, learning that she was Fae's partner for 20 years. They arrange to meet, but June is taken to hospital and leaves a letter for Cheryl instead. In the letter she says that she is angry with Martha Page, that Martha had nothing to do with what Fae's life. She urges Cheryl to tell their history.Having separated from Diana, and fallen out with Tamara, Cheryl finishes her project, never managing to make further contact with June."
+],
+"summaries": [
+"A young black lesbian filmmaker probes into the life of The Watermelon Woman, a 1930s black actress who played 'mammy' archetypes."
+,
+"Cheryl is young, Black, and lesbian, working in Philadelphia with her best friend Tamara and consumed by a film project: to make a video about her search for a Black actress from Philly who appeared in films in the 30s and was known as the Watermelon Woman. Following various leads, Cheryl discovers the Watermelon Woman's stage name and real name and surmises that the actress had a long affair with Martha Page, a White woman and one of Hollywood's few female directors. As she's discovering these things, Cheryl becomes involved with Diana, who's also White. The affair strains Cheryl's friendship with Tamara. More discoveries bring Cheryl (and us, her audience) to new realizations."
+]
+}
+}
+,
+{
+"_index": "movies",
+"_type": "docs",
+"_id": "fy_NAIUBmFo8GYv0bm8n",
+"_score": 7.8494673,
+"_source": {
+"title": "The Sex of Angels",
+"year": 1968,
+"genders": [
+"Drama"
+],
+"score": 6.1,
+"directors": [
+"Ugo Liberatore"
+],
+"writers": [
+"Ugo Liberatore"
+,
+"Franz Seitz"
+],
+"synopsis": [ ],
+"summaries": [
+"Four people (three women and a man) set off on a boat trip through the fjords of Yugoslavia. Two of the women are lesbian lovers. Influenced by LSD, the female passengers freely engage in nudity."
+]
+}
+}
+,
+{
+"_index": "movies",
+"_type": "docs",
+"_id": "ci_NAIUBmFo8GYv0bpI1",
+"_score": 7.8494673,
+"_source": {
+"title": "7 Days in Havana",
+"year": 2011,
+"genders": [
+"Drama"
+],
+"score": 6,
+"directors": [
+"Laurent Cantet"
+,
+"Benicio Del Toro"
+,
+"Julio Medem"
+],
+"writers": [
+"Laurent Cantet"
+,
+"Alejandro Fadel"
+,
+"Martín Mauregui"
+],
+"synopsis": [ ],
+"summaries": [
+"A lesbian, an aspiring actor, an aspiring singer, a low-class marriage, a neighborhood community and 2 renowned directors have memorable less-than-24-hour-long experiences while living in/visiting the capital of Cuba."
+]
+}
+}
+,
+{
+"_index": "movies",
+"_type": "docs",
+"_id": "wy_NAIUBmFo8GYv0bm8n",
+"_score": 7.838374,
+"_source": {
+"title": "No Way to Treat a Lady",
+"year": 1968,
+"genders": [
+"Comedy"
+,
+"Crime"
+,
+"Drama"
+],
+"score": 7,
+"directors": [
+"Jack Smight"
+],
+"writers": [
+"John Gay"
+,
+"William Goldman"
+],
+"synopsis": [
+"New York City, 1968: A priest walks briskly up the sidewalk, whistling an odd little tune. He turns in at the entrance of a comfortable old apartment building, and heads up the stairs. Kate Palmer (Lee Remick) is coming down the stairs. "Top of the morning to you, young lady," he says, in a lilting Irish accent, and she replies, "Hello, Father," as they pass each other. The priest stops in front of Apartment 2B, and knocks. Alma Mulloy (Martine Bartlett) answers, a plump, middle-aged lady in a house dress and hair curlers. The priest introduces himself as Father McDowell, and she lets him in. After exchanging a few pleasantries, she tells him apologetically that if he's there about the church, she's no longer a Catholic...she lost her faith after her husband died. He acknowledges that most of us suffer in this vale of tears, and launches into a rambling discourse about his sainted mother, and what a beautiful, voluptuous woman she was. "But she had a delicate spot on her body," he says, "just there," and he touches Mrs. Mulloy on the ribs, and she giggles and squirms. He touches the spot again, and again she giggles and squirms. He swiftly moves around in back of the chair where she's sitting, and begins tickling her vigorously with both hands, until she is screaming and writhing with laughter. Suddenly his hands close around her throat, and he laughs like a hyena while he strangles the life out of her. When he is done, he kisses her on the forehead, and murmurs softly, "So, now, Mama, you rest in peace." He drags her body into the bathroom and seats her on the toilet. He finds a tube of lipstick and carefully paints a set of full, red, "Cupid's Bow" lips on her forehead. He stands in the doorway of the bathroom for a last look at his handiwork, blows poor Mrs. Mulloy a kiss and leaves.Morris Brummel (George Segal) is getting dressed in the apartment he shares with his mother. Mrs. Brummel is nagging him about his eating habits, his appearance, his profession (cop). She compares him to his older brother: married, three children, a doctor, making a thousand dollars a day...and all she gets from Morris is heartbreak. Morris, clearly accustomed to this, offers only token resistance. The phone rings, and he answers: his boss, Lieutenant Dawson (David Doyle), is calling to tell him that one of the other detectives has fallen ill, and Morris has been assigned to the Mulloy homicide in his place.Christopher Gill (Rod Steiger) comes downstairs to breakfast, a well-to-do, middle-aged bachelor, living a quiet, orderly life. Nevertheless, we see he is the man who strangled Mrs. Mulloy the previous day. He sits down at his dining room table, and his quiet, efficient housekeeper, Mrs. Fitts (Irene Daily), brings him his morning newspaper. He finds what he's looking for near the end of the second section, but it doesn't make him happy. He calls the newspaper to complain about the placement and brevity of the paragraph announcing the murder of Mrs. Mulloy. An assistant editor replies that it was probably due to the fact that they were racing a deadline. "May I ask who's calling?" he says. Gill hangs up. "No, you may not," he mutters.Morris arrives at Mrs. Mulloy's apartment, swarming with police, technicians and reporters. He finds the super and asks which tenant saw the priest at Mrs. Mulloy's door. He replies, "3E, directly above." As they head upstairs, a reporter asks Morris if he can get a quote. Morris tells him no, unless he wants to print that the murder was well-planned and well-executed.Kate is slow to answer the door, and she is still half asleep...but undeniably lovely. Morris asks if she can describe the priest. "If you've seen one, you've seen them all," she replies. He asks if he had any distinguishing features. "You mean, like a big nose? I can't remember. But you've got kind of a sweet-looking nose, there, yourself," she adds flirtatiously. Then she realizes that she's barely dressed in a rather revealing nightgown. She tells him she's going back to bed, and he should come back later. "I meant that about your nose," she says, with a little smile, as she stretches out on her bed. Morris leaves, but pauses in the hall just outside her door...to feel his nose.Later in the day, after Mrs. Brummel has seen the papers, she calls Morris: "I am sick at my heart when my own son goes looking at dead women's naked bodies. I tell you, Morris, it is no way to treat a lady."Mrs. Himmel (Ruth White), a plump, middle-aged German lady, has just fixed a tray for herself and settled down in front of her TV, when there's a knock at her door. She answers, and a gray-haired German plumber (Gill) tells her apologetically, "I have to pound on your water pipes." "Oh, no," says Mrs. Himmel, "Not on MY pipes...you go somewhere else." She starts to shut the door, but he interrupts, "What do you mean, go somewhere else? That's the trouble with the world. No one has any sympathy for anyone else, anymore. Well, I'll tell you something, it was a sad day when I left Frankfurt." He turns to leave. "Frankfurt!" Mrs. Himmel exclaims, "I'm from Frankfurt, too!" "Well, it's a small world," says the plumber, and turns back, smiling. "I'm sorry I yelled at you," she says, contritely, and lets him in. He heads for the kitchen, but stops when he sees the cake on her tray. "Baumkuchen!" he exclaims, "I haven't had baumkuchen since I left Frankfurt!" "Have a piece," she says, kindly. She asks if he'd like to look at some old photos of Frankfurt. He directs her to sit on the couch, so he can stand behind her and look over her shoulder. "Look, look, look!" he exclaims, pointing, "There's my friend, Fritz, right there...he's waving to you..." Mrs. Himmel looks closer, confused. "He's saying, 'Goodbye, Mrs. Himmel...auf wiedersehen'." He kisses her on the cheek. And in the next scene, poor Mrs. Himmel is seated on the toilet in her bathroom, with "Cupid's Bow" lips painted on her forehead. The plumber surveys his handiwork from the doorway.Morris is in the squad room, looking through fingerprint reports. Another detective, Monaghan (Val Bisoglio) asks what he's still doing here...it's past 10 p.m....asks why he doesn't get married. "You sound like my mother," says Morris. The phone rings and he answers. Gill introduces himself as Hans Schultz. "At least, that's who I am today," he says, "but last week I was Father Kevin McDowell." "What do you want?" asks Morris impatiently. "I just want to tell you," says Gill, slowly, "that I'm in Mrs. Himmel's apartment, and she is...quite dead." Momentarily stunned, Morris recovers quickly. He attracts Monaghan's attention, who quietly picks up his own phone and requests a trace. Morris sets out to keep Gill talking as long as he can. But Gill, lying on Mrs. Himmel's bed and enjoying himself immensely, lets Morris know that he's familiar with call tracing, and knows just how long he can stay on the line before they locate him. He tells Morris that he liked the quote in the newspaper, about Mrs. Mulloy's murder being well-planned and well-executed. He gives Morris Mrs. Himmel's address, so he can come and see that her murder is well up to his previous standard..."And I want you to put that in the newspaper," he adds. "In fact, I insist on it." And he hangs up.The police, the technicians, and the reporters all swarm over to Mrs. Himmel's apartment. Morris looks at Mrs. Himmel, and turns away, disgusted and discouraged.Next day, Gill is seated at his dining room table, humming his tune. Mrs. Fitts brings in his daily newspaper. This time, what he's looking for is splashed all over the second page, and he smiles as he reads it all.Kate Palmer has come to the precinct, to look at mug shots. Once again, she hasn't been much help..."Some people remember faces," she says, "with me, it's names." Morris offers to take her home, and they catch a bus at a nearby stop. She asks if he's a good detective; he replies modestly that he thinks so. And she teases him, saying she doubts it, since he'd insisted on her coming in even though she'd told him she wouldn't be any help. "You know what I think?" she says, impudently, "I think you just wanted to see me again." Morris starts to protest...she laughs and accuses him of fibbing. "Well," he finally admits, "I might have fibbed a little." They both smile. She looks around, and tells him this is their stop. They get off the bus, and as it pulls away, the camera shifts to the back of the bus, and we see that Gill is there, watching them through the rear window...in another disguise...on his way to another victim.The camera cuts back to Morris and Kate, walking along the street. "Why did you move?" he asks. "The ghost of Mrs. Mulloy finally got to me," she says. She remarks on what a fancy name he has. "What's your first name?" she asks. "Morris," he answers, sheepishly. She laughs..."I'll bet everyone calls you Moe". "They do," he admits, and they both laugh. They stop at the door of her apartment building, and he tells her goodbye. "Was there something you wanted to ask?" she prompts him. He hesitates, knowing he's not in this beautiful, elegant woman's league...then finally says, "I guess not." Then he blurts out, "Oh, well...maybe I could call you...say, Saturday night?" "Don't bother," she replies, poker-faced. "Huh?" he says, a bit confused. "Calling," she finishes with a smile. "I'll be ready at eight." He smiles, too, and walks on. She looks fondly after him, still chuckling over the name Moe Brummel.Gill walks up the hallway of another apartment building, dressed in a navy-blue jacket and yellow slacks, carrying a striped hat box. He pauses in front of a door and rings the bell. "Miss Belle Poppie?" he calls, in a lisping, effeminate voice. Inside the apartment, a middle-aged woman in a lace caftan (Barbara Baxley) gets up from her typewriter, and asks, "Who is it?" "It's Dorian Smith, dear," he replies, "I've brought your wig." Miss Poppie is puzzled. Dorian assures her she won a contest after signing a coupon at the drugstore. She opens the door about six inches, keeping it on the chain, and asks, "No strings?" "Absolutely none," he replies. "All right, I'll take it," she says, holding out her hand. "Oh, no," says Dorian. "I have to fit it for you...otherwise you'll look absolutely dreadful." She hesitates, but after making him promise he'll speak in a soft, low voice, so not to disturb her five cats, she lets him in. He directs her to sit on the couch, and takes a mirror off the wall so she can watch as he fits the wig. After some adjustment he asks, "Now...what do you think of that?" "I don't like it," she says. "Well, that's because I haven't finished," he tells her. "It needs to be fitted in here, and tucked in here, by your neck...you do have a lovely neck, don't you..." His facial expression hardens and his hands move into position...but just before they close on her throat the front door opens, and another middle-aged woman bustles into the room. "It's only me, Belle," she says, "and look what I brought for the babies!" She produces a new, deluxe scratching post. Belle admires it, then introduces the woman as her sister, Sylvia (Doris Roberts). Belle tells Sylvia that she's won a wig, and Mr. Smith is here to fit it for her. "Do you like it?" she asks Sylvia. "No," says Sylvia, bluntly. "But I guess if you won it, you won it." She looks at Dorian, and asks suspiciously, "and you're absolutely sure it's free?" He decides two Poppie sisters are more than he can handle. "Of course," he replies. "She gets the wig, and a custom fitting, and if she's still not happy with it, at the end of two months she'll get every penny of her money back." The two women begin to protest, with Belle saying, "That's dishonest!" He shouts, "Absolutely no one ever calls me dishonest!" He gathers up the wigs and the hatbox and storms over to the door. Sylvia calls him a homo. He pauses with his hand on the door knob, says, "Doesn't make you a bad person," and flounces out.Morris is at home, sitting at the table, reading crime scene reports and whistling softly. His mother brings in two plates, sets one down in front of him, and asks point blank, "So, who is this girl you're thinking about?" He tries to change the subject...asks if they didn't have kneidlach last night. "Loss of appetite...that's the first sign," she declares. He asks her to just lay off for once, and she says, "Temper...that's the second sign." She asks if the girl is Jewish and Morris admits he doesn't know. Mrs. Brummel is distraught at the idea of Morris dating a shiksa! They are wrangling back and forth when the phone rings...Morris answers. It's Gill, using his Dorian voice...he's calling from a wall phone just outside his latest victim's bathroom. "Oh, Morris," he says, "I've been a bad boy, again." At first Morris doesn't realize who he's talking to, and Gill blasts him for forgetting so soon. In his Dorian character, he is much more volatile, less controlled. He rambles about his brilliant characterizations, even giving Morris a sample of his "uncanny" W.C. Fields impersonation. Morris asks quietly if they can talk, one human being to another. "Oh, no," says Gill, with a shaky little laugh. "And I'm not going to tell you where I am this time, either...you'll have to figure it out for yourself." And he hangs up.They find the latest victim's apartment. A technician finds a few strands of long, blonde hair that don't match the victim...asks if there was a wig found in any of her stuff. They tell him no. "I don't know," complains Morris, "how can you figure with a pervert like this?" A lurking reporter asks Morris if he can quote him on that...Morris yells no, and has the uniformed officers escort him out.Back at the station, Morris calls Kate to cancel their date. The moment she hears his voice, she begins to talk excitedly about the dinner she's prepared...she watched that Julia Child woman, and has to admit it smells pretty great. Morris tells her, apologetically, that he can't make it, he has to work. Disappointed, annoyed, she says, "Oh, well...okay. Just a small, crummy dinner. It probably tastes rotten, anyway." "Maybe I could come over later," he suggests. "What for?" she retorts. "I don't know," he stammers, "I thought...maybe..." "Morris," she says, with finality, "I'm going to hang up now. Goodbye." "Goodbye," he murmurs, dejectedly. "Morris?" she says at the last moment, "Tonight you be careful, all right?" and then hangs up. Morris's face lights up..."Do you know what she said to me?" he asks Monaghan. "She said, 'Be careful.' Isn't that beautiful?"Gill is on his way to work, walking down the sidewalk with his briefcase, whistling his tune. He stops at a newsstand and buys a paper. He opens a wrought-iron gate, goes down the alley beyond, and enters the building...which turns out to be a theatre. He takes a private elevator to his office, takes the two wigs he was using as props out of his briefcase and puts them away. Then he opens his newspaper to read his latest notices...to be greeted by the headline, "Killer is a Sexual Pervert."Morris is at his desk, on the phone, with a tape recorder running and several detectives standing around listening. Gill is on the other end of the line, so angry he is almost in tears. "You had no right to call me a pervert, and you had no right to bring my mother into the story!" he screams as Hans Schultz. "My mother and I were famously close! And we LOVED each other! I want a retraction!" "I can't do that," says Morris. "I don't care," Gill screams, "I want a retraction printed, or you will suffer the consequences! I am NOT a pervert...and you will NOT dishonor my mother!"Morris, Monaghan, and Lieutenant Dawson are in the office of Inspector Haines (Murray Hamilton), listening to the tape of this conversation. The inspector asks Morris if he called the Strangler a sexual pervert. "Well, not for the record, sir," Morris replies. "Our own expert on Freud," says the inspector, wearily. "Brummel, I'm taking you off the case. In fact, I want you to stay home for a few days. You see, we can't print a retraction for your opinions, but maybe if we take you off the case, that will placate this madman." He continues, telling them he wants additional safety measures taken, to include dispatching officers to hotels and apartment houses that cater to women. "Tell them to stay inside," he says. "Tell them to keep their doors locked."A uniformed policeman, his back to the camera, is knocking on an apartment door. A middle-aged woman in a green suit and mustard-colored hat comes out of another door and walks by, glaring at him. A middle-aged lady in a bathrobe with a towel wrapped around her head opens the door, and is startled to see him. "What have I done?" she asks. "You haven't done anything, ma'am," he says, in a familiar voice. "Officer Brummel, 19th Precinct...I'm just giving out some precautionary information to women who live alone. May I come in and explain?" "Oh, yes, please do," she says, smiling, and steps to one side to let him in. The camera switches to the officer's face: it is Gill. "Thank you, ma'am," he says, and walks in.Morris is at home, getting ready to go out, bantering back and forth with his mother. The phone rings, and Mrs. Brummel answers. Gill asks to speak with Morris, using a Cary Grant accent. "Morris," Mrs. Brummel whispers, "It's HIM!" Morris takes the phone from her, and says "Yeah?" " 'Ello, Morrie, 'ow are you?" says Gill. "Listen...I think it's terrible the way the police are treating you. You tell 'em I'm not going to talk to anyone else but you. You tell them to put you back on the case or I'm liable to be a very naughty boy again tonight." "Hey," says Morris, "Don't do that, come on!" "I've got the simply sensational idea of guarding that woman what said she saw me dressed up in a police uniform," says Gill. He recites a bad limerick about Morris and the Strangler, then says "Cheery-bye" and hangs up.Morris hurries down to the precinct, and tries to sneak a look at the Strangler file. Monaghan catches him at it. He persuades Monaghan to tell him the new witness's name, in spite of the trouble it could cause both of them. "Her name is Pearl Menzel," says Monaghan. "You probably won't find her, though. I think she left town as soon as she talked to the newspapers. Or else she's boozing it up in some gin mill."Morris arrives at one of the bars she is known to frequent, a rundown neighborhood dive, and asks the bartender (Val Avery) if he's seen Pearl Menzel. The bartender says no. "Are you positive?" asks Morris. "As positive as I am that you're a cop," says the bartender, evenly. Morris decides no help is forthcoming from this quarter, and leaves. Shortly afterward, Sadie comes in: a tall, plump "lady" wearing a sleeveless black sheath, stiletto heels, a '60's bubble hairdo, and lots of make-up. She sits at the bar and orders a double Pink Lady in a suspiciously deep voice. While the bartender is getting it, she turns around and tells a bad joke as a come-on to a couple of guys sitting at a table. They rebuff her, and she turns to the man sitting next to her, and recites a bad limerick about the Strangler. A middle-aged woman at the end of the bar who's been sniffling into a handkerchief begins to cry, loudly. "Knock it off," growls the bartender to Sadie. "Can't you see she's scared to death?" Sadie retorts, "Well, who isn't?" "Yeah, but she says she actually saw him," says the bartender. "Oh," says Sadie, chastened. She goes around the bar to the woman, to comfort her. She asks if the woman has anywhere to go. The woman sobs no. Sadie invites her to come home with her. "I just live across the street," she says, "He won't attack two of us together." The woman hesitates. "Come on," coaxes Sadie, "We'll watch TV, have a few drinks...we'll have a ball." The woman finally nods, and they walk out together, with Sadie supporting the smaller woman as she sobs into her handkerchief.Morris has been checking the bar next door...he sees the women come out and cross the street, and on a sudden hunch, he runs back down into the first bar, and asks the bartender who the hooker was. "What hooker?" asks the bartender, stolidly. "The hooker that just left here!" says Morris, exasperatedly. "How would I know?" retorts the bartender. Morris turns to a couple of apple-cheeked frat boys sitting at the bar, and says, "Say, are you two familiar with the legal age for drinking in this state?" "All right, all right," says the bartender. "She just moved into that brownstone across the street, basement apartment."Sadie settles the woman on her couch, still quietly crying. "You know what I think," Sadie says, "I think you should call the cops. You need to get yourself some protection." She lights a cigarette, and heads for the refrigerator. "I can't," sobs the woman. "Well, it's up to you and your own conscience," says Sadie, "but just remember, he's killed four women." "Five," sobs the woman. "Five?" repeats Sadie, surprised. "I didn't know it was five." "It is now," the other woman growls in a masculine voice. She sits up, and we see it's Gill."Who was that woman with her...was it Pearl Menzel?" Morris asks. "No," says the bartender, "THAT'S Pearl Menzel," and points to a woman in a green suit with a mustard-colored hat at the other end of the bar. "Well, keep her here," says Morris, and runs out. He crosses the street, and runs down the stairs to Sadie's apartment. The door is open. He draws his gun and cautiously enters...the room is a wreck. He finds Sadie in the bathroom, sprawled on the toilet, a hasty "Cupid's Bow" smeared on her forehead. On the mirror above the sink, scrawled in red lipstick and underlined three times, are the words: "Reinstate Morris".They are back in Inspector Haines's office. "I want all press releases on this latest murder to include the fact that Detective Brummel has been put in charge of the case again," he says. "I'm doing this solely at the recommendation of our expert, Dr. Shaffer. But I want everyone here to know that I still consider Lieutenant Dawson to be in charge."Gill walks into Sardi's. He is greeted cordially by the maître d, and shown to his usual table. His waiter asks what he would like, and Gill replies he'd like something French. And he asks for a telephone. "May I 'ave Monsieur Brummel, s'il vous plait?" he says, a la Maurice Chevalier. "Maurice Dubois 'ere...'ow do you like my new accent? I am very 'appy that they...uh, 'ow you say...reinstate you. C'est bon, ca." "That's very good, very French." says Morris. He is surrounded by detectives again, and Lieutenant Dawson, and the tape is running. "How about a little more?" "Ah, no, no, no, mon ami," replies Gill, "because if I take too much time you trace the call. I just called to say I start my vacation, and I promise not to be a bad boy. I give you my word of honor. A tout à l'heure." "Hold on...Can't you wait just a second?" asks Morris. But Gill is gone.Kate is leading a tour at the Lincoln Center, where she works. She passes Morris, sitting on the edge of a planter box, without acknowledging him. He gets up and follows after the group. As she is talking about the Mark Chagall painting, he moves a little off to one side where only she can see him, and without any change in his expression, opens the right side of his suit jacket and shows her his gun in its holster...she starts to laugh, barely able to finish. She leads the tour group away, and Morris follows, apparently forgiven. They are both unaware that Gill is watching from across the plaza.They have lunch together, at an outdoor cafe. "So," she says, "you finally found out." He asks, "Found out what?" She replies, "That I'm the Strangler. How else can you spare me these few precious minutes? Oh, at first that was one of the things I liked about you, that you didn't try to make a pass at me right off. But don't you think you're carrying a good thing a little too far?" He says nothing, still a little shy with this lovely woman. "Morris, would it bother you if we stopped seeing each other?" she asks. "Yes, of course," he says, vehemently...but seems unable to say anything further. "What do I do wrong?" she asks, frustrated. "Is a Jewish cop so wrong for me?" "The thing is," he says, and hesitates..."I want to show you my yacht." "Yacht?!" she says in disbelief. "My yacht," he replies, firmly.They are on a police launch, cruising around the harbor. They sit down in the stern, look at each other and smile. "To tell you the truth, Morris, I've had him," says Kate. "Had who?" he asks. "Randy Beautiful," she replies. "And he was beautiful, old Randy...good future, good family...good everything. And then one day, I don't know...the message just came to me. I turned over and tapped him on the top of his beautiful head, and said, 'You only love me for my body, not for myself...for my mind.' And he screamed, 'What mind? Any thought of yours would die of loneliness.' So I got up, got dressed, packed my little suitcase, and I left Randy Beautiful...AND his good family, AND his good future. Tell me the truth, Morris...Do I have a good mind?" Morris replies earnestly, "You have a brilliant mind." "Are you tender, Morris?" she asks, wistfully. "You can have me if you say yes." "Yes," he says, firmly. "Do you love me, Morris?" she asks. He hesitates a moment, then replies, "Yes, I think so." She smiles and says, "Kiss me, Morris". He leans over and kisses her, a bit awkwardly because of the way they're sitting. They both stand and kiss again...and Morris IS tender...and they keep on kissing.Morris is sitting at his desk, alone in the squad room. A uniformed officer brings in Mr. Kupperman (Michael Dunn). He stands at Morris's desk and says, "Ok, you got me." "For what?" Morris asks, blankly. "What do you think?!" snaps Mr. Kupperman. "You're the Strangler?" Morris asks, incredulously. He can be forgiven his doubt...Mr. Kupperman is, after all, just under four feet tall. "I killed them all," says Mr. Kupperman, smiling proudly. "Mr. Kupperman..." Morris begins. "You be careful what you're going to say," interrupts Mr. Kupperman, "I'm very sensitive on certain subjects." Morris begins again..."Well, naturally, I wouldn't bring it up if it didn't have some bearing on the case, but...you're a midget. The few witnesses we have claim that he was of normal...uh...that is to say...he was taller than you." "You see how I fooled them," says Mr. Kupperman, eagerly. "Did you talk to me several times on the phone?" asks Morris. "That's right," says Mr. Kupperman. Morris hands him the mike to the tape recorder on his desk, and says, "Imitate Barry Fitzgerald." Mr. Kupperman does so...very badly. Morris reaches for the mike, and Mr. Kupperman says, "Wait...I can do W.C. Fields." This effort is only slightly better. Morris takes the mike from him and says, "Mr. Kupperman, I just don't believe you're the Strangler." "Bigot! You're a bigot!" declares Mr. Kupperman, and the conversation deteriorates into a shouting match. Lieutenant Dawson's door opens: he pokes his head out, looks at them, nods slightly, and goes back inside. "I'm very sorry, Mr. Kupperman," says Morris, quietly, "but you're going to have to leave now." "You're turning me loose to murder again," says Mr. Kupperman, bitterly. "All right, but this is what it's going to say in tomorrow's paper." He grabs a piece of chalk off Morris's desk and writes "6th Victim" on one of the partitions. He throws the chalk at Morris and stamps out. Morris stares at the words for a moment, then he knocks on Lt. Dawson's door. "I've got an idea," he says. "It's kind of crazy, but it just might shake things up."Gill is seated at his grand piano, playing a lovely, peaceful melody. Mrs. Fitts brings in a vase filled with flowers. He asks her if his airline tickets have arrived, and she says yes. He tells her that the flowers are lovely. "Romance," he says, smiling a little as he plays..."Romance is the thing that makes men hold, and women bold, Mrs. Fitts." "If you read the papers, there isn't much love in them these days," she responds, stepping outside of her quiet, professional demeanor, for once. "Riots, and wars...and all these murders. It's getting so I don't dare set foot outside anymore. Imagine, Mr. Gill, one man killing six women!" "What do you mean?" says Gill, startled. "Here," she says, and hands him his paper. The headline reads "Sixth Victim". "Killed the same way as the others," she says, "with the lipstick across the forehead and everything." "Yes," he says, slowly, preoccupied, "yes. Uh, could I have my tea, now?" "Yes, of course...I'm sorry," she says, stepping back behind her mask, leaving him alone to contemplate this new development.He calls from a public phone booth. He tells Morris in his German accent that he didn't do it...he did NOT kill that woman. "Say you believe me," he says. "I can't say that, because I don't believe you," replies Morris. The detectives are standing around him, the tape is running. "It's a copycat," insists Gill. "I did everything up to now, and he comes along and wants to take credit, and it's not fair!" Morris, enjoying the upper hand for once, replies, "This is getting a little too weird for me, I think I'll hang up now." "Don't you hang up on me," hisses Gill, "or I'll kill a hundred women...I promise you that." He tries to calm down, so he can reason with Morris. "A little commons sense will tell you that it's a copycat. Did he call you on the phone? Did he tell you where the body was?" "Neither did you the first and fourth time," counters Morris. "But you forget," says Gill. "I've given you my word of honor that I'll stop." Morris murmurs, "For all that's worth." A uniformed officer enters the squad room and says, quietly, "Pan Am Building, downtown." The lieutenant and a couple of other detectives rush out. Gill continues to argue his innocence regarding the sixth victim...but Morris interrupts, saying, "This time we got a full description of you. You're very short...you have blonde hair...a wide nose...bushy eyebrows." Gill laughs, and says, "That's very funny, you see, because first of all I have brown hair, brown eyes, and I'm approximately six feet tall, and..." then, finally realizing, "...and you are clever. Oh, Mr. Brummel, you are very, very clever." He hangs up. "But you're not quite clever enough," he adds, and leaves the building...swiftly, but not hastily. Uniformed officers arrive shortly afterward, and round up a few suspects. But when Morris, Monaghan and Lt. Dawson arrive, it's obvious they didn't get the one they wanted.Morris and Kate arrive in the hallway just outside Morris's apartment. "Ok, I think I'm ready," says Kate. "But tell me, Morris, do you love me?" "Yes," he replies. "Madly, deeply? she asks. "Madly, deeply," he confirms. "Then I can move mountains," she says. He unlocks the door and they go inside. After introductions, Kate says to Mrs. Brummel, "It's such a pleasure to finally meet you...and to see your lovely home. Morris, look at this," she says, gesturing, "Isn't it wonderful? It's just so Jewish." Mrs. Brummel is rather flummoxed by this comment, not sure it's a compliment. "Jews always have the best apartments," explains Kate. "The best taste, the best apartments...it follows." "Are you Jewish?" asks Mrs. Brummel, brightening. "I have been studying to be Jewish since I was 14 years old," says Kate, as they move into the living room and sit down. "Off!" Kate exclaims suddenly. "What?" says Mrs. Brummel, startled. "Look at him," Kate gestures toward Morris. "He has his foot up on your coffee table. Off!" she orders, and he moves his foot. "Lummox," she murmurs. "Honestly, I don't know why I go out with him. On the money he makes we can't do anything. A Jewish cop, can you imagine anything so ridiculous?" "I keep telling him that!" says Mrs. Brummel, amazed. "Oh, but your son, Franklin," says Kate, with a smile. "I wish I'd met him before it was too late. With a son like him, you don't mind having this one so much. But he is good for one thing," she adds. "Morris, light my cigarette," she orders. He jumps to his feet, comes to stand in front of her, with his back to his mother. He gives her a faint, conspiratorial smile while he lights her cigarette. She smiles back, and blows him a secret little air-kiss. "Now, go away," she says. He walks dejectedly into the kitchen. "He's good for ordering around," says Kate to Mrs. Brummel, "for yelling at and ordering around." "He is," agrees Mrs. Brummel, delighted. "I can see we're the same person," says Kate. "Yes, we are," agrees Mrs. Brummel. "Would you excuse me a moment, please?" "Of course," says Kate. Mrs. Brummel slips into the kitchen and says to Morris, "That girl is a gem...a GEM! And you know something else? She reminds me of me." Kate breathes a long sigh of relief, and relaxes.Morris is waiting outside the lieutenant's office. Monaghan comes out, and Morris asks, "Well?" Monaghan replies, "He says the chief doesn't like it, the inspector doesn't like it, and he doesn't like it." Morris looks crestfallen. "But the commissioner..." continues Monaghan, and Morris looks up, hopeful... "The commissioner says we've got a phony body, we might as well have a phony suspect." Morris laughs and slaps Monaghan on the back. "When?" he asks. "It'll be in the papers tomorrow," Monaghan replies. "It better work this time." "It will, it will, you're such a worrier," replies Morris.Gill calls Morris again, from another public phone booth. He says in his German accent, "Morris, I'm glad I caught you...I'm relieved because I read in the newspaper about this William Gibson of Tudor City, and now we know he had nothing to do with the first five, but that he's definitely responsible for the sixth, so, at last! You know, I think its important that we get the facts straight..." Morris interrupts him to say, "You can forget the whole thing. We're letting him go. The evidence we had on him only ties up to the last killing." "Yes, I know," says Gill, impatiently, "but you can't let him go, and he goes out and copies me again." "I don't think so, Dorian," says Morris. "As far as I'm concerned, you've still got six." "That's a lie!" shouts Gill. "Oh, you're losing your temper, Dorian," taunts Morris. Then he says, "Oh, thank you, detective," to the air. "Word reaches me that he's already been released." "Released?!" says Gill, shocked. He hangs up. "Released," he murmurs, clearly shaken. "He hung up!" says Morris to Monaghan, with mock surprise. They've shaken up the Strangler again...perhaps he'll make another mistake.Kate is at home, studying up on Jewish food, history and culture. A man arrives outside her door, with a large, elaborate food-keeper. He rings the doorbell; she goes to answer, checking through the peephole first. Poor Kate, with her memory for names, not faces, doesn't recognize Father McDowell standing there in a maître d uniform. She opens the door, keeping it on the chain, and says, "Yes?" "Miss Kate Palmer?" he asks, and when she affirms that she is, he says, "I'm from the Italian restaurant around the corner, I was asked by Mr. Morris Brummel to bring this to you." "What is it?" she asks. "Well," he replies, "I have some nice homemade spaghetti, and veal piccata with a little lemon juice, a salad, and spumoni, and café expresso...and last but not least, Valpolicella wine. Mr. Brummel sends it all with his love and regret that the lady has to eat alone." "Morris?" she says, agreeably surprised. "I'll be damned." And she lets him in. He asks if he might use the table on the dais to serve her, and she agrees. He pulls out a chair for her, and she sits down. He puts his food-keeper down, and looks her over the way a wolf might look at a wandering lamb.Morris is at home, with reports and files from the case spread all over the table. Mrs. Brummel comes in with a tray and begins to clear them off, and they begin to wrangle over whether he will eat a meatloaf sandwich. The phone rings, Morris answers...it's Monaghan. He tells Morris that Gill called again. "Why didn't he call me?" asks Morris, puzzled. "He left a number where you could call him, if you want to talk to him," says Monaghan, "555-3810." "My God, that's Kate!" says Morris, his face turning sick. "I'll send a car," says Monaghan. "No, no...subway's faster," says Morris, "Get over there...go, go, go!" He grabs his coat and tells Mrs. Brummel, "Call Kate and tell her I'm on my way." She starts to sputter and he shouts, "Just CALL her!" and leaves on the run.Gill is serving the nice dinner to Kate. The phone rings and she stands up. "Don't answer it," orders Gill. "It might be important," she says and goes to the phone. "I said, don't answer it!" he shouts, and in two leaps he's at the phone plug, and rips it from the wall. She stares at him in shock, as the truth dawns on her. "Why me?" she asks, softly. "Why don't you ask him," he replies. She takes a step backward, and he takes two steps toward her...then they're both running...she for the door, and he after her. He catches her before she can get out, but she is able to get away from him twice. But the third time she goes back to the door, he finally gets a good grip on her, and clamps his hand over her nose and mouth. She slowly slides to the floor as she loses consciousness.Monaghan and the boys are at the outside door, ringing the buzzer frantically. The super admits them and they run to Kate's apartment. Gill comes out shortly after, wiping his hands, and walks hurriedly away. A policeman in a car spots him, and turns around to follow. Morris arrives at Kate's apartment. It looks very like the crime scenes of the other five victims, with officers, technicians, and reporters already on scene. He dashes to the bathroom...but she's not there. Monaghan comes out of another room, and beckons to him. He goes inside...Kate is lying on her bed, eyes closed, a damp cloth on her forehead. She opens her eyes and looks at him...she's all right, except for the Strangler's finger marks on her neck. He sits by her side, she caresses his face...he kisses her hand...and they embrace.Outside, Morris speaks with Monaghan and another detective, who reports that a man was seen and followed as far as 44th and Sixth. They have cars in the area looking for him. Morris and Monaghan go to join the manhunt. Gill knows the district well, and is able to stay ahead of them for a while. But he is seen going down the alley to his private entrance, and the officers converge on the theatre. They gain entry to the lobby, where they are calmly greeted by a man above suspicious: the theatre's well-known owner. They ask if he saw or heard anyone; he replies that, no, it's been very quiet. They ask if they can search the theatre. He consents, even offers to give them a little more light. They search the place from basement to roof, while he calmly watches. They return to the lobby, and admit they found nothing. He bids them good night. As they leave, Morris pauses in front of a large portrait of a middle-aged woman in period costume. It is one of several in the lobby, of the same woman in different period costumes. "Rather a striking portrait of my mother, don't you think?" asks Gill. "Did you ever see her on stage?" "No," says Morris, "I missed that." "You missed something," Gill says softly, with pride. He watches the officers leave, then glances back at the portrait of his mother. The camera zooms in on her full, red, "Cupid's Bow" lips.Gill is in his office, drinking a toast to his mother. He stands in front of a bust of her, and recites her speech from Antony and Cleopatra, rapturously, with closed eyes. When he finishes, he looks up to Morris watching him from the doorway. "You surprise me," he says, "I thought you and I were finished." Morris replies, "We haven't even started." Gill tries to bluff his way through...but Morris has put the pieces together. He points out Gill's acess to a wardrobe department, and his penchant for accents. He taunts him about his mother, wonders what she really thought of him...and what she'd have thought of a freak that strangles women? He picks up a picture of Gill's mother from Gill's desk, and continues, "They all had the lipstick, didn't they? The very shape of your dear mother's lips. The very lips on all those portraits out in your lobby!" Morris asks for the key to the wardrobe department. "I don't have to give it to you," says Gill. "No," agrees Morris. "we can come back for it." "I don't want YOU to come back," says Gill, petulantly. He goes to the cupboard where the keys are kept. He holds the key out, Morris takes it and leaves the office.Morris goes downstairs to the stage level and down another set of stairs that goes under the stage. Gill watches from a window in his office, then takes his elevator to the stage level. He turns off all the lights, leaving only an eerie red glow from the exit signs. Morris realizes his danger, and comes up from beneath the stage with his gun drawn. As he moves cautiously across the stage, he is almost crushed by a heavy scenery flat, then nearly beaned by a light frame released from above. He sees a figure running in the red glow, and fires his gun at it. He glances behind him, and turns back in time to get a sandbag counterweight in the face, which knocks him out cold. A spotlight comes up and focuses on the stage. Gill staggers into the light, staggering, holding his side, which is bloody. He nearly falls, grabs hold of the counterweight rope and eases himself down to the stage. He drags himself over to where Morris is lying, and grabs Morris's gun. He lies there for a moment, his head resting on Morris's stomach. "Mr. Brummel, you're a better shot than I thought you were," he murmurs. He finally pulls himself up to a standing position, and looks out into the empty theatre. Hallucinating, he sees Mrs. Mulloy, there...and shouts at her in Father McDowell's voice. He also sees Mrs. Himmel, and addresses her in Hans Schultz's voice, punctuating his final soliliquy by firing shots into the air from Morris's gun. He slips on his own blood, and falls back on the stage. "Oh, help!" he murmurs...then in Dorian's voice he pleads, "Sweet Jesus...save me." He looks around for Morris, who has regained consciousness and is now standing among the empty audience seats, watching Gill, his expression impassive. "Mr. Brummel, do me a favor," says Gill, "Forgive me." Morris's expression doesn't change...no forgiveness here. "Puh-leeeeeeeze," begs Gill. Then he covers his face, and with a last, sobbing breath, dies. Monaghan and the other officers file back into the theatre and move up onto the stage. Morris turns and walks out of the theatre. In the lobby, he pauses between two of Gill's mother's portraits to look back into the theatre, at the last scene being played out on the stage. Then he goes out of the theatre altogether, onto the street, into the early morning light."
+],
+"summaries": [
+"A crafty serial killer plays a game of cat-and-mouse with a harried police detective trying to track him down."
+,
+"Christopher Gill is a psychopathic killer who uses various disguises to trick and strangle his victims. Moe Brummel is a single and harassed New York City police detective who starts to get phone calls from the strangler and builds a strange alliance as a result. Kate Palmer is a swinging, hip tour guide who witnesses the strangler leaving her dead neighbor's apartment and sets her sights on the detective. Moe's live-in mother wishes her son would be a successful Jewish doctor like his big brother."
+]
+}
+}
+,
+{
+"_index": "movies",
+"_type": "docs",
+"_id": "Ni_NAIUBmFo8GYv0bnQr",
+"_score": 7.838374,
+"_source": {
+"title": "A Tale of Two Cities",
+"year": 1980,
+"genders": [
+"Drama"
+,
+"History"
+,
+"Romance"
+],
+"score": 6.6,
+"directors": [
+"Jim Goddard"
+],
+"writers": [
+"Charles Dickens"
+,
+"John Gay"
+],
+"synopsis": [ ],
+"summaries": [
+"An ex-aristocrat from France and an alcoholic English lawyer find themselves crossing paths and in love with the same woman during the French Revolution."
+,
+"Dissolute barrister Sydney Carton (Chris Sarandon) becomes enchanted and then hopelessly in love with the beautiful Lucie Manette (Alice Krige). But Lucie loves and marries Charles Darnay (Chris Sarandon), and remains oblivious to Carton's undimmed devotion to her. When Darnay is ensnared in the deadly web of the French Revolution and condemned to die by the guillotine, Sydney Carton concocts a dangerous plot to free the husband of the woman he loves."
+]
+}
+}
+,
+{
+"_index": "movies",
+"_type": "docs",
+"_id": "VS_NAIUBmFo8GYv0bowz",
+"_score": 7.838374,
+"_source": {
+"title": "That Evening Sun",
+"year": 2009,
+"genders": [
+"Drama"
+],
+"score": 7,
+"directors": [
+"Scott Teems"
+],
+"writers": [
+"Scott Teems"
+,
+"William Gay"
+],
+"synopsis": [ ],
+"summaries": [
+"An aging Tennessee farmer returns to his homestead and must confront a family betrayal, the reappearance of an old enemy, and the loss of his farm."
+,
+"An aging farmer fights to keep the home that is rightfully his after fleeing from a nursing home and discovering that his son has leased the family farm to his old nemesis. Placed in a nursing home by his son and promptly forgotten, Abner Meecham (Hal Holbrook) realized that waiting to die was no way to live. Determined to enjoy his last days, Abner packed his bags and set his sights on the family farm. At least there he could die on his own land, in familiar surroundings. But Abner is in for a rude awakening, because upon returning home he discovers that his son has leased the farm to Lonzo Choat. Abner never cared much for Lonzo, and when Lonzo refuses to leave, Abner takes up residence in an old tenant shack on the property. Before long, their dispute becomes volatile, each man believing himself to be in the right, and refusing to back down from his position. Betrayed by his son and haunted by dreams of his beloved deceased wife, Abner draws a line in the sand in an attempt to reclaim his life. As threats are made and tension begins to brew, it's only a matter of time before the situation turns savage."
+]
+}
+}
+,
+{
+"_index": "movies",
+"_type": "docs",
+"_id": "NS_NAIUBmFo8GYv0bnUr",
+"_score": 7.7662044,
+"_source": {
+"title": "Liquid Sky",
+"year": 1982,
+"genders": [
+"Sci-Fi"
+,
+"Thriller"
+],
+"score": 6,
+"directors": [
+"Slava Tsukerman"
+],
+"writers": [
+"Slava Tsukerman"
+,
+"Anne Carlisle"
+,
+"Nina V. Kerova"
+],
+"synopsis": [ ],
+"summaries": [
+"A small, heroin seeking UFO lands on a Manhattan roof, observes a bizarre, drug addicted fashion model and sucks endorphin from her sexual encounters' brains."
+,
+"Invisible aliens in a tiny flying saucer come to Earth looking for heroin. They land on top of a New York apartment inhabited by a drug dealer and her androgynous, bisexual nymphomaniac lover, who's also a fashion model. The aliens soon find the human pheromones created in the brain during orgasm preferable to heroin, and the model's casual sex partners begin disappearing. This increasingly bizarre scenario's observed by a lonely woman in the building across the street, a German scientist who's following the aliens, and an equally androgynous, drug-addicted male model (both models are played by Anne Carlisle). Darkly funny and thoroughly weird."
+,
+"In New Yor City's East Village, a small flying saucer lands on the roof, seeking heroin. In the apartment, the cocaine addicted model, Margaret's an androgynous, promiscuous, bisexual modell llives with her lover, the drug dealer Adrian. Margaret has sex with many partners in exchange for drugs. The aliens discover the sensation of orgasm's equivalent to heroin, and they suck the brains from Margaret's lovers, killing them first, then making their bodies disappear. Meanwhile, a German scientist's chasing the ETs, and watches the goings on from a building across from Margaret's."
+,
+"Downtown NYC fashion model, Margaret seeks fame, but who's in accordance codependent drug-fuelled relationship with her dealer/girlfriend.. Afterhaving sec with a man who printed get coke., he vanishes into thin air, and she soon realises that a mysterious force is killing everyone who has sex with her. Not knowing our carrying how our why, Margaret sets out to use this for revenge Meanwhile, a German scientist who knows what's going on; aliens who feed on heron find the same effect from human endorphins released during pleasure, and he attempts to warn her that she, too is in danger."
+]
+}
+}
 ]
 },
 "aggregations": {
 "year_duplicate": {
 "doc_count_error_upper_bound": 0,
-"sum_other_doc_count": 16,
+"sum_other_doc_count": 13,
 "buckets": [
 {
 "key": 2009,
-"doc_count": 25
+"doc_count": 24
 }
 ,
 {
 "key": 2007,
-"doc_count": 24
+"doc_count": 22
 }
 ,
 {
@@ -1677,7 +1653,7 @@
 ,
 {
 "key": 2011,
-"doc_count": 16
+"doc_count": 15
 }
 ,
 {
@@ -1686,27 +1662,22 @@
 }
 ,
 {
-"key": 2005,
-"doc_count": 14
-}
-,
-{
-"key": 2014,
-"doc_count": 14
-}
-,
-{
 "key": 2001,
 "doc_count": 13
 }
 ,
 {
-"key": 2004,
+"key": 2014,
 "doc_count": 13
 }
 ,
 {
-"key": 1999,
+"key": 2004,
+"doc_count": 12
+}
+,
+{
+"key": 2005,
 "doc_count": 12
 }
 ,
@@ -1716,12 +1687,12 @@
 }
 ,
 {
-"key": 1996,
+"key": 1998,
 "doc_count": 11
 }
 ,
 {
-"key": 1998,
+"key": 1999,
 "doc_count": 11
 }
 ,
@@ -1731,17 +1702,22 @@
 }
 ,
 {
-"key": 2015,
-"doc_count": 11
-}
-,
-{
 "key": 1968,
 "doc_count": 10
 }
 ,
 {
+"key": 1996,
+"doc_count": 10
+}
+,
+{
 "key": 2008,
+"doc_count": 10
+}
+,
+{
+"key": 2015,
 "doc_count": 10
 }
 ,
@@ -1756,11 +1732,6 @@
 }
 ,
 {
-"key": 1980,
-"doc_count": 8
-}
-,
-{
 "key": 2000,
 "doc_count": 7
 }
@@ -1771,7 +1742,7 @@
 }
 ,
 {
-"key": 1983,
+"key": 1980,
 "doc_count": 6
 }
 ,
@@ -1781,12 +1752,7 @@
 }
 ,
 {
-"key": 1976,
-"doc_count": 5
-}
-,
-{
-"key": 1984,
+"key": 1983,
 "doc_count": 5
 }
 ,
@@ -1796,7 +1762,12 @@
 }
 ,
 {
-"key": 1972,
+"key": 1976,
+"doc_count": 4
+}
+,
+{
+"key": 1984,
 "doc_count": 4
 }
 ,
@@ -1816,7 +1787,7 @@
 }
 ,
 {
-"key": 1977,
+"key": 1972,
 "doc_count": 3
 }
 ,
@@ -1832,11 +1803,6 @@
 ,
 {
 "key": 1982,
-"doc_count": 3
-}
-,
-{
-"key": 1989,
 "doc_count": 3
 }
 ,
@@ -1876,12 +1842,17 @@
 }
 ,
 {
-"key": 1978,
+"key": 1977,
 "doc_count": 2
 }
 ,
 {
 "key": 1987,
+"doc_count": 2
+}
+,
+{
+"key": 1989,
 "doc_count": 2
 }
 ,
@@ -1907,6 +1878,11 @@
 ,
 {
 "key": 1930,
+"doc_count": 1
+}
+,
+{
+"key": 1933,
 "doc_count": 1
 }
 ]

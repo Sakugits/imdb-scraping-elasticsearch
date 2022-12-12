@@ -45,7 +45,7 @@ Consulta 3: Películas de temática LGBTQ disponibles en la colección. Además 
 {
   "query": {
     "query_string": {
-      "query": "LGBT~ gay lesbian trans transexual bisexual queer"
+      "query": "LGBT~ gay lesbian transexual bisexual queer"
     }
   },
   "size": 50,
