@@ -45,7 +45,7 @@ Consulta 3: Películas de temática LGBTQ disponibles en la colección. Además 
 {
   "query": {
     "query_string": {
-      "query": "LGBT~ gay lesbian transexual bisexual queer"
+      "query": "LGBT~ homosexual gay lesbian transexual bisexual queer"
     }
   },
   "size": 50,
@@ -60,6 +60,7 @@ Consulta 3: Películas de temática LGBTQ disponibles en la colección. Además 
     }
   }
 }
+
 
 Consulta 4: Películas que traten sobre políticos corruptos en Europa y Estados Unidos.
 
