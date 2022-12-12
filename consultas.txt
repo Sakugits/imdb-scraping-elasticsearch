@@ -96,13 +96,13 @@ Consulta 4: Películas que traten sobre políticos corruptos en Europa y Estados
 {
 	"query": {
 		"simple_query_string": {
-			"query": "((politician~3 | president | secretary | senator | major) + (corrupt | corrupted) +
+			"query": "((politician~3 | president | secretary | senator | mayor) + (corrupt | corrupted) +
 			( \"New York\" | \"Los Angeles\" | \"San Francisco\"| \"Seattle\"| \"Boston\"
 			| \"Philadelphia\"| \"Washington D.C.~1\"| \"Atlanta\"| \"Miami\"| \"New Orleans\"
 			| \"Las Vegas\"| \"Dallas\"| \"Nashville\"| \"Chicago\"| \"Detroit\"
 			| \"USA\"| \"UEA\"| \"United States of America\"| \"United States\"| \"U.S.A\"))
 			|
-			((politician~3 | president | secretary | senator | major) + (corrupt | corrupted) + 
+			((politician~3 | president | secretary | senator | mayor) + (corrupt | corrupted) + 
 			( \"London\" | \"Paris\" | \"Istanbul\"| \"Rome\"| \"Amsterdam\"
 			| \"Barcelona\"| \"Prague\"| \"Vienna\"| \"Milan\"| \"Athens\"
 			| \"Berlin\"| \"Moscow\"| \"Venice\"| \"Madrid\"| \"Dublin\"
