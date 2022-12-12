@@ -1,0 +1,228 @@
+{
+	"_index": "movies",
+	"_type": "docs",
+	"_id": "7y_NAIUBmFo8GYv0bpA1",
+	"_version": 1,
+	"_seq_no": 10610,
+	"_primary_term": 1,
+	"found": true,
+	"_source": {
+		"title": "Honest Man: The Life of R. Budd Dwyer",
+		"year": 2010,
+		"genders": [
+			"Documentary",
+			"Biography",
+			"Drama"
+		],
+		"score": 7.2,
+		"directors": [
+			"James Dirschberger"
+		],
+		"writers": [
+			"Adam Wroblewski",
+			"James Dirschberger"
+		],
+		"synopsis": [
+			"Honest Man is a movie about politics and corruption, suicide and survival. Four years in the making, it explores the scandal that led an honest, hard-working man to take his own life.R. Budd Dwyer, a farm boy from the northwest of the state, was a very successful Pennsylvania politician. In 1980, on the strength of his squeaky-clean reputation, he was elected to the statewide office of Treasurer.Dwyer soon began to run afoul of Governor Dick Thornburgh, rejecting some of his padded expense vouchers and questioning the use of state troopers to transport his children to boarding school.Shortly thereafter, prosecutor James West, Governor Thornburgh's protege, indicted Budd on bribery charges. William T. Smith, a lawyer for a company called CTA, claimed to have met with Budd and offered him $300,000 to give his client a state contract.Dwyer was convicted on the strength of Smith's testimony. The day before his sentencing, he shot himself at a press conference while television cameras rolled. Over twenty years later, that shocking video is still circulating on the Internet.Was Dwyer venal, or a victim? Did he kill himself because he couldn't live with being guilty--or because he couldn't live with being innocent?The film features exclusive new interviews with Dwyer's family, friends, and colleagues, including Dwyer's widow Joanne and William T. Smith, whose testimony convicted Dwyer. This portrait of a man swept up in the turbulent and cutthroat political world of the 1980s raises important questions about Dwyer's presumed guilt."
+		],
+		"summaries": [
+			"Honest Man: the Life of R. Budd Dwyer is a movie about politics and corruption, suicide and survival. Four years in the making, it explores the scandal that led an honest, hard-working man to take his own life. This independently produced feature-length documentary follows Budd Dwyer, a Pennsylvania politician who infamously committed suicide at a televised press conference. The film chronicles Dwyer's meteoric rise to political power and examines the bribery scandal and subsequent trial that pushed him to his breaking point. Honest Man also delves into the controversy and consequences of the uncensored airing of Dwyer's death on television stations worldwide. Honest Man reveals a story that has remained untold for over 24 years. The film features exclusive new interviews, including William Smith, the man whose testimony convicted Dwyer, and Dwyer's widow Joanne--her last interview before her death in 2009. Was Dwyer venal, or a victim? Did he kill himself because he couldn't live with being guilty, or because he couldn't live with being innocent? Honest Man allows audiences to judge for themselves."
+		]
+	}
+}
+
+{
+	"_index": "movies",
+	"_type": "docs",
+	"_id": "yS_NAIUBmFo8GYv0bm8n",
+	"_version": 1,
+	"_seq_no": 2124,
+	"_primary_term": 1,
+	"found": true,
+	"_source": {
+		"title": "La pecora nera",
+		"year": 1968,
+		"genders": [
+			"Comedy"
+		],
+		"score": 6.4,
+		"directors": [
+			"Luciano Salce"
+		],
+		"writers": [
+			"Ennio De Concini",
+			"Luciano Salce",
+			"Adriano Baracco"
+		],
+		"synopsis": [],
+		"summaries": [
+			"Mario and Filippo are two twin brothers, the honorable one want to bring morality back into Italian political life, as president of the Commission for the investigation of corruption. The other brother is a cynical trickster."
+		]
+	}
+}
+
+{
+	"_index": "movies",
+	"_type": "docs",
+	"_id": "qS_NAIUBmFo8GYv0bpI1",
+	"_version": 1,
+	"_seq_no": 11052,
+	"_primary_term": 1,
+	"found": true,
+	"_source": {
+		"title": "Fools on the Hill",
+		"year": 2012,
+		"genders": [
+			"Documentary"
+		],
+		"score": 8.1,
+		"directors": [
+			"Jed Rigney"
+		],
+		"writers": [
+			"Jed Rigney"
+		],
+		"synopsis": [],
+		"summaries": [
+			"American politicians don't write the laws or read the laws and then they pass the laws. Disgusted with the corruption, an average businessman exposes incompetence and greed while trying to single-handedly fix how laws are passed."
+		]
+	}
+}
+
+{
+	"_index": "movies",
+	"_type": "docs",
+	"_id": "BC_NAIUBmFo8GYv0bpM2",
+	"_version": 1,
+	"_seq_no": 11143,
+	"_primary_term": 1,
+	"found": true,
+	"_source": {
+		"title": "Won't Back Down",
+		"year": 2012,
+		"genders": [
+			"Drama"
+		],
+		"score": 6.4,
+		"directors": [
+			"Daniel Barnz"
+		],
+		"writers": [
+			"Brin Hill",
+			"Daniel Barnz"
+		],
+		"synopsis": [],
+		"summaries": [
+			"Two determined mothers\u00ad, one a teacher, look to transform their children's failing inner city school. Facing a powerful and entrenched bureaucracy, they risk everything to make a difference in the education and future of their children.",
+			"Two determined mothers with children who are failing in an inner city school in Pittsburgh join forces to take back the school, and turn it into a place of learning. But before they can change the school for the better, they must first battle the parents, the school board, and the teachers union. Because this is for their children, they won't back down from this enormous challenge.",
+			"Two determined mothers, a car dealer/bartender (Maggie Gyllenhaal) and a teacher (Viola Davis), look to transform their children's failing inner city school. Facing a powerful and entrenched bureaucracy and corruption from the teachers' union president (Holly Hunter) and the school's principal (Bill Nunn), they risk everything to make a difference in the education and future of their children."
+		]
+	}
+}
+
+{
+	"_index": "movies",
+	"_type": "docs",
+	"_id": "Gy_NAIUBmFo8GYv0bnYr",
+	"_version": 1,
+	"_seq_no": 3742,
+	"_primary_term": 1,
+	"found": true,
+	"_source": {
+		"title": "Remo Williams: The Adventure Begins",
+		"year": 1985,
+		"genders": [
+			"Action",
+			"Adventure",
+			"Comedy"
+		],
+		"score": 6.4,
+		"directors": [
+			"Guy Hamilton"
+		],
+		"writers": [
+			"Richard Sapir",
+			"Warren Murphy",
+			"Christopher Wood"
+		],
+		"synopsis": [
+			"Sam Macon (Fred Ward) is an NYPD cop. One night, he breaks up a mugging, and then is pushed into the river in his car.Sometime later, he awakes in a hospital, with a new face. MacCleary (J.A. Preston), the man driving the vehicle that forced Macon into the river, tells him his new name is Remo Williams (based on a name on a bedpan), and that Remo now works for an organization that doesn't officially exist. MacCleary says Remo is ideal because he has no family and has military background. Remo steals an ambulance, but Mac is in it. He takes Remo to meet Harold Smith (Wilford Brimley), the head of the organization CURE.Smith tells Remo that the government is corrupt, and Remo will be their troubleshooter. Smith has computer access to all networks, and Mac is his liaison. Mac takes Remo to a building and tells him to kill the man inside, handing him a pistol. Remo slips in and find an elderly Korean man, but no one else. He realizes the Korean is his target and tries to kill him, but he's too fast. The man is Chiun, and is his trainer. Chiun is able to dodge every shot that Remo aims at him and eventually disarms him. He moves with amazing speed, throwing Remo into a nearby piano. Mac enters and asks for a quick assessment -- Chiun tells him that Remo is in horrible shape, has little hand-to-hand ability and poor reflexes but there is a glimmer of hope.Smith researches George Grove (Charles Cioffi), a defense contractor with criminal suspicions, especially on the HARP defense system. He notices someone trying to access the same information - Major Rayner Fleming (Kate Mulgrew). She tells her boss, General Scott Watson (George Coe), and reminds him that she will be attending a weapons demonstration by Grove.Remo begins his training. Chiun tells him he is a practitioner of an ancient (fictional) martial art, sinanju. His demeanor is rude and harsh, insulting Remo at every turn and restricting his diet to rice. However, Remo gradually comes along. They work on balance and breathing, and mutual respect begins to develop, although Chiun won't admit it. Remo gets good enough to dodge bullets and run without leaving tracks.The Grove weapons demonstration shows grave flaws with the weapons. One of the soldiers is killed during the exercise when his weapon (a variation of the Steyr AUG) backfires. Fleming is suspicious, especially after she finds the weapon's bolt and notices that is was mangled during the backfire. Grove tells General Watson to bury the report. Grove defends himself when asked about HARP, mentioning the CD-18 demonstration planned for the following week at Mount Promise. Grove gets annoyed with Fleming, and asks Stone (Patrick Kilpatrick) to trail her. Stone gets photos of Fleming, Remo and Mac, and Grove orders him to kill Remo. Remo notices Stone's diamond dental work, too. Remo uses his new skills to defeat several men hired by Stone atop the Statue of Liberty, but Stone escapes. Remo complains to Smith and Mac, and they tell him they all have an escape plan - Remo's is death by Chiun. He's obviously angered by the news, and walks out on Chiun.Mac and Remo infiltrate a Grove warehouse, battling extremely clever dogs and ravenous rats. Remo finds a satellite, which is subsequently destroyed by lasers, alerting the guards. They escape, but Mac is shot in the back. Mac gives Remo a computer disk for Smith to analyze, and is captured, but commits suicide before telling Grove any information of importance.Smith realizes HARP is a fake and a waste of resources and money and tells Remo to go after Grove. He meets Fleming at Mount Promise, and they are locked in a steel gas chamber by Wilson (Michael Pataki), one of Grove's goons. After watching the two fall nearly unconscious from the gas, Stone dons a mask and walks into the chamber to finish Remo off. Remo grapples with him briefly, ripping his mask off and using Stone's diamond tooth to cut the glass to escape.During their escape from the facility, they find Chiun and steal a truck with no brakes. Remo and Fleming jump out, but Chiun cannot open the door. He's dazed, but otherwise unhurt, and inadvertently calls Remo \"my son\". Remo continues his mission, calling Chiun \"little father\".The military chase Remo and starts firing at him. Remo rides a tree trunk being pulled through the woods on cable. He drops the log and overturns the jeep with Grove and Watson, then races to the lake to escape. He dodges bullets fired by Grove and disarms him. He tosses Grove on the Jeep and lights in on fire, walking away. It explodes, killing Grove. On the beach, Remo finds Fleming who tells him Chiun went looking for him. They see Chiun, surrounded by troops. Suddenly Chiun runs across the water to the dock, telling Remo \"You must run VERY fast!\" Fleming asks who they are and Remo responds by saying \"Would you believe we're the good guys?\" They sail off, Chiun saying they must hurry so he can catch the latest episode of his favorite soap opera."
+		],
+		"summaries": [
+			"An officially \"dead\" cop is trained to become an extraordinary unique assassin in service of the US President.",
+			"An NYPD cop is 'killed' in an accident. The death is faked, and he is inducted into the organization CURE, dedicated to preserving the constitution by working outside of it. Remo is to become the enforcement wing (assassin) of CURE, and learns an ancient Korean martial art from Chiun, the Master of Sinanju. Based on the popular pulp series \"The Destroyer,\" by Richard Sapir and Warren Murphy.",
+			"A cop who answers a call is ambushed. The next day he is buried. But in reality he is in a hospital and his appearance has been altered. He is then told by a man named McCleary that he now belongs to \"them\". \"Them\" being CURE an organization whose job is to battle corruption. They give him the new name of Remo Williams. He then meets the head of CURE Harold Smith, who spends most of his time sitting in front of a copmuter and perusing over reports of individuals that have to be dealt with. They then give him to Chiun, a Shinanju master, which is the art of killing someone and making it seem like an accident or natural causes. Chiun's regimen is hard on him. Smith then discovers a man named Grove, who is a defense contractor. It seems that whenever there's a case against him, the key witnesses and investigators disappear. Currently a military investigator is pursuing him about his new project which for some reason, he is tight lipped about. Smith sends McCleary and Remo to help her but Grove discovers them and wanting to know about them decides to stir things up. He sends some people to take Remo out but he outwits them. And when he tells Smith about it, Smith doesn't care who then tells him that unless they have more evidence against Grove they can't do anything and if they are about to be exposed, they have to disappear. And while Smith and McCleary have made arrangements for their demise, Remo is told that Chiun will take him out. So he and McCleary have to get the evidence they need."
+		]
+	}
+}
+
+{
+	"_index": "movies",
+	"_type": "docs",
+	"_id": "Ti_NAIUBmFo8GYv0bnEp",
+	"_version": 1,
+	"_seq_no": 2513,
+	"_primary_term": 1,
+	"found": true,
+	"_source": {
+		"title": "The Pied Piper",
+		"year": 1972,
+		"genders": [
+			"Drama",
+			"Fantasy",
+			"Musical"
+		],
+		"score": 6.4,
+		"directors": [
+			"Jacques Demy"
+		],
+		"writers": [
+			"Andrew Birkin",
+			"Jacques Demy",
+			"Mark Peploe"
+		],
+		"synopsis": [],
+		"summaries": [
+			"In 1349, while the Black Plague threatens Germany, the town of Hamelin hires a wandering pied piper (Donovan) to lure rats away with his magic pipe, but then refuses to pay for his services, causing him to lure the town's children away.",
+			"Greed, corruption, ignorance, stupidity, and disease. Midsummer, 1349: the Black Death reaches northern Germany. A family of strolling players travel to Hamelin for the Mayor's daughter's wedding to the Baron's son. He wants her dowry to pay his army, while his father taxes the people to build a cathedral he thinks will save his soul. A local Jewish apothecary tries to find a treatment for the plague. The Priests charge him with heresy and witchcraft. A mysterious minstrel (Donovan), who joined up with the players and who has soothed the Mayor's daughter with his music, promises to rid the town of rats for a fee. The Mayor agrees, then reneges after the rats have been dealt with. In the morning, the plague, the Jew's execution, and the Piper's revenge come at once."
+		]
+	}
+}
+
+{
+	"_index": "movies",
+	"_type": "docs",
+	"_id": "LS_NAIUBmFo8GYv0bnYs",
+	"_version": 1,
+	"_seq_no": 3760,
+	"_primary_term": 1,
+	"found": true,
+	"_source": {
+		"title": "The Toxic Avenger",
+		"year": 1984,
+		"genders": [
+			"Action",
+			"Comedy",
+			"Horror"
+		],
+		"score": 6.2,
+		"directors": [
+			"Michael Herz",
+			"Lloyd Kaufman"
+		],
+		"writers": [
+			"Lloyd Kaufman",
+			"Joe Ritter",
+			"Gay Partington Terry"
+		],
+		"synopsis": [],
+		"summaries": [
+			"Tromaville has a monstrous new hero. The Toxic Avenger is born when meek mop boy Melvin falls into a vat of toxic waste. Now evildoers will have a lot to lose.",
+			"In Tromaville, Melvin works in a health club with his bucket and mop as a janitor. The sadistic and bullies Bozo and Slug and their girlfriends Julie and Wanda, who love to hit-and-run people in empty streets, play a cruel prank in Melvin and he falls off the window in a barrel of toxic wastes in a truck parked in front of the health club. He turns into the strong monster Toxic Avenger and protects the town from criminals. He saves the blind Sara from a rape and soon they become sweethearts. At the same time that he is worshiped by the residents, the corrupt Mayor Peter Belgoody and his gang want to destroy him.",
+			"This is the story of Melvin, the Tromaville Health Club mop boy, who inadvertently and naively trusts the hedonistic, contemptuous and vain health club members, to the point of accidentally ending up in a vat of toxic waste. The devastating results then have a transmogrification effect, his alter ego is released, and the Toxic Avenger is born, to deadly and comical results. The local mop boy is now the local Superhero, the saviour of corruption, thuggish bullies and indifference. Troma classic with good make-up effects and stunts, a pleasant surprise indeed.",
+			"Melvin is a social misfit who works in the Tromaville Health Club. He is always suffering the abuse of two bullies and their respective girlfriends and the four are also murderers. But all the abuse is going to end when Melvin accidentally falls into some barrels with toxic material. Now he is \"The Toxic Avenger\" and soon he will be the hero of Tromaville and a menace to the corrupt mayor."
+		]
+	}
+}
+
+
